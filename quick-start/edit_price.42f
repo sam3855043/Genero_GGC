@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Form name="edit_price" build="3.21.01" text="Edit product price" width="38" height="2">
+  <Grid width="38" height="2">
+    <Label text="Product name" posY="0" posX="2" gridWidth="12"/>
+    <FormField name="formonly.name" colName="name" fieldId="0" sqlTabName="formonly" noEntry="1" tabIndex="1">
+      <Label width="20" posY="0" posX="17" gridWidth="20"/>
+    </FormField>
+    <Label text="Product price" posY="1" posX="2" gridWidth="14"/>
+    <FormField name="formonly.price" colName="price" fieldId="1" sqlTabName="formonly" tabIndex="2">
+      <Edit width="20" posY="1" posX="17" gridWidth="20"/>
+    </FormField>
+  </Grid>
+  <RecordView tabName="formonly">
+    <Link colName="name" fieldIdRef="0"/>
+    <Link colName="price" fieldIdRef="1"/>
+  </RecordView>
+</Form>

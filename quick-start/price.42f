@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Form name="price" build="3.21.01" text="Product and prices" width="63" height="6">
+  <Grid width="63" height="6">
+    <Table pageSize="1" name="prices" doubleClick="edit" height="2" width="62" posY="0" posX="1" gridWidth="62" gridHeight="4" tabName="sr_prices">
+      <TableColumn text="Product name" name="formonly.name" colName="name" fieldId="0" sqlTabName="formonly" tabIndex="1">
+        <Edit width="19" comment="Product name" scroll="1"/>
+      </TableColumn>
+      <TableColumn text="Price" name="formonly.price" colName="price" fieldId="1" sqlTabName="formonly" tabIndex="2">
+        <Edit width="38" comment="Price" scroll="1"/>
+      </TableColumn>
+    </Table>
+    <Label text="Preview:" posY="5" posX="1" gridWidth="9"/>
+    <FormField name="formonly.photo" colName="photo" fieldId="2" sqlTabName="formonly" noEntry="1" tabIndex="3">
+      <Image width="15" posY="5" posX="11" gridWidth="15"/>
+    </FormField>
+    <Label text="Image:" posY="5" posX="32" gridWidth="7"/>
+    <Image width="14" image="frame-4js.jpg" posY="5" posX="40" gridWidth="14"/>
+  </Grid>
+  <RecordView tabName="formonly">
+    <Link colName="name" fieldIdRef="0"/>
+    <Link colName="price" fieldIdRef="1"/>
+    <Link colName="photo" fieldIdRef="2"/>
+  </RecordView>
+</Form>
