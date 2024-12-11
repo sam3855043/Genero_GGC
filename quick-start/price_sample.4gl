@@ -26,6 +26,8 @@ MAIN
         CALL ggc.play()
         DISPLAY 'TT',TT
     END WHILE
+
+    
     #CALL errortlog("msg.message:" || msg.message || ".")
     CALL ggc.end()
     CALL errorlog('test')
