@@ -1,0 +1,52 @@
+#!/bin/ksh
+######
+# Replay application by GGC (Genero Ghost Client)
+######
+
+PW=`pwd`
+rm -rf ~/.ggc
+mkdir ~/.ggc
+cp $UTL/bin/log.properties ~/.ggc/.
+
+if [ -z $1 ] ; then
+  echo "Usage:   r.replay prog_name scenario_id"
+  echo "Example: r.replay azzi900 test_insert"
+  exit
+fi
+
+FGLSERVER=10.40.200.8;export FGLSERVER
+cf1=`echo $1|cut -c1-3`
+
+if [ -z $2 ] ; then
+   filename=${1}.scio
+   cd $cf1/scn
+   if [ -s $filename ] ; then
+echo 'MODE: under ${1}.scio '
+      exec < $filename
+      while read line
+      do
+         cd $cf1/scn
+         cf3=${1}_${line}
+         cf2="fglrun ../42r/${1}.42r"
+echo ${cf3}
+         r.cs ${cf3}
+         $FGLRUN ${cf3} tcp --speed-ratio 0 --working-directory $(pwd) --command-line '${cf2}' 
+   
+         count=$(($count+1))
+      done
+      cd $PW
+      exit
+   fi
+fi
+
+cd $cf1/scn
+cf3=${1}_${2}
+cf2="fglrun ../42r/${1}.42r"
+r.cs ${cf3}
+$FGLRUN ${cf3} tcp --speed-ratio 0 --working-directory $(pwd) --command-line ${cf2} 
+
+stus=$?
+cd $PW
+
+exit $stus
+

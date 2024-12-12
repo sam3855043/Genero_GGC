@@ -1,4 +1,5 @@
-# Genero_ggc my sample enviroment
+# Genero_ggc my sample follow step by step 
+ENVIROEMENT:
   . /u1/genero/ggc/envggc
 # GGCGEN
 COMMAND: 
