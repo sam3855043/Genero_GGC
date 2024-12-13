@@ -24,3 +24,16 @@ COMMAND:
  - ggcadmin startbdlserver & <br>
  - fglrun price_sample tcp --command-line "fglrun price"
 
+# RUN on GAS
+ - gasadmin gar --deploy-archive ggc-quick-start.gar
+ - gasadmin gar --enable-archive ggc-quick-start.gar
+ - add price.xcf in as.xcf
+ - please add the following xml to toptst.xcf, you can check toptst.xcf as sample
+ - ```
+    <GROUP Id="ggc"> '/u1/genero/ggc/src/quick-start</GROUP> 
+## httpdispatch testing 
+ - fglrun price_sample.42m ua --url http://{hostip}:{port}/ua/r/price
+## fastcgidispatch testing
+ - fglrun price_sample.42m ua --url http://{hostip}/ua/r/price
+## Detail please check the manual 
+ - https://4js.com/online_documentation/fjs-ggc-manual-html/#ggc-topics/t_ggc_quick_start_guide.html

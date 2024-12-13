@@ -15,3 +15,7 @@ COMMAND:
  - ggcadmin startbdlserver & <br>
  - fglrun azzi085_test tcp --command-line "fglrun ${AZZ}/42r/azzi085.42r"
 
+
+https://4js.com/online_documentation/fjs-ggc-manual-html/#ggc-topics/t_ggc_quick_start_guide.html
+https://4js.com/online_documentation/fjs-gas-manual-html/#gas-topics/t_gas_packaging_create_manifest_file.html
+https://4js.com/online_documentation/fjs-gas-manual-html/#gas-topics/t_gas_garchive_deploy_with_gasadmin.html

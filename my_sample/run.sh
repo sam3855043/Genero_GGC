@@ -1,0 +1,10 @@
+fglrun azzi800_test tcp --command-line "fglrun ${AZZ}/42r/azzi800.42r" >1.log & #1
+fglrun azzi800_test tcp --command-line "fglrun ${AZZ}/42r/azzi800.42r" >2.log & #2
+fglrun azzi800_test tcp --command-line "fglrun ${AZZ}/42r/azzi800.42r" >3.log & #3
+fglrun azzi800_test tcp --command-line "fglrun ${AZZ}/42r/azzi800.42r" >4.log & #4
+#fglrun azzi800_test tcp --command-line "fglrun ${AZZ}/42r/azzi800.42r" >5.log & #5
+#fglrun azzi800_test tcp --command-line "fglrun ${AZZ}/42r/azzi800.42r" >6.log & #6
+#fglrun azzi800_test tcp --command-line "fglrun ${AZZ}/42r/azzi800.42r" >7.log & #7
+#fglrun azzi800_test tcp --command-line "fglrun ${AZZ}/42r/azzi800.42r" >8.log & #8
+#fglrun azzi800_test tcp --command-line "fglrun ${AZZ}/42r/azzi800.42r" >9.log & #9
+#fglrun azzi800_test tcp --command-line "fglrun ${AZZ}/42r/azzi800.42r" >10.log & #10

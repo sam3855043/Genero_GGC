@@ -6,31 +6,31 @@ IMPORT os
 IMPORT util
 MAIN
     DEFINE TT INTEGER
-    CALL startlog("/u1/usr/tiptop/gcc_test/Genero_gcc/price_sample-" || fgl_getpid() || ".log")
+    #CALL startlog("/u1/usr/tiptop/gcc_test/Genero_gcc/price_sample-" || fgl_getpid() || ".log") --> run batch will error
     CALL ggc.setApplicationName("price")
     CALL ggc.parseOptions()
     CALL ggc.timer()
 
     # Register scenario functions
-    #CALL ggc.registerScenario(FUNCTION play_0)
-    #CALL ggc.registerScenario(FUNCTION play_1)
-    #CALL ggc.registerScenario(FUNCTION play_2)
+    CALL ggc.registerScenario(FUNCTION play_0)
+    CALL ggc.registerScenario(FUNCTION play_1)
+    CALL ggc.registerScenario(FUNCTION play_2)
     CALL ggc.registerScenario(FUNCTION play_3)
     # Start execution and exits when the scenario ends
     # Exit status is 1 in case of error, 0 on success.
 
-    DISPLAY "TT",TT
-    LET TT = 0
-    WHILE TT < 5
-        LET TT = TT + 1 
+    #DISPLAY "TT",TT
+    #LET TT = 0
+    #WHILE TT < 5
+    #    LET TT = TT + 1 
         CALL ggc.play()
-        DISPLAY 'TT',TT
-    END WHILE
+    #    DISPLAY 'TT',TT
+    #END WHILE
 
     
     #CALL errortlog("msg.message:" || msg.message || ".")
     CALL ggc.end()
-    CALL errorlog('test')
+    #CALL errorlog('test')
 END MAIN
 
 # Scenario price_sample id : 0
