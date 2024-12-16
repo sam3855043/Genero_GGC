@@ -1,4 +1,4 @@
-fglrun azzi800_test tcp --command-line "fglrun ${AZZ}/42r/azzi800.42r" >1.log & #1
+fglrun azzi800_test tcp  --command-line fglrun ${AZZ}/42r/azzi000.42r >1.log & #1
 fglrun azzi800_test tcp --command-line "fglrun ${AZZ}/42r/azzi800.42r" >2.log & #2
 fglrun azzi800_test tcp --command-line "fglrun ${AZZ}/42r/azzi800.42r" >3.log & #3
 fglrun azzi800_test tcp --command-line "fglrun ${AZZ}/42r/azzi800.42r" >4.log & #4
