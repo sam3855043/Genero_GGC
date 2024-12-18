@@ -1,0 +1,4111 @@
+{
+  "logType": "gbcLog",
+  "runDate": "2024-12-17T01:49:10.082Z",
+  "gbcInfos": {
+    "version": "5.00.07.dsc5",
+    "build": "202411221517",
+    "platformName": "browser",
+    "protocolType": "ua",
+    "activeTheme": "default",
+    "availableThemes": [
+      {
+        "name": "default",
+        "title": "Desktop Compact",
+        "conditions": [
+          "isBrowser",
+          "isDesktop"
+        ]
+      },
+      {
+        "name": "desktop",
+        "title": "Desktop",
+        "conditions": [
+          "isBrowser",
+          "isDesktop"
+        ]
+      },
+      {
+        "name": "desktop_dark",
+        "title": "Desktop Dark",
+        "conditions": [
+          "isBrowser",
+          "isDesktop"
+        ]
+      },
+      {
+        "name": "compact_dark",
+        "title": "Desktop Compact Dark",
+        "conditions": [
+          "isBrowser",
+          "isDesktop"
+        ]
+      },
+      {
+        "name": "highcontrast",
+        "title": "High Contrast",
+        "conditions": [
+          "isBrowser",
+          "isDesktop"
+        ]
+      }
+    ],
+    "isSideBarVisible": false,
+    "sideBarSize": 40,
+    "debugMode": false
+  },
+  "browserInfos": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "os": "Win32",
+    "activeLanguage": "zh-TW",
+    "availableLanguages": [
+      "zh-TW",
+      "zh",
+      "en-US",
+      "en"
+    ],
+    "dimension": {
+      "width": 1920,
+      "height": 911
+    },
+    "url": "http://10.40.41.189/wtopprd/ua/r/demo?recordgbclog=1"
+  },
+  "themeVariables": {
+    "theme-primary-color": "white",
+    "theme-primary-background-color": "#1976d2",
+    "theme-primary-emphasis-color": "#1e88e5",
+    "theme-primary-emphasis-background-color": "#1e88e5",
+    "theme-primary-faded-background-color": "#bbdefb",
+    "theme-secondary-color": "#212121",
+    "theme-secondary-faded-color": "rgba(33, 33, 33, 0.54)",
+    "theme-secondary-background-color": "whitesmoke",
+    "theme-field-background-color": "#ffffff",
+    "theme-alternate-row-background-color": "whitesmoke",
+    "theme-header-color": "whitesmoke",
+    "theme-separator-color": "#e0e0e0",
+    "theme-disabled-color": "rgba(33, 33, 33, 0.54)",
+    "theme-disabled-background-color": "#eeeeee",
+    "theme-field-border-color": "#e0e0e0",
+    "theme-overlay-background-color": "rgba(33, 33, 33, 0.26)",
+    "theme-message-background-color": "#424242",
+    "theme-error-background-color": "#f44336",
+    "theme-sidebar-background-color": "#616161",
+    "theme-sidebar-title-color": "#ffffff",
+    "theme-sidebar-settings-color": "#ffffff",
+    "theme-secondary-alternative-background-color": "#ffffff",
+    "theme-field-disabled-background-color": "#eeeeee",
+    "theme-field-readonly-background-color": "#eeeeee",
+    "theme-placeholder-color": "rgba(33, 33, 33, 0.54)",
+    "theme-selection-text-color": "white",
+    "theme-selection-background-color": false,
+    "theme-message-color": "white",
+    "theme-error-color": "white",
+    "theme-currentrow-color": "white",
+    "theme-currentrow-background-color": "#1976d2",
+    "theme-chromebar-inactive-window-background-color": "rgba(33, 33, 33, 0.26)",
+    "theme-chromebar-goto-active-window-background-color": "#1976d2",
+    "theme-chromebar-goto-active-window-background-hover-color": "#1e88e5",
+    "theme-sidebar-color": "white",
+    "theme-webkit-scrollbars-color": "#1976d2",
+    "theme-field-height-ratio": 0.6,
+    "theme-field-default-height": "20px",
+    "theme-font-size-ratio": 0.7,
+    "theme-host-action-default-height": "11.2px",
+    "theme-button-default-width": "70px",
+    "theme-margin-ratio": 0.2,
+    "theme-density-scale": -2,
+    "theme-input-padding-top": "1px",
+    "theme-input-padding-right": "1px",
+    "theme-input-padding-bottom": "1px",
+    "theme-input-padding-left": "1px",
+    "theme-textarea-padding-top": "1px",
+    "theme-textarea-padding-right": "1px",
+    "theme-textarea-padding-bottom": "1px",
+    "theme-textarea-padding-left": "1px",
+    "theme-table-margin": "1px",
+    "theme-combobox-margin": "1px",
+    "theme-combobox-padding": "1px",
+    "theme-radiobutton-size": "14px",
+    "theme-checkbox-size": "14px",
+    "theme-sidebar-always-visible-min-width": "1400px",
+    "theme-sidebar-default-width": "40px",
+    "theme-sidebar-max-width": "156px",
+    "theme-sidebar-show-child-name": false,
+    "theme-toggle-chromebar-min-width": "720px",
+    "theme-group-separation-size": "2.4",
+    "theme-splitter-size": "2.4px",
+    "theme-traditional-mode-letter-spacing": "1px",
+    "theme-max-icon-size": "32px",
+    "theme-small-icon-size": "14px",
+    "theme-grid-inner-gutter": "1",
+    "theme-grid-inner-gutter-x": "1",
+    "theme-grid-inner-gutter-y": "2",
+    "theme-font-family": "Droid Sans, sans-serif",
+    "theme-font-family-monospace": "Droid Sans Mono, monospace",
+    "theme-animation-duration": "0.3s",
+    "theme-disable-ending-popup": "false",
+    "theme-disable-context-menu": true,
+    "theme-scrollers-clickonly": false,
+    "theme-scrollers-speed": 10,
+    "theme-message-display-time": 0,
+    "theme-message-display-position": "bottom-right",
+    "theme-error-display-time": 0,
+    "theme-error-display-position": "bottom-right",
+    "theme-collapser-position": "left",
+    "aui-mutation-watch": false,
+    "aui-mobileUI-default": false,
+    "aui-json-protocol": false,
+    "theme-action-name-backward-compatibility": false,
+    "theme-table-default-widget": "table",
+    "theme-default-reduceFilter": false,
+    "theme-webkit-scrollbars-global-enable": false,
+    "theme-webkit-scrollbars-size": "8px",
+    "theme-table-minimal-row-height": 17,
+    "theme-table-minimal-row-height-on-touchscreen": 32,
+    "palette-primary": "#2196f3",
+    "palette-primary-50": "#e3f2fd",
+    "palette-primary-100": "#bbdefb",
+    "palette-primary-200": "#90caf9",
+    "palette-primary-300": "#64b5f6",
+    "palette-primary-400": "#42a5f5",
+    "palette-primary-500": "#2196f3",
+    "palette-primary-600": "#1e88e5",
+    "palette-primary-700": "#1976d2",
+    "palette-primary-800": "#1565c0",
+    "palette-primary-900": "#0d47a1",
+    "palette-primary-a100": "#82b1ff",
+    "palette-primary-a200": "#448aff",
+    "palette-primary-a400": "#2979ff",
+    "palette-primary-a700": "#2962ff",
+    "palette-secondary": "#9e9e9e",
+    "palette-secondary-50": "#fafafa",
+    "palette-secondary-100": "whitesmoke",
+    "palette-secondary-200": "#eeeeee",
+    "palette-secondary-300": "#e0e0e0",
+    "palette-secondary-400": "#bdbdbd",
+    "palette-secondary-500": "#9e9e9e",
+    "palette-secondary-600": "#757575",
+    "palette-secondary-700": "#616161",
+    "palette-secondary-800": "#424242",
+    "palette-secondary-900": "#212121",
+    "palette-secondary-a100": "white",
+    "palette-secondary-a200": "#f1e4e4",
+    "palette-secondary-a400": "#c2adad",
+    "palette-secondary-a700": "#afa7a7",
+    "palette-disabled": "#9e9e9e",
+    "palette-disabled-50": "#fafafa",
+    "palette-disabled-100": "whitesmoke",
+    "palette-disabled-200": "#eeeeee",
+    "palette-disabled-300": "#e0e0e0",
+    "palette-disabled-400": "#bdbdbd",
+    "palette-disabled-500": "#9e9e9e",
+    "palette-disabled-600": "#757575",
+    "palette-disabled-700": "#616161",
+    "palette-disabled-800": "#424242",
+    "palette-disabled-900": "#212121",
+    "palette-disabled-a100": "white",
+    "palette-disabled-a200": "#f1e4e4",
+    "palette-disabled-a400": "#c2adad",
+    "palette-disabled-a700": "#afa7a7",
+    "palette-text-primary": "#ffffff",
+    "palette-text-primary-100": "white",
+    "palette-text-primary-87": "rgba(255, 255, 255, 0.87)",
+    "palette-text-primary-54": "rgba(255, 255, 255, 0.54)",
+    "palette-text-primary-26": "rgba(255, 255, 255, 0.26)",
+    "palette-text-primary-12": "rgba(255, 255, 255, 0.12)",
+    "palette-text-primary-0": "rgba(255, 255, 255, 0)",
+    "palette-text-secondary": "#212121",
+    "palette-text-secondary-100": "#212121",
+    "palette-text-secondary-87": "rgba(33, 33, 33, 0.87)",
+    "palette-text-secondary-54": "rgba(33, 33, 33, 0.54)",
+    "palette-text-secondary-26": "rgba(33, 33, 33, 0.26)",
+    "palette-text-secondary-12": "rgba(33, 33, 33, 0.12)",
+    "palette-text-secondary-0": "rgba(33, 33, 33, 0)",
+    "palette-background": "#ffffff",
+    "palette-background-50": "white",
+    "palette-background-100": "white",
+    "palette-background-200": "white",
+    "palette-background-300": "white",
+    "palette-background-400": "white",
+    "palette-background-500": "#ffffff",
+    "palette-background-600": "#fdfdfd",
+    "palette-background-700": "#fbfbfb",
+    "palette-background-800": "#f9f9f9",
+    "palette-background-900": "#f0f0f0",
+    "palette-background-a100": "white",
+    "palette-background-a200": "white",
+    "palette-background-a400": "white",
+    "palette-background-a700": "white",
+    "palette-error": "#f44336",
+    "palette-error-50": "#ffebee",
+    "palette-error-100": "#ffcdd2",
+    "palette-error-200": "#ef9a9a",
+    "palette-error-300": "#e57373",
+    "palette-error-400": "#ef5350",
+    "palette-error-500": "#f44336",
+    "palette-error-600": "#e53935",
+    "palette-error-700": "#d32f2f",
+    "palette-error-800": "#c62828",
+    "palette-error-900": "#b71c1c",
+    "palette-error-a100": "#ff8a80",
+    "palette-error-a200": "#ff5252",
+    "palette-error-a400": "#ff1744",
+    "palette-error-a700": "#d50000",
+    "droid-font-path": "$$RES/fonts",
+    "mdi-font-path": "$$RES/fonts",
+    "mdi-css-prefix": "zmdi",
+    "mdi-cust-icons": "",
+    "html-font-family": "Droid Sans, sans-serif",
+    "html-font-family-monospace": "Droid Sans Mono, monospace",
+    "html-font-size-ratio": "0.7",
+    "html-anchor-color": "#1976d2",
+    "html-anchor-active-color": "#1e88e5",
+    "html-separator-color": "#e0e0e0",
+    "gbc-navigation-arrows-z-index": "2",
+    "gbc-navigation-dots-z-index": "2",
+    "gbc-navigation-arrows-color": "rgba(33, 33, 33, 0.54)",
+    "gbc-navigation-arrows-child-color": "white",
+    "gbc-navigation-dots-color": "rgba(33, 33, 33, 0.54)",
+    "gbc-navigation-dots-current-color": "white",
+    "theme-network-use-credentials-headers": false,
+    "theme-network-retry-on-error": "",
+    "theme-network-retry-timeout": "1 1 1 2 2 2 4 4 4",
+    "responsive-small-width": "576px",
+    "responsive-medium-width": "768px",
+    "z-index-Normal": 1,
+    "z-index-above-Normal": "2",
+    "z-index-TopMenu": "10",
+    "z-index-Toolbar": "20",
+    "z-index-under-Dialog": "39",
+    "z-index-Dialog": "40",
+    "z-index-Modal": "55",
+    "z-index-BarsContainer": "56",
+    "z-index-Tabbed-Modal": "57",
+    "z-index-DropDown": "58",
+    "z-index-above-DropDown": "59",
+    "z-index-Message": "60",
+    "z-index-LogPrompt": "100",
+    "mt-button-margin-ratio": 0.5,
+    "mt-button-default-height": "20px",
+    "mt-button-default-width": "70px",
+    "mt-button-primary-background-color": "#dddddd",
+    "mt-button-primary-emphasis-background-color": "#dddddd",
+    "mt-button-primary-faded-background-color": "#bbdefb",
+    "mt-button-primary-color": "#1976d2",
+    "mt-button-secondary-faded-color": "rgba(33, 33, 33, 0.54)",
+    "mt-button-disabled-color": "rgba(33, 33, 33, 0.54)",
+    "mt-button-disabled-background-color": "#eeeeee",
+    "mt-button-separator-color": "#e0e0e0",
+    "mt-button-link-color": "#8e9fc7",
+    "mt-button-link-active-color": "#dddddd",
+    "mt-card-margin-ratio": "0.2",
+    "mt-card-font-size-ratio": "0.7",
+    "mt-card-separator-color": "#e0e0e0",
+    "mt-dialog-margin-ratio": "0.2",
+    "mt-dialog-field-height-ratio": "0.6",
+    "mt-dialog-z-index": "40",
+    "mt-dialog-modal-z-index": "55",
+    "mt-dialog-background-color": "#ffffff",
+    "mt-dialog-overlay-background-color": "rgba(33, 33, 33, 0.26)",
+    "mt-field-margin-ratio": "0.2",
+    "mt-field-default-height": "20px",
+    "mt-field-background-color": "#ffffff",
+    "mt-field-border-color": "#e0e0e0",
+    "mt-field-border-width-top": "1px",
+    "mt-field-border-width-right": "1px",
+    "mt-field-border-width-bottom": "1px",
+    "mt-field-border-width-left": "1px",
+    "mt-field-focus-border-color": "#1976d2",
+    "mt-field-focus-border-width-top": "1px",
+    "mt-field-focus-border-width-right": "1px",
+    "mt-field-focus-border-width-bottom": "1px",
+    "mt-field-focus-border-width-left": "1px",
+    "mt-field-readonly-background-color": "#eeeeee",
+    "mt-field-disabled-background-color": "#eeeeee",
+    "mt-field-placeholder-color": "rgba(33, 33, 33, 0.54)",
+    "mt-field-input-padding-top": "1px",
+    "mt-field-input-padding-right": "1px",
+    "mt-field-input-padding-bottom": "1px",
+    "mt-field-input-padding-left": "1px",
+    "mt-field-textarea-padding-top": "1px",
+    "mt-field-textarea-padding-right": "1px",
+    "mt-field-textarea-padding-bottom": "1px",
+    "mt-field-textarea-padding-left": "1px",
+    "mt-list-field-background-color": "#ffffff",
+    "mt-progress-background-color": "#bbdefb",
+    "mt-progress-color": "#1e88e5",
+    "mt-progress-alternate-color": "#1976d2",
+    "mt-progress-height": "4px",
+    "mt-responsive-sidebar-always-visible-min-width": "1400px",
+    "mt-responsive-sidebar-default-width": "40px",
+    "mt-responsive-screen-width-breakpoint": false,
+    "mt-sidebar-always-visible-min-width": "1400px",
+    "mt-sidebar-default-width": "40px",
+    "mt-sidebar-splitter-size": "2.4px",
+    "mt-sidebar-item-height": "11.2px",
+    "mt-sidebar-margin-ratio": "0.2",
+    "mt-sidebar-font-size-ratio": "0.7",
+    "mt-sidebar-background-color": "#ffffff",
+    "mt-sidebar-item-color": "#1976d2",
+    "mt-sidebar-overlay-background-color": "rgba(33, 33, 33, 0.26)",
+    "mt-sidebar-resizer-hover-color": "#e0e0e0",
+    "mt-sidebar-overlay-z-index": "58",
+    "mt-sidebar-z-index": "59",
+    "mt-sidebar-animation-duration": "0.3s",
+    "mt-tabs-margin-ratio": "0.2",
+    "mt-tab-items-container-margin": "1.2px",
+    "mt-tabs-font-size-ratio": "0.7",
+    "mt-tabs-tab-z-index": "1",
+    "mt-tabs-tab-current-z-index": "2",
+    "mt-toolbar-item-height": "11.2px",
+    "mt-toolbar-margin-ratio": "0.2",
+    "mt-toolbar-color": "white",
+    "mt-sidebar-faded-color": "#bbdefb",
+    "mt-toolbar-background-color": "#1976d2",
+    "mt-toolbar-separator-color": "#e0e0e0",
+    "mt-toolbar-z-index": "20",
+    "gbc-SessionSidebarWindowItemWidget-height": "9.6px",
+    "gbc-MainContainerWidget-z-index": "39",
+    "gbc-LogPlayerWidget-header-background-color": "#eeeeee",
+    "gbc-LogPlayerWidget-separator-color": "#e0e0e0",
+    "gbc-MonitorDebug-block-title-color": "white",
+    "gbc-MonitorDebug-block-title-background-color": "#1976d2",
+    "gbc-MonitorDebug-block-title-background-hover-color": "#bbdefb",
+    "gbc-MonitorDebug-odd-line-background-color": "whitesmoke",
+    "gbc-MonitorDebug-table-separator-color": "#e0e0e0",
+    "gbc-MonitorDebug-actions-height": "14.4px",
+    "gbc-AccordionFolderWidget-title-margin": "2.8px",
+    "gbc-AccordionFolderWidget-page-margin": "2px",
+    "gbc-AccordionFolderWidget-font-size": "11.2px",
+    "gbc-AccordionFolderWidget-color": "#212121",
+    "gbc-AccordionFolderWidget-background-color": "whitesmoke",
+    "gbc-AccordionFolderWidget-collapser-position": "left",
+    "gbc-ChromeBarWidget-height": "18px",
+    "gbc-ChromeBarWidget-item-height": "15px",
+    "gbc-ChromeBarWidget-item-toggle-margin": "16px",
+    "gbc-ChromeBarWidget-title-margin": "32px",
+    "gbc-ChromeBarWidget-item-spacing": "24px",
+    "gbc-ChromeBarWidget-right-item-height": "27px",
+    "gbc-ChromeBarWidget-right-item-margin": "16px",
+    "gbc-ChromeBarWidget-right-item-image-margin": "16px",
+    "gbc-ChromeBarWidget-visible-items": "uploadStatus runtimeStatus settings",
+    "gbc-ChromeBarWidget-flow-gbc-items": false,
+    "gbc-ChromeBarWidget-goto-back-active-window-background": "#1976d2",
+    "gbc-ChromeBarWidget-goto-back-active-window-background-hover": "#1e88e5",
+    "gbc-ChromeBarWidget-inactive-window-background-color": "rgba(33, 33, 33, 0.26)",
+    "gbc-ChromeBarWidget-item-error-color": "#ef5350",
+    "gbc-ContextMenuWidget-separator-color": "#e0e0e0",
+    "gbc-DropDownWidget-z-index": "58",
+    "gbc-DropDownWidget-margin-ratio": "0.2",
+    "gbc-DropDownWidget-margin": "1px",
+    "gbc-DropDownWidget-line-height": "2.2em",
+    "gbc-DropDownWidget-background-color": "#ffffff",
+    "gbc-DropDownWidget-item-current-color": "white",
+    "gbc-DropDownWidget-item-current-background-color": "#1976d2",
+    "gbc-DropDownWidget-item-current-disabled-background-color": "rgba(33, 33, 33, 0.54)",
+    "gbc-DropDownWidget-item-hover-background-color": "#bbdefb",
+    "gbc-DropDownWidget-min-width": 0,
+    "gbc-DropDownWidget-max-height": 300,
+    "gbc-DropDownWidget-icon-size": "14px",
+    "gbc-FolderWidget-margin-ratio": "0.2",
+    "gbc-FolderWidget-font-size-ratio": "0.7",
+    "gbc-FolderWidget-separator-color": "#e0e0e0",
+    "gbc-FolderWidget-tab-current-border-color": "#1976d2",
+    "gbc-FolderWidget-trigger-color": "#1976d2",
+    "gbc-FolderWidget-background-color": "#ffffff",
+    "gbc-FolderWidget-header-height": "32px",
+    "gbc-FormWidget-font-size-ratio": "0.7",
+    "gbc-GroupWidget-margin-ratio": 0.8,
+    "gbc-GroupWidget-margin": "4.8px",
+    "gbc-GroupWidget-padding": "8px",
+    "gbc-GroupWidget-font-size-ratio": "0.7",
+    "gbc-GroupWidget-background-color": "#ffffff",
+    "gbc-GroupWidget-collapser-position": "left",
+    "gbc-ListViewWidget-margin-ratio": "0.2",
+    "gbc-ListViewWidget-table-margin": "1px",
+    "gbc-ListViewWidget-background-color": "#ffffff",
+    "gbc-ListViewWidget-border-width-top": "1px",
+    "gbc-ListViewWidget-border-width-right": "1px",
+    "gbc-ListViewWidget-border-width-bottom": "1px",
+    "gbc-ListViewWidget-border-width-left": "1px",
+    "gbc-ListViewWidget-border-color": "#e0e0e0",
+    "gbc-ListViewWidget-focus-border-width-top": "1px",
+    "gbc-ListViewWidget-focus-border-width-right": "1px",
+    "gbc-ListViewWidget-focus-border-width-bottom": "1px",
+    "gbc-ListViewWidget-focus-border-width-left": "1px",
+    "gbc-ListViewWidget-focus-border-color": "#1976d2",
+    "gbc-ListViewWidget-currentRow-background-color": "#1976d2",
+    "gbc-ListViewWidget-currentRow-color": "white",
+    "gbc-ListViewWidget-min-width": 60,
+    "gbc-ListViewWidget-min-page-size": 1,
+    "gbc-MenuWidget-margin-ratio": "0.2",
+    "gbc-MenuWidget-item-height-ratio": "0.6",
+    "gbc-MenuWidget-tabbed-z-index": "57",
+    "gbc-MenuWidget-dropdown-padding-left": "3px",
+    "gbc-MenuWidget-dropdown-padding-right": "12px",
+    "gbc-MenuWidget-dropdown-text-padding-left": "26px",
+    "gbc-ModalWidget-margin-ratio": "0.2",
+    "gbc-ModalWidget-field-height-ratio": "0.6",
+    "gbc-ModalWidget-z-index": "55",
+    "gbc-ModalWidget-button-hover-color": "#1976d2",
+    "gbc-PageWidget-background-color": "#ffffff",
+    "gbc-PageTitleWidget-icon-size": "14px",
+    "gbc-ScrollBarWidget-track-color": "rgba(219, 219, 219, 0.6)",
+    "gbc-ScrollBarWidget-thumb-color": "rgb(186, 186, 186)",
+    "gbc-ScrollGridWidget-margin-ratio": "1.6px",
+    "gbc-ScrollGridWidget-font-size-ratio": "0.7",
+    "gbc-ScrollGridWidget-field-default-height": "20px",
+    "gbc-ScrollGridWidget-inner-gutter": "1",
+    "gbc-ScrollGridWidget-disabled-color": "rgba(33, 33, 33, 0.54)",
+    "gbc-ScrollGridWidget-current-background-color": "#1976d2",
+    "gbc-ScrollGridWidget-current-color": "white",
+    "gbc-ScrollGridWidget-field-background-color": "#ffffff",
+    "gbc-ScrollGridWidget-rowBound-onEachRow": false,
+    "gbc-SplitterWidget-hover-color": "#e0e0e0",
+    "gbc-SplitterWidget-splitter-size": "2.4px",
+    "gbc-SplitterWidget-splitholder-background-color": "#ffffff",
+    "gbc-StackWidget-margin-ratio": "0.2",
+    "gbc-TableWidget-margin-ratio": "0.2",
+    "gbc-TableWidget-font-size-ratio": "0.7",
+    "gbc-TableWidget-margin": "0px",
+    "gbc-TableWidget-padding": "2px",
+    "gbc-TableWidget-table-margin": "1px",
+    "gbc-TableWidget-items-horizontalPadding": "1.4px",
+    "gbc-TableWidget-items-verticalPadding": "1px",
+    "gbc-TableWidget-resizer-z-index": "2",
+    "gbc-TableWidget-border-width-top": "1px",
+    "gbc-TableWidget-border-width-right": "1px",
+    "gbc-TableWidget-border-width-bottom": "1px",
+    "gbc-TableWidget-border-width-left": "1px",
+    "gbc-TableWidget-border-color": "#e0e0e0",
+    "gbc-TableWidget-focus-border-width-top": "1px",
+    "gbc-TableWidget-focus-border-width-right": "1px",
+    "gbc-TableWidget-focus-border-width-bottom": "1px",
+    "gbc-TableWidget-focus-border-width-left": "1px",
+    "gbc-TableWidget-focus-border-color": "#1976d2",
+    "gbc-TableWidget-inner-border-color": "#e0e0e0",
+    "gbc-TableWidget-field-background-color": "#ffffff",
+    "gbc-TableWidget-field-disabled-background-color": "#eeeeee",
+    "gbc-TableWidget-currentRow-background-color": "#1976d2",
+    "gbc-TableWidget-unfocused-currentRow-background-color": "#bbdefb",
+    "gbc-TableWidget-currentRow-color": "white",
+    "gbc-TableWidget-unfocused-currentRow-color": "#212121",
+    "gbc-TableWidget-even-row-background-color": "whitesmoke",
+    "gbc-TableWidget-odd-row-background-color": "#ffffff",
+    "gbc-TableWidget-dnd-border-color": "#e0e0e0",
+    "gbc-TableWidget-header-color": "#ffffff",
+    "gbc-TableWidget-header-disabled-color": "#e0e0e0",
+    "gbc-TableWidget-hover-color": "#bbdefb",
+    "gbc-TableWidget-mrs-border-color": "#bbdefb",
+    "gbc-TableWidget-treeview-collapsed-icon": "chevron-right",
+    "gbc-TableWidget-treeview-expanded-icon": "chevron-down",
+    "gbc-TableWidget-treeview-leaf-icon": "blank",
+    "gbc-TableWidget-min-width": 60,
+    "gbc-TableWidget-min-page-size": 1,
+    "gbc-TableWidget-focused-cell-border-width": "1px",
+    "gbc-TableWidget-rowBound-onEachRow": false,
+    "gbc-ToolBarWidget-trigger-color": "#1976d2",
+    "gbc-ToolBarWidget-font-size-ratio": "0.7",
+    "gbc-ToolBarWidget-hover-color": "#bbdefb",
+    "gbc-ToolBarSeparatorWidget-color": "#e0e0e0",
+    "gbc-ToolBarItemWidget-icon-size": "14px",
+    "gbc-TopMenuWidget-horizontal-padding": "5px",
+    "gbc-TopMenuWidget-line-height": "18.2px",
+    "gbc-TopMenuWidget-vertical-padding": "1.2px",
+    "gbc-TopMenuWidget-hover-color": "#bbdefb",
+    "gbc-TopMenuWidget-separator-color": "#e0e0e0",
+    "gbc-TopMenuWidget-icon-size": "14px",
+    "gbc-TopMenuWidget-sidebar-background-color": "whitesmoke",
+    "gbc-TraditionalScreenWidget-background-color": "whitesmoke",
+    "gbc-UserInterfaceWidget-bars-container-z-index": "56",
+    "gbc-UserInterfaceWidget-topmenu-z-index": "10",
+    "gbc-UserInterfaceWidget-background-color": "whitesmoke",
+    "gbc-UserInterfaceWidget-separator-color": "#e0e0e0",
+    "gbc-UserInterfaceWidget-header-color": "whitesmoke",
+    "gbc-WindowWidget-margin-ratio": 1,
+    "gbc-WindowWidget-z-index": "1",
+    "gbc-WindowWidget-background-color": "whitesmoke",
+    "gbc-WindowWidget-header-color": "whitesmoke",
+    "gbc-WindowWidget-defaultActionPanelPosition": "right",
+    "gbc-WindowWidget-defaultRingMenuPosition": "right",
+    "gbc-WindowWidget-defaultToolBarPosition": "top",
+    "gbc-ButtonEditWidget-default-height": "20px",
+    "gbc-ButtonEditWidget-focus-border-color": "#1e88e5",
+    "gbc-ButtonWidget-margin-ratio": 0.5,
+    "gbc-ButtonWidget-font-size-ratio": "0.7",
+    "gbc-ButtonWidget-default-height": "20px",
+    "gbc-ButtonWidget-color": "white",
+    "gbc-ButtonWidget-focus-background-color": "#1e88e5",
+    "gbc-ButtonWidget-autoscale-svg-color": "#f44336",
+    "gbc-CanvasWidget-margin-ratio": "0.2",
+    "gbc-CanvasWidget-default-height": "20px",
+    "gbc-CheckBoxWidget-margin-ratio": "0.2",
+    "gbc-CheckBoxWidget-checkbox-size": "14px",
+    "gbc-CheckBoxWidget-unchecked-color": "#212121",
+    "gbc-CheckBoxWidget-checked-color": "#1976d2",
+    "gbc-CheckBoxWidget-unchecked-icon": "checkbox-blank-outline",
+    "gbc-CheckBoxWidget-indeterminate-icon": "minus-box",
+    "gbc-CheckBoxWidget-checked-icon": "checkbox-marked",
+    "gbc-CheckBoxWidget-disabled-color": "rgba(33, 33, 33, 0.54)",
+    "gbc-CheckBoxWidget-focus-border-color": "#1976d2",
+    "gbc-ToggleCheckBoxWidget-checked-color": "#212121",
+    "gbc-ToggleCheckBoxWidget-unchecked-color": "rgba(0, 0, 0, 0.38)",
+    "gbc-ToggleCheckBoxWidget-disabled-color": "#bdbdbd",
+    "gbc-ComboBoxWidget-padding": "1px",
+    "gbc-ComboBoxWidget-placeholder-color": "rgba(33, 33, 33, 0.54)",
+    "gbc-ComboBoxWidget-background-color": "#ffffff",
+    "gbc-ComboBoxWidget-color": "#212121",
+    "gbc-ComboBoxWidget-toggle-icon": "menu-down",
+    "gbc-ComboBoxWidget-toggle-open-icon": "menu-down",
+    "gbc-ComboBoxWidget-toggle-size": "1em",
+    "gbc-CommandLinkWidget-ttf-color": "#66bb6a",
+    "gbc-DateEdit-margin-ratio": "0.2",
+    "gbc-DateEdit-field-height-ratio": "0.6",
+    "gbc-DateEdit-font-size-ratio": "0.7",
+    "gbc-DateEdit-color": "#212121",
+    "gbc-DateEdit-daysOff-color": "rgba(33, 33, 33, 0.54)",
+    "gbc-Edit-mobile-comment-to-placeholder": "0",
+    "gbc-Edit-desktop-comment-to-placeholder": "0",
+    "gbc-FileInput-drop-color": "#bbdefb",
+    "gbc-FilePicker-selfdestroy-timeout": 900,
+    "gbc-HLineWidget-color": "#e0e0e0",
+    "gbc-ImageWidget-max-icon-size": "32px",
+    "gbc-LabelWidget-margin-ratio": "0.2",
+    "gbc-LabelWidget-margin": "1px",
+    "gbc-MessageWidget-margin-ratio": "0.2",
+    "gbc-MessageWidget-z-index": "60",
+    "gbc-MessageWidget-color": "white",
+    "gbc-MessageWidget-background-color": "#424242",
+    "gbc-MessageWidget-shadow-color": "rgba(33, 33, 33, 0.26)",
+    "gbc-MessageWidget-gasadmin-color": "white",
+    "gbc-MessageWidget-gasadmin-background-color": "#424242",
+    "gbc-MessageWidget-gasadmin-display-position": "top-center",
+    "gbc-MessageWidget-warning-color": "#000000",
+    "gbc-MessageWidget-warning-background-color": "#ffcc80",
+    "gbc-ProgressBarWidget-color": "#1e88e5",
+    "gbc-ProgressBarWidget-percentage-background-color": "rgba(255, 255, 255, 0.88)",
+    "gbc-RadioGroupWidget-margin-ratio": "0.2",
+    "gbc-RadioGroupWidget-radiobutton-size": "14px",
+    "gbc-RadioGroupWidget-unchecked-color": "#212121",
+    "gbc-RadioGroupWidget-checked-color": "#1976d2",
+    "gbc-RadioGroupWidget-unchecked-icon": "radiobox-blank",
+    "gbc-RadioGroupWidget-checked-icon": "radiobox-marked",
+    "gbc-RadioGroupWidget-disabled-color": "rgba(33, 33, 33, 0.54)",
+    "gbc-RadioGroupWidget-focus-border-color": "#1976d2",
+    "gbc-RipGraphicWidget-separator-color": "#e0e0e0",
+    "gbc-SliderWidget-field-height-ratio": "0.6",
+    "gbc-SliderWidget-background-color": "#e0e0e0",
+    "gbc-SliderWidget-color": "#1976d2",
+    "gbc-SliderWidget-disabled-color": "rgba(33, 33, 33, 0.54)",
+    "gbc-SliderWidget-thumb-hover-color": "#1e88e5",
+    "gbc-SliderWidget-focus-border-color": "#1976d2",
+    "gbc-SpinEditWidget-margin-ratio": "0.2",
+    "gbc-SpinEditWidget-font-family": "Droid Sans, sans-serif",
+    "gbc-SpinEditWidget-color": "#212121",
+    "gbc-SpinEditWidget-hover-color": "#bbdefb",
+    "gbc-SpinEditWidget-arrows-size": "0.6em",
+    "gbc-TextEditWidget-margin-ratio": "0.2",
+    "gbc-TextEditWidget-font-size-ratio": "0.7",
+    "gbc-TextEditWidget-capacity": 300,
+    "gbc-TimeEditWidget-margin-ratio": "0.2",
+    "gbc-TimeEditWidget-font-family": "Droid Sans, sans-serif",
+    "gbc-TimeEditWidget-color": "#212121",
+    "gbc-TimeEditWidget-hover-color": "#bbdefb",
+    "gbc-SessionEndWidget-message-separator": "rgba(33, 33, 33, 0.54)",
+    "gbc-SessionLogPromptWidget-color": "white",
+    "gbc-SessionLogPromptWidget-background-color": "#212121",
+    "gbc-SessionLogPromptWidget-z-index": "100",
+    "gbc-SessionLogPromptWidget-button-height": "20px",
+    "gbc-WaitingWidget-color": "#212121",
+    "gbc-WaitingWidget-background-color": "whitesmoke",
+    "gbc-StartMenuWidget-color": "#1976d2",
+    "gbc-StartMenuWidget-background-color": "whitesmoke",
+    "gbc-StartMenuGroupWidget-hover-color": "#bbdefb",
+    "gbc-StartMenuCommandWidget-hover-color": "#bbdefb",
+    "gbc-StartMenuCommandWidget-disabled-color": "rgba(33, 33, 33, 0.54)",
+    "gbc-StartMenuSeparatorWidget-color": "#e0e0e0",
+    "gbc-StartMenuWidget-maxWidth": "300px",
+    "gbc-StartMenuWidget-doubleclick-trigger": false,
+    "gbc-genero-black": "#212121",
+    "gbc-genero-blue": "#2196f3",
+    "gbc-genero-cyan": "#00bcd4",
+    "gbc-genero-darkBlue": "#1565c0",
+    "gbc-genero-darkCyan": "#00838f",
+    "gbc-genero-darkGray": "#424242",
+    "gbc-genero-darkGreen": "#2e7d32",
+    "gbc-genero-darkMagenta": "#ad1457",
+    "gbc-genero-darkOlive": "#558b2f",
+    "gbc-genero-darkOrange": "#ef6c00",
+    "gbc-genero-darkRed": "#c62828",
+    "gbc-genero-darkTeal": "#00695c",
+    "gbc-genero-darkYellow": "#f9a825",
+    "gbc-genero-gray": "#9e9e9e",
+    "gbc-genero-green": "#4caf50",
+    "gbc-genero-lightBlue": "#bbdefb",
+    "gbc-genero-lightCyan": "#b2ebf2",
+    "gbc-genero-lightGray": "#e0e0e0",
+    "gbc-genero-lightGreen": "#c8e6c9",
+    "gbc-genero-lightMagenta": "#f8bbd0",
+    "gbc-genero-lightOlive": "#dcedc8",
+    "gbc-genero-lightOrange": "#ffe0b2",
+    "gbc-genero-lightRed": "#ffcdd2",
+    "gbc-genero-lightTeal": "#b2dfdb",
+    "gbc-genero-lightYellow": "#fff9c4",
+    "gbc-genero-magenta": "#e91e63",
+    "gbc-genero-olive": "#8bc34a",
+    "gbc-genero-orange": "#ff9800",
+    "gbc-genero-red": "#f44336",
+    "gbc-genero-teal": "#009688",
+    "gbc-genero-white": "#ffffff",
+    "gbc-genero-yellow": "#ffeb3b",
+    "gbc-genero-appWorkSpace": "whitesmoke",
+    "gbc-genero-background": "#ffffff",
+    "gbc-genero-buttonFace": "#1976d2",
+    "gbc-genero-buttonText": "white",
+    "gbc-genero-grayText": "rgba(33, 33, 33, 0.54)",
+    "gbc-genero-highLight": "#1e88e5",
+    "gbc-genero-highLightText": "white",
+    "gbc-genero-infoBackground": "whitesmoke",
+    "gbc-genero-infoText": "#212121",
+    "gbc-genero-systemAlternateBackground": "#bbdefb",
+    "gbc-genero-window": "whitesmoke",
+    "gbc-genero-windowText": "#212121",
+    "mt-white": "#ffffff",
+    "mt-white-50": "white",
+    "mt-white-100": "white",
+    "mt-white-200": "white",
+    "mt-white-300": "white",
+    "mt-white-400": "white",
+    "mt-white-500": "#ffffff",
+    "mt-white-600": "#fdfdfd",
+    "mt-white-700": "#fbfbfb",
+    "mt-white-800": "#f9f9f9",
+    "mt-white-900": "#f0f0f0",
+    "mt-white-a100": "white",
+    "mt-white-a200": "white",
+    "mt-white-a400": "white",
+    "mt-white-a700": "white",
+    "mt-black": "#000000",
+    "mt-black-50": "#666666",
+    "mt-black-100": "#515151",
+    "mt-black-200": "#3b3b3b",
+    "mt-black-300": "#232323",
+    "mt-black-400": "#111111",
+    "mt-black-500": "#000000",
+    "mt-black-600": "black",
+    "mt-black-700": "black",
+    "mt-black-800": "black",
+    "mt-black-900": "black",
+    "mt-black-a100": "#a65959",
+    "mt-black-a200": "#633636",
+    "mt-black-a400": "#1d1616",
+    "mt-black-a700": "#0d0c0c",
+    "mt-text-white": "#ffffff",
+    "mt-text-white-100": "white",
+    "mt-text-white-87": "rgba(255, 255, 255, 0.87)",
+    "mt-text-white-54": "rgba(255, 255, 255, 0.54)",
+    "mt-text-white-26": "rgba(255, 255, 255, 0.26)",
+    "mt-text-white-12": "rgba(255, 255, 255, 0.12)",
+    "mt-text-white-0": "rgba(255, 255, 255, 0)",
+    "mt-text-black": "#212121",
+    "mt-text-black-100": "#212121",
+    "mt-text-black-87": "rgba(33, 33, 33, 0.87)",
+    "mt-text-black-54": "rgba(33, 33, 33, 0.54)",
+    "mt-text-black-26": "rgba(33, 33, 33, 0.26)",
+    "mt-text-black-12": "rgba(33, 33, 33, 0.12)",
+    "mt-text-black-0": "rgba(33, 33, 33, 0)",
+    "mt-red": "#f44336",
+    "mt-red-50": "#ffebee",
+    "mt-red-100": "#ffcdd2",
+    "mt-red-200": "#ef9a9a",
+    "mt-red-300": "#e57373",
+    "mt-red-400": "#ef5350",
+    "mt-red-500": "#f44336",
+    "mt-red-600": "#e53935",
+    "mt-red-700": "#d32f2f",
+    "mt-red-800": "#c62828",
+    "mt-red-900": "#b71c1c",
+    "mt-red-a100": "#ff8a80",
+    "mt-red-a200": "#ff5252",
+    "mt-red-a400": "#ff1744",
+    "mt-red-a700": "#d50000",
+    "mt-pink": "#e91e63",
+    "mt-pink-50": "#fce4ec",
+    "mt-pink-100": "#f8bbd0",
+    "mt-pink-200": "#f48fb1",
+    "mt-pink-300": "#f06292",
+    "mt-pink-400": "#ec407a",
+    "mt-pink-500": "#e91e63",
+    "mt-pink-600": "#d81b60",
+    "mt-pink-700": "#c2185b",
+    "mt-pink-800": "#ad1457",
+    "mt-pink-900": "#880e4f",
+    "mt-pink-a100": "#ff80ab",
+    "mt-pink-a200": "#ff4081",
+    "mt-pink-a400": "#f50057",
+    "mt-pink-a700": "#c51162",
+    "mt-purple": "#9c27b0",
+    "mt-purple-50": "#f3e5f5",
+    "mt-purple-100": "#e1bee7",
+    "mt-purple-200": "#ce93d8",
+    "mt-purple-300": "#ba68c8",
+    "mt-purple-400": "#ab47bc",
+    "mt-purple-500": "#9c27b0",
+    "mt-purple-600": "#8e24aa",
+    "mt-purple-700": "#7b1fa2",
+    "mt-purple-800": "#6a1b9a",
+    "mt-purple-900": "#4a148c",
+    "mt-purple-a100": "#ea80fc",
+    "mt-purple-a200": "#e040fb",
+    "mt-purple-a400": "#d500f9",
+    "mt-purple-a700": "#aa00ff",
+    "mt-deep-purple": "#673ab7",
+    "mt-deep-purple-50": "#ede7f6",
+    "mt-deep-purple-100": "#d1c4e9",
+    "mt-deep-purple-200": "#b39ddb",
+    "mt-deep-purple-300": "#9575cd",
+    "mt-deep-purple-400": "#7e57c2",
+    "mt-deep-purple-500": "#673ab7",
+    "mt-deep-purple-600": "#5e35b1",
+    "mt-deep-purple-700": "#512da8",
+    "mt-deep-purple-800": "#4527a0",
+    "mt-deep-purple-900": "#311b92",
+    "mt-deep-purple-a100": "#b388ff",
+    "mt-deep-purple-a200": "#7c4dff",
+    "mt-deep-purple-a400": "#651fff",
+    "mt-deep-purple-a700": "#6200ea",
+    "mt-indigo": "#3f51b5",
+    "mt-indigo-50": "#e8eaf6",
+    "mt-indigo-100": "#c5cae9",
+    "mt-indigo-200": "#9fa8da",
+    "mt-indigo-300": "#7986cb",
+    "mt-indigo-400": "#5c6bc0",
+    "mt-indigo-500": "#3f51b5",
+    "mt-indigo-600": "#3949ab",
+    "mt-indigo-700": "#303f9f",
+    "mt-indigo-800": "#283593",
+    "mt-indigo-900": "#1a237e",
+    "mt-indigo-a100": "#8c9eff",
+    "mt-indigo-a200": "#536dfe",
+    "mt-indigo-a400": "#3d5afe",
+    "mt-indigo-a700": "#304ffe",
+    "mt-blue": "#2196f3",
+    "mt-blue-50": "#e3f2fd",
+    "mt-blue-100": "#bbdefb",
+    "mt-blue-200": "#90caf9",
+    "mt-blue-300": "#64b5f6",
+    "mt-blue-400": "#42a5f5",
+    "mt-blue-500": "#2196f3",
+    "mt-blue-600": "#1e88e5",
+    "mt-blue-700": "#1976d2",
+    "mt-blue-800": "#1565c0",
+    "mt-blue-900": "#0d47a1",
+    "mt-blue-a100": "#82b1ff",
+    "mt-blue-a200": "#448aff",
+    "mt-blue-a400": "#2979ff",
+    "mt-blue-a700": "#2962ff",
+    "mt-light-blue": "#03a9f4",
+    "mt-light-blue-50": "#e1f5fe",
+    "mt-light-blue-100": "#b3e5fc",
+    "mt-light-blue-200": "#81d4fa",
+    "mt-light-blue-300": "#4fc3f7",
+    "mt-light-blue-400": "#29b6f6",
+    "mt-light-blue-500": "#03a9f4",
+    "mt-light-blue-600": "#039be5",
+    "mt-light-blue-700": "#0288d1",
+    "mt-light-blue-800": "#0277bd",
+    "mt-light-blue-900": "#01579b",
+    "mt-light-blue-a100": "#80d8ff",
+    "mt-light-blue-a200": "#40c4ff",
+    "mt-light-blue-a400": "#00b0ff",
+    "mt-light-blue-a700": "#0091ea",
+    "mt-cyan": "#00bcd4",
+    "mt-cyan-50": "#e0f7fa",
+    "mt-cyan-100": "#b2ebf2",
+    "mt-cyan-200": "#80deea",
+    "mt-cyan-300": "#4dd0e1",
+    "mt-cyan-400": "#26c6da",
+    "mt-cyan-500": "#00bcd4",
+    "mt-cyan-600": "#00acc1",
+    "mt-cyan-700": "#0097a7",
+    "mt-cyan-800": "#00838f",
+    "mt-cyan-900": "#006064",
+    "mt-cyan-a100": "#84ffff",
+    "mt-cyan-a200": "#18ffff",
+    "mt-cyan-a400": "#00e5ff",
+    "mt-cyan-a700": "#00b8d4",
+    "mt-teal": "#009688",
+    "mt-teal-50": "#e0f2f1",
+    "mt-teal-100": "#b2dfdb",
+    "mt-teal-200": "#80cbc4",
+    "mt-teal-300": "#4db6ac",
+    "mt-teal-400": "#26a69a",
+    "mt-teal-500": "#009688",
+    "mt-teal-600": "#00897b",
+    "mt-teal-700": "#00796b",
+    "mt-teal-800": "#00695c",
+    "mt-teal-900": "#004d40",
+    "mt-teal-a100": "#a7ffeb",
+    "mt-teal-a200": "#64ffda",
+    "mt-teal-a400": "#1de9b6",
+    "mt-teal-a700": "#00bfa5",
+    "mt-green": "#4caf50",
+    "mt-green-50": "#e8f5e9",
+    "mt-green-100": "#c8e6c9",
+    "mt-green-200": "#a5d6a7",
+    "mt-green-300": "#81c784",
+    "mt-green-400": "#66bb6a",
+    "mt-green-500": "#4caf50",
+    "mt-green-600": "#43a047",
+    "mt-green-700": "#388e3c",
+    "mt-green-800": "#2e7d32",
+    "mt-green-900": "#1b5e20",
+    "mt-green-a100": "#b9f6ca",
+    "mt-green-a200": "#69f0ae",
+    "mt-green-a400": "#00e676",
+    "mt-green-a700": "#00c853",
+    "mt-light-green": "#8bc34a",
+    "mt-light-green-50": "#f1f8e9",
+    "mt-light-green-100": "#dcedc8",
+    "mt-light-green-200": "#c5e1a5",
+    "mt-light-green-300": "#aed581",
+    "mt-light-green-400": "#9ccc65",
+    "mt-light-green-500": "#8bc34a",
+    "mt-light-green-600": "#7cb342",
+    "mt-light-green-700": "#689f38",
+    "mt-light-green-800": "#558b2f",
+    "mt-light-green-900": "#33691e",
+    "mt-light-green-a100": "#ccff90",
+    "mt-light-green-a200": "#b2ff59",
+    "mt-light-green-a400": "#76ff03",
+    "mt-light-green-a700": "#64dd17",
+    "mt-lime": "#cddc39",
+    "mt-lime-50": "#f9fbe7",
+    "mt-lime-100": "#f0f4c3",
+    "mt-lime-200": "#e6ee9c",
+    "mt-lime-300": "#dce775",
+    "mt-lime-400": "#d4e157",
+    "mt-lime-500": "#cddc39",
+    "mt-lime-600": "#c0ca33",
+    "mt-lime-700": "#afb42b",
+    "mt-lime-800": "#9e9d24",
+    "mt-lime-900": "#827717",
+    "mt-lime-a100": "#f4ff81",
+    "mt-lime-a200": "#eeff41",
+    "mt-lime-a400": "#c6ff00",
+    "mt-lime-a700": "#aeea00",
+    "mt-yellow": "#ffeb3b",
+    "mt-yellow-50": "#fffde7",
+    "mt-yellow-100": "#fff9c4",
+    "mt-yellow-200": "#fff59d",
+    "mt-yellow-300": "#fff176",
+    "mt-yellow-400": "#ffee58",
+    "mt-yellow-500": "#ffeb3b",
+    "mt-yellow-600": "#fdd835",
+    "mt-yellow-700": "#fbc02d",
+    "mt-yellow-800": "#f9a825",
+    "mt-yellow-900": "#f57f17",
+    "mt-yellow-a100": "#ffff8d",
+    "mt-yellow-a200": "yellow",
+    "mt-yellow-a400": "#ffea00",
+    "mt-yellow-a700": "#ffd600",
+    "mt-amber": "#ffc107",
+    "mt-amber-50": "#fff8e1",
+    "mt-amber-100": "#ffecb3",
+    "mt-amber-200": "#ffe082",
+    "mt-amber-300": "#ffd54f",
+    "mt-amber-400": "#ffca28",
+    "mt-amber-500": "#ffc107",
+    "mt-amber-600": "#ffb300",
+    "mt-amber-700": "#ffa000",
+    "mt-amber-800": "#ff8f00",
+    "mt-amber-900": "#ff6f00",
+    "mt-amber-a100": "#ffe57f",
+    "mt-amber-a200": "#ffd740",
+    "mt-amber-a400": "#ffc400",
+    "mt-amber-a700": "#ffab00",
+    "mt-orange": "#ff9800",
+    "mt-orange-50": "#fff3e0",
+    "mt-orange-100": "#ffe0b2",
+    "mt-orange-200": "#ffcc80",
+    "mt-orange-300": "#ffb74d",
+    "mt-orange-400": "#ffa726",
+    "mt-orange-500": "#ff9800",
+    "mt-orange-600": "#fb8c00",
+    "mt-orange-700": "#f57c00",
+    "mt-orange-800": "#ef6c00",
+    "mt-orange-900": "#e65100",
+    "mt-orange-a100": "#ffd180",
+    "mt-orange-a200": "#ffab40",
+    "mt-orange-a400": "#ff9100",
+    "mt-orange-a700": "#ff6d00",
+    "mt-deep-orange": "#ff5722",
+    "mt-deep-orange-50": "#fbe9e7",
+    "mt-deep-orange-100": "#ffccbc",
+    "mt-deep-orange-200": "#ffab91",
+    "mt-deep-orange-300": "#ff8a65",
+    "mt-deep-orange-400": "#ff7043",
+    "mt-deep-orange-500": "#ff5722",
+    "mt-deep-orange-600": "#f4511e",
+    "mt-deep-orange-700": "#e64a19",
+    "mt-deep-orange-800": "#d84315",
+    "mt-deep-orange-900": "#bf360c",
+    "mt-deep-orange-a100": "#ff9e80",
+    "mt-deep-orange-a200": "#ff6e40",
+    "mt-deep-orange-a400": "#ff3d00",
+    "mt-deep-orange-a700": "#dd2c00",
+    "mt-brown": "#795548",
+    "mt-brown-50": "#efebe9",
+    "mt-brown-100": "#d7ccc8",
+    "mt-brown-200": "#bcaaa4",
+    "mt-brown-300": "#a1887f",
+    "mt-brown-400": "#8d6e63",
+    "mt-brown-500": "#795548",
+    "mt-brown-600": "#6d4c41",
+    "mt-brown-700": "#5d4037",
+    "mt-brown-800": "#4e342e",
+    "mt-brown-900": "#3e2723",
+    "mt-brown-a100": "#f1d8cf",
+    "mt-brown-a200": "#da9880",
+    "mt-brown-a400": "#ab6349",
+    "mt-brown-a700": "#8e5e4c",
+    "mt-grey": "#9e9e9e",
+    "mt-grey-50": "#fafafa",
+    "mt-grey-100": "whitesmoke",
+    "mt-grey-200": "#eeeeee",
+    "mt-grey-300": "#e0e0e0",
+    "mt-grey-400": "#bdbdbd",
+    "mt-grey-500": "#9e9e9e",
+    "mt-grey-600": "#757575",
+    "mt-grey-700": "#616161",
+    "mt-grey-800": "#424242",
+    "mt-grey-900": "#212121",
+    "mt-grey-a100": "white",
+    "mt-grey-a200": "#f1e4e4",
+    "mt-grey-a400": "#c2adad",
+    "mt-grey-a700": "#afa7a7",
+    "mt-dark-grey": "#181818",
+    "mt-dark-grey-50": "#7e7e7e",
+    "mt-dark-grey-100": "dimgray",
+    "mt-dark-grey-200": "#535353",
+    "mt-dark-grey-300": "#3b3b3b",
+    "mt-dark-grey-400": "#292929",
+    "mt-dark-grey-500": "#181818",
+    "mt-dark-grey-600": "#161616",
+    "mt-dark-grey-700": "#141414",
+    "mt-dark-grey-800": "#121212",
+    "mt-dark-grey-900": "#090909",
+    "mt-dark-grey-a100": "#b77878",
+    "mt-dark-grey-a200": "#834646",
+    "mt-dark-grey-a400": "#392a2a",
+    "mt-dark-grey-a700": "#272323",
+    "mt-light-grey": "#9e9e9e",
+    "mt-light-grey-50": "#fafafa",
+    "mt-light-grey-100": "whitesmoke",
+    "mt-light-grey-200": "#eeeeee",
+    "mt-light-grey-300": "#e0e0e0",
+    "mt-light-grey-400": "#bdbdbd",
+    "mt-light-grey-500": "#9e9e9e",
+    "mt-light-grey-600": "#757575",
+    "mt-light-grey-700": "#616161",
+    "mt-light-grey-800": "#424242",
+    "mt-light-grey-900": "#212121",
+    "mt-light-grey-a100": "white",
+    "mt-light-grey-a200": "#f1e4e4",
+    "mt-light-grey-a400": "#c2adad",
+    "mt-light-grey-a700": "#afa7a7",
+    "mt-lighter-grey": "#CCCCCC",
+    "mt-lighter-grey-50": "white",
+    "mt-lighter-grey-100": "white",
+    "mt-lighter-grey-200": "white",
+    "mt-lighter-grey-300": "#efefef",
+    "mt-lighter-grey-400": "#dddddd",
+    "mt-lighter-grey-500": "#CCCCCC",
+    "mt-lighter-grey-600": "#cacaca",
+    "mt-lighter-grey-700": "#c8c8c8",
+    "mt-lighter-grey-800": "#c6c6c6",
+    "mt-lighter-grey-900": "#bdbdbd",
+    "mt-lighter-grey-a100": "white",
+    "mt-lighter-grey-a200": "white",
+    "mt-lighter-grey-a400": "#e9e2e2",
+    "mt-lighter-grey-a700": "#dbd7d7",
+    "mt-blue-grey": "#607d8b",
+    "mt-blue-grey-50": "#eceff1",
+    "mt-blue-grey-100": "#cfd8dc",
+    "mt-blue-grey-200": "#b0bec5",
+    "mt-blue-grey-300": "#90a4ae",
+    "mt-blue-grey-400": "#78909c",
+    "mt-blue-grey-500": "#607d8b",
+    "mt-blue-grey-600": "#546e7a",
+    "mt-blue-grey-700": "#455a64",
+    "mt-blue-grey-800": "#37474f",
+    "mt-blue-grey-900": "#263238",
+    "mt-blue-grey-a100": "#f0f7fa",
+    "mt-blue-grey-a200": "#a4ccdf",
+    "mt-blue-grey-a400": "#6a9cb4",
+    "mt-blue-grey-a700": "#658c9f",
+    "gbc-primary-strong-color": false,
+    "gbc-secondary-color": false,
+    "gbc-secondary-text-color": "white",
+    "gbc-primary-color": "#1976d2",
+    "gbc-primary-medium-color": "#1e88e5",
+    "gbc-primary-light-color": "#bbdefb",
+    "gbc-primary-text-color": "#212121",
+    "gbc-primary-background-color": "whitesmoke",
+    "gbc-field-background-color": "#ffffff",
+    "gbc-alternate-row-background-color": "whitesmoke",
+    "gbc-header-color": "whitesmoke",
+    "gbc-separator-color": "#e0e0e0",
+    "gbc-disabled-color": "#eeeeee",
+    "gbc-message-color": "#424242",
+    "gbc-error-color": "#f44336",
+    "gbc-secondary-background-color": "#ffffff",
+    "gbc-field-disabled-background-color": "#eeeeee",
+    "gbc-field-readonly-background-color": "#eeeeee",
+    "gbc-field-height-ratio": "0.6",
+    "field-default-height": "20px",
+    "gbc-font-size-ratio": "0.7",
+    "mt-toolbar-height": "11.2px",
+    "button-default-width": "70px",
+    "gbc-margin-ratio": "0.2",
+    "gbc-density-scale": "-2",
+    "gbc-table-margin": "1px",
+    "gbc-combobox-margin": "1px",
+    "gbc-combobox-padding": "1px",
+    "gbc-radiobutton-size": "14px",
+    "gbc-checkbox-size": "14px",
+    "gbc-sidebar-always-visible-min-width": "1400px",
+    "gbc-sidebar-default-width": "40px",
+    "gbc-sidebar-max-width": "156px",
+    "theme-toggle-right-sidebar-min-width": "720px",
+    "gbc-toggle-right-sidebar-min-width": "720px",
+    "group-separation-size": "2.4",
+    "splitter-size": "2.4px",
+    "traditional-mode-letter-spacing": "1px",
+    "gbc-max-icon-size": "32px",
+    "layout-grid-inner-gutter": "1",
+    "gbc-animation-duration": "0.3s",
+    "gbc-disable-ending-popup": "false",
+    "gbc-desactivate-ending-popup": "false",
+    "gbc-disable-context-menu": "true",
+    "gbc-scrollers-clickonly": "false",
+    "gbc-scrollers-speed": "10",
+    "gbc-message-display-time": "0",
+    "gbc-message-position": "bottom-right",
+    "gbc-error-display-time": "0",
+    "gbc-error-position": "bottom-right",
+    "primary": "#2196f3",
+    "primary-50": "#e3f2fd",
+    "primary-100": "#bbdefb",
+    "primary-200": "#90caf9",
+    "primary-300": "#64b5f6",
+    "primary-400": "#42a5f5",
+    "primary-500": "#2196f3",
+    "primary-600": "#1e88e5",
+    "primary-700": "#1976d2",
+    "primary-800": "#1565c0",
+    "primary-900": "#0d47a1",
+    "primary-a100": "#82b1ff",
+    "primary-a200": "#448aff",
+    "primary-a400": "#2979ff",
+    "primary-a700": "#2962ff",
+    "text-light": "#ffffff",
+    "text-light-100": "white",
+    "text-light-87": "rgba(255, 255, 255, 0.87)",
+    "text-light-54": "rgba(255, 255, 255, 0.54)",
+    "text-light-26": "rgba(255, 255, 255, 0.26)",
+    "text-light-12": "rgba(255, 255, 255, 0.12)",
+    "text-light-0": "rgba(255, 255, 255, 0)",
+    "text-dark": "#212121",
+    "text-dark-100": "#212121",
+    "text-dark-87": "rgba(33, 33, 33, 0.87)",
+    "text-dark-54": "rgba(33, 33, 33, 0.54)",
+    "text-dark-26": "rgba(33, 33, 33, 0.26)",
+    "text-dark-12": "rgba(33, 33, 33, 0.12)",
+    "text-dark-0": "rgba(33, 33, 33, 0)",
+    "table-min-width": "60",
+    "theme-table-min-width": "60",
+    "table-min-pageSize": "1",
+    "theme-table-min-page-size": "1"
+  },
+  "storedSettings": {
+    "gwc": {
+      "app": {
+        "theme": "default",
+        "sidebar": {
+          "visible": false
+        },
+        "locale": "en-US"
+      }
+    },
+    "storedSettingDisabled": false
+  },
+  "logs": [
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400150106,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "GET",
+      "uaType": "r",
+      "uaDetails": "start",
+      "type": "start : GET : /wtopprd/ua/r/demo?Bootstrap=done&recordgbclog=1",
+      "data": null
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400150136,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "GET",
+      "uaType": "r",
+      "uaDetails": "start",
+      "type": "start : GET : /wtopprd/ua/r/demo?Bootstrap=done&recordgbclog=1",
+      "data": "meta Connection {{encoding \"UTF-8\"} {protocolVersion \"102\"} {interfaceVersion \"110\"} {runtimeVersion \"5.00.03-2525\"} {encapsulation \"1\"} {filetransfer \"1\"} {filetransferVersion \"2\"} {filetransferFC \"1\"} {frontEndID \"{d9083a58-3de5-18da-a855-0864a897b6d7}\"} {procId \"T100RHEL9:57295\"} {programName \"demo\"}}",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400150139,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=1",
+      "data": "meta Client{{name \"GBC\"}{version \"5.00.07.dsc5\"}{encoding \"UTF-8\"}{encapsulation \"0\"}{filetransfer \"0\"}{mobileUI \"0\"}{media \"large\"}{json \"0\"}}",
+      "appId": 0,
+      "pageId": 1
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400150186,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=1",
+      "data": "om 0 {{an 0 UserInterface 0 {{name \"demo\"} {text \"demo\"} {charLengthSemantics \"0\"} {procId \"T100RHEL9:57295\"} {dbDate \"MDY4/\"} {dbCentury \"R\"} {decimalSeparator \".\"} {thousandsSeparator \",\"} {media \"large\"} {errorLine \"-1\"} {commentLine \"-1\"} {formLine \"2\"} {messageLine \"1\"} {menuLine \"0\"} {promptLine \"0\"} {fieldOrder \"1\"} {currentWindow \"87\"} {focus \"93\"} {runtimeStatus \"interactive\"}} {{StyleList 1 {} {{Style 2 {{name \"Window\"}} {{StyleAttribute 3 {{name \"windowType\"} {value \"normal\"}} {}}}} {Style 4 {{name \"Window.main\"}} {{StyleAttribute 5 {{name \"windowType\"} {value \"normal\"}} {}} {StyleAttribute 6 {{name \"startMenuPosition\"} {value \"menu\"}} {}}}} {Style 7 {{name \"Window.main2\"}} {{StyleAttribute 8 {{name \"windowType\"} {value \"normal\"}} {}} {StyleAttribute 9 {{name \"actionPanelPosition\"} {value \"none\"}} {}} {StyleAttribute 10 {{name \"ringMenuPosition\"} {value \"none\"}} {}}}} {Style 11 {{name \"Window.dialog\"}} {{StyleAttribute 12 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 13 {{name \"sizable\"} {value \"no\"}} {}} {StyleAttribute 14 {{name \"position\"} {value \"center\"}} {}} {StyleAttribute 15 {{name \"actionPanelPosition\"} {value \"bottom\"}} {}} {StyleAttribute 16 {{name \"ringMenuPosition\"} {value \"bottom\"}} {}} {StyleAttribute 17 {{name \"toolBarPosition\"} {value \"none\"}} {}}}} {Style 18 {{name \"Window.dialog2\"}} {{StyleAttribute 19 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 20 {{name \"sizable\"} {value \"no\"}} {}} {StyleAttribute 21 {{name \"position\"} {value \"center\"}} {}} {StyleAttribute 22 {{name \"actionPanelPosition\"} {value \"none\"}} {}} {StyleAttribute 23 {{name \"ringMenuPosition\"} {value \"none\"}} {}} {StyleAttribute 24 {{name \"toolBarPosition\"} {value \"none\"}} {}}}} {Style 25 {{name \"Window.dialog3\"}} {{StyleAttribute 26 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 27 {{name \"sizable\"} {value \"yes\"}} {}} {StyleAttribute 28 {{name \"toolBarPosition\"} {value \"none\"}} {}} {StyleAttribute 29 {{name \"actionPanelPosition\"} {value \"none\"}} {}} {StyleAttribute 30 {{name \"ringMenuPosition\"} {value \"none\"}} {}}}} {Style 31 {{name \"Window.dialog4\"}} {{StyleAttribute 32 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 33 {{name \"sizable\"} {value \"yes\"}} {}} {StyleAttribute 34 {{name \"actionPanelPosition\"} {value \"bottom\"}} {}} {StyleAttribute 35 {{name \"ringMenuPosition\"} {value \"none\"}} {}}}} {Style 36 {{name \"Window.naked\"}} {{StyleAttribute 37 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 38 {{name \"actionPanelPosition\"} {value \"none\"}} {}} {StyleAttribute 39 {{name \"ringMenuPosition\"} {value \"none\"}} {}} {StyleAttribute 40 {{name \"toolBarPosition\"} {value \"none\"}} {}}}} {Style 41 {{name \"Window.viewer\"}} {{StyleAttribute 42 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 43 {{name \"sizable\"} {value \"yes\"}} {}} {StyleAttribute 44 {{name \"actionPanelPosition\"} {value \"none\"}} {}} {StyleAttribute 45 {{name \"ringMenuPosition\"} {value \"none\"}} {}} {StyleAttribute 46 {{name \"toolBarPosition\"} {value \"none\"}} {}}}}}} {ActionDefaultList 47 {} {{ActionDefault 56 {{name \"interrupt\"} {text \"Interrupt\"} {contextMenu \"no\"}} {}} {ActionDefault 64 {{name \"editcopy\"} {text \"Copy\"} {image \"font:FontAwesome.ttf:f0c5\"} {comment \"Copy\"} {acceleratorName \"Control-C\"} {contextMenu \"no\"}} {}} {ActionDefault 65 {{name \"editcut\"} {text \"Cut\"} {image \"font:FontAwesome.ttf:f0c4\"} {comment \"Cut\"} {acceleratorName \"Control-X\"} {contextMenu \"no\"}} {}} {ActionDefault 66 {{name \"editpaste\"} {text \"Paste\"} {image \"font:FontAwesome.ttf:f0ea\"} {comment \"Paste\"} {acceleratorName \"Control-V\"} {contextMenu \"no\"}} {}} {ActionDefault 67 {{name \"nextfield\"} {text \"Next Field\"} {acceleratorName \"Tab\"} {contextMenu \"no\"}} {}} {ActionDefault 68 {{name \"prevfield\"} {text \"Previous Field\"} {acceleratorName \"Shift-Tab\"} {contextMenu \"no\"}} {}} {ActionDefault 73 {{name \"nextpage\"} {text \"Next Page\"} {acceleratorName \"Next\"} {contextMenu \"no\"}} {}} {ActionDefault 74 {{name \"prevpage\"} {text \"Previous Page\"} {acceleratorName \"Prior\"} {contextMenu \"no\"}} {}} {ActionDefault 75 {{name \"nexttab\"} {text \"Next Folder Tab\"} {acceleratorName \"Control-Tab\"} {contextMenu \"no\"}} {}} {ActionDefault 76 {{name \"prevtab\"} {text \"Previous Folder Tab\"} {acceleratorName \"Control-Shift-Tab\"} {contextMenu \"no\"}} {}}}} {ImageFonts 85 {} {{ImageFont 86 {{name \"FontAwesome.ttf\"} {href \"http://10.40.41.189:80/wtopprd/ua/ft/e28ab62af053143400e6bab4705dd0aa/fgl-files/57295/FontAwesome.ttf?t=1729775310;s=165548;charset=UTF-8\"}} {}}}} {Window 87 {{name \"screen\"} {commentLine \"-2\"} {commentLineHidden \"0\"} {formLine \"2\"} {messageLine \"1\"} {menuLine \"0\"} {promptLine \"0\"} {errorLine \"-1\"} {posX \"0\"} {posY \"0\"} {width \"80\"} {height \"25\"} {style \"main\"} {text \"Demos\"}} {{Form 88 {{name \"demo\"} {text \"Demos\"} {width \"126\"} {height \"16\"} {formLine \"2\"}} {{Grid 89 {{width \"126\"} {height \"16\"}} {{Label 90 {{width \"52\"} {text \"Demo directory\"} {style \"title\"} {posY \"0\"} {posX \"2\"} {gridWidth \"52\"}} {}} {VBox 91 {{splitter \"1\"} {posY \"1\"} {posX \"1\"} {gridWidth \"124\"} {gridHeight \"15\"}} {{HBox 92 {{splitter \"1\"}} {{Table 93 {{pageSize \"1\"} {width \"39\"} {tabName \"s_topics\"} {bufferSize \"1\"} {multiRowSelection \"0\"} {offset \"0\"} {size \"9\"} {sortColumn \"-1\"} {sortType \"\"} {currentRow \"0\"} {focusOnField \"0\"} {dialogType \"DisplayArray\"} {canDrag \"0\"} {canDrop \"0\"} {active \"1\"} {haveRowActions \"0\"} {noFilter \"1\"}} {{TreeInfo 131 {{currentParentRow \"-1\"}} {{TreeItem 167 {{row \"0\"}} {}} {TreeItem 168 {{row \"-1\"} {hasChildren \"1\"}} {}}}} {TableColumn 94 {{text \"Topic\"} {name \"topics.name\"} {colName \"name\"} {fieldId \"0\"} {tabIndex \"1\"} {numAlign \"0\"} {varType \"VARCHAR(255)\"} {tabIndexRt \"1\"} {active \"1\"} {dialogType \"DisplayArray\"}} {{Edit 95 {{width \"37\"}} {}} {ValueList 132 {} {{Value 133 {{value \"File Types\"}} {}}}}}}}} {Table 100 {{pageSize \"1\"} {doubleClick \"show\"} {height \"15ln\"} {width \"85\"} {tabName \"s_demos\"} {bufferSize \"1\"} {multiRowSelection \"0\"} {offset \"0\"} {sortColumn \"-1\"} {sortType \"\"} {size \"13\"} {currentRow \"0\"} {focusOnField \"0\"} {dialogType \"DisplayArray\"} {canDrag \"0\"} {canDrop \"0\"} {active \"1\"} {actionActive \"1\"} {haveRowActions \"0\"} {noFilter \"0\"}} {{TableColumn 101 {{text \"Demo\"} {name \"demos.name\"} {colName \"name\"} {fieldId \"3\"} {tabIndex \"2\"} {tabIndexRt \"2\"} {numAlign \"0\"} {varType \"VARCHAR(255)\"} {active \"1\"} {dialogType \"DisplayArray\"}} {{Edit 102 {{width \"17\"}} {}} {ValueList 138 {} {{Value 139 {{value \"f_cust.per\"}} {}}}}}} {TableColumn 103 {{text \"Program\"} {name \"demos.program\"} {colName \"program\"} {fieldId \"4\"} {tabIndex \"3\"} {tabIndexRt \"3\"} {numAlign \"0\"} {varType \"VARCHAR(255)\"} {active \"1\"} {dialogType \"DisplayArray\"}} {{Edit 104 {{width \"9\"}} {}} {ValueList 140 {} {{Value 141 {{value \"f_cust.per\"}} {}}}}}} {TableColumn 105 {{text \"Arguments\"} {name \"demos.args\"} {colName \"args\"} {fieldId \"5\"} {tabIndex \"4\"} {tabIndexRt \"4\"} {numAlign \"0\"} {varType \"VARCHAR(255)\"} {active \"1\"} {dialogType \"DisplayArray\"}} {{Edit 106 {{width \"10\"}} {}} {ValueList 142 {} {{Value 143 {{value \"\"}} {}}}}}} {TableColumn 107 {{text \"Type\"} {name \"demos.type\"} {colName \"type\"} {fieldId \"6\"} {noEntry \"1\"} {tabIndex \"5\"} {numAlign \"0\"} {varType \"VARCHAR(255)\"} {active \"1\"} {dialogType \"DisplayArray\"}} {{Image 108 {{width \"5\"}} {}} {ValueList 144 {} {{Value 145 {{value \"font:FontAwesome.ttf:f0f6\"}} {}}}}}} {TableColumn 111 {{text \"Description\"} {name \"demos.description\"} {colName \"description\"} {fieldId \"8\"} {tabIndex \"6\"} {tabIndexRt \"6\"} {numAlign \"0\"} {varType \"VARCHAR(255)\"} {active \"1\"} {dialogType \"DisplayArray\"}} {{Edit 112 {{width \"38\"}} {}} {ValueList 148 {} {{Value 149 {{value \"Form Specification Files (.per/.42f)\"}} {}}}}}}}}}} {FormField 115 {{name \"formonly.readme\"} {colName \"readme\"} {fieldId \"10\"} {tabIndex \"7\"} {numAlign \"0\"} {varType \"STRING\"} {value \"The Sample1 demo\\n----------------\\n\\nThis little example is provided to show all program components.\\n\\nFiles used by this example are:\\n\\n  - Programs/Modules (.4gl/.42m)\\n  - Form Specification Files (.per/.42f)\\n  - Using the preprocessor (.inc)\\n  - Database Schema Files (.sch/.val)\\n  - Message Files (.msg/.iem)\\n  - String Resources (.str/42s)\\n  - Action Defaults (.4ad)\\n  - Presentation Styles (.4st)\\n  - Toolbar files (.4tb)\\n  - Topmenu files (.4tm)\\n  - Configuration File (FGLPROFILE)\\n\\n\\nHow to run this example?\\n-----------------------\\n\\nMake sure a front-end is started.\\n\\nOn UNIX, run:\\n   start-unix.sh\\nOn WINDOWS, run:\\n   start-mswin.bat\\n\\nThere are some environment variables to be set before starting a program.\\n\\nSee the scripts for more details about compilation and deployment rules.\\n\\nIf you want to debug the program:\\n\\nfglrun -d dist/bin/p_cust.42m\\n(fgldb) break main\\nBreakpoint 1 at 0x00000000: file p_cust.4gl, line xx.\\n(fgldb) run\\n\\n\\nIf you want to profile the program:\\n\\nfglrun -p dist/bin/p_cust.42m > profile.out\\n\\n\"} {tabIndexRt \"7\"} {dialogType \"Input\"} {active \"1\"}} {{TextEdit 116 {{width \"124\"} {height \"11\"} {stretch \"both\"} {fontPitch \"fixed\"} {notEditable \"1\"} {wantReturns \"1\"} {scroll \"1\"}} {}}}}}}}}}} {Dialog 152 {{active \"1\"}} {{Action 153 {{name \"cancel\"} {text \"Cancel\"} {acceleratorName \"Escape\"} {contextMenu \"no\"} {active \"1\"} {hidden \"0\"} {defaultView \"yes\"} {context \"dialog\"}} {}} {Action 154 {{name \"close\"} {text \"Close\"} {acceleratorName \"Alt-F4\"} {defaultView \"no\"} {contextMenu \"no\"} {active \"1\"} {hidden \"0\"} {context \"dialog\"}} {}} {Action 155 {{name \"+tab_out_prev\"} {acceleratorName \"shift-control-tab\"} {active \"1\"} {hidden \"0\"} {defaultView \"no\"} {contextMenu \"no\"} {context \"subdialog\"}} {}} {Action 156 {{name \"+tab_out_next\"} {acceleratorName \"control-tab\"} {active \"1\"} {hidden \"0\"} {defaultView \"no\"} {contextMenu \"no\"} {context \"subdialog\"}} {}} {Action 157 {{name \"firstrow\"} {text \"First\"} {image \"font:FontAwesome.ttf:f048\"} {acceleratorName \"Home\"} {contextMenu \"no\"} {active \"0\"} {hidden \"0\"} {defaultView \"no\"} {context \"subdialog\"}} {}} {Action 158 {{name \"prevrow\"} {text \"Previous\"} {image \"font:FontAwesome.ttf:f04a\"} {acceleratorName \"Up\"} {contextMenu \"no\"} {active \"0\"} {hidden \"0\"} {defaultView \"no\"} {context \"subdialog\"}} {}} {Action 159 {{name \"nextrow\"} {text \"Next\"} {image \"font:FontAwesome.ttf:f04e\"} {acceleratorName \"Down\"} {contextMenu \"no\"} {active \"1\"} {hidden \"0\"} {defaultView \"no\"} {context \"subdialog\"}} {}} {Action 160 {{name \"lastrow\"} {text \"Last\"} {image \"font:FontAwesome.ttf:f051\"} {acceleratorName \"End\"} {contextMenu \"no\"} {active \"1\"} {hidden \"0\"} {defaultView \"no\"} {context \"subdialog\"}} {}} {Action 161 {{name \"editcopy\"} {text \"Copy\"} {image \"font:FontAwesome.ttf:f0c5\"} {comment \"Copy\"} {acceleratorName \"Control-C\"} {contextMenu \"no\"} {active \"1\"} {hidden \"0\"} {defaultView \"no\"} {context \"subdialog\"}} {}} {Action 162 {{name \"expandall\"} {active \"1\"} {hidden \"0\"} {defaultView \"no\"} {contextMenu \"no\"} {context \"subdialog\"}} {}} {Action 163 {{name \"collapseall\"} {active \"1\"} {hidden \"0\"} {defaultView \"no\"} {contextMenu \"no\"} {context \"subdialog\"}} {}} {Action 164 {{name \"show\"} {active \"0\"} {hidden \"1\"}} {}} {Action 165 {{name \"find\"} {text \"Find\"} {image \"font:FontAwesome.ttf:f002\"} {comment \"Search\"} {acceleratorName \"Control-F\"} {active \"1\"} {hidden \"0\"} {defaultView \"no\"} {context \"subdialog\"}} {}} {Action 166 {{name \"findnext\"} {text \"Find Next\"} {image \"font:FontAwesome.ttf:f00e\"} {comment \"Search\"} {acceleratorName \"Control-G\"} {active \"1\"} {hidden \"0\"} {defaultView \"no\"} {context \"subdialog\"}} {}}}}}}}}}",
+      "appId": 0,
+      "pageId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150231,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150232,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150232,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150232,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150235,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150236,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150236,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150236,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150247,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150247,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150262,
+      "log": "No command to validate",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150262,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400150262,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150296,
+      "log": "[app0] PageSizeVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150296,
+      "log": "[app0] PageSizeVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150296,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150301,
+      "log": "Executing PageSizeVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150301,
+      "log": "Executing PageSizeVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150301,
+      "log": "Sending events to VM [object Object],[object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400150301,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=2",
+      "data": "event _om 0{}{{ConfigureEvent 0{{idRef \"93\"}{pageSize \"29\"}{bufferSize \"31\"}}}{ConfigureEvent 0{{idRef \"100\"}{pageSize \"29\"}{bufferSize \"31\"}}}}",
+      "appId": 0,
+      "pageId": 2
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400150337,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=2",
+      "data": "om 1 {{an 131 TreeItem 262 {{row \"2\"} {hasChildren \"1\"}} {}} {an 131 TreeItem 263 {{row \"3\"} {hasChildren \"1\"}} {}} {an 131 TreeItem 264 {{row \"4\"} {hasChildren \"1\"}} {}} {an 131 TreeItem 265 {{row \"5\"} {hasChildren \"1\"}} {}} {an 131 TreeItem 266 {{row \"6\"} {hasChildren \"1\"}} {}} {an 131 TreeItem 267 {{row \"7\"} {hasChildren \"1\"}} {}} {an 131 TreeItem 268 {{row \"8\"} {hasChildren \"1\"}} {}} {an 132 Value 172 {{value \"New in 4.01\"}} {}} {an 132 Value 173 {{value \"New in 3.20\"}} {}} {an 132 Value 174 {{value \"New in 3.10\"}} {}} {an 132 Value 175 {{value \"Language Features\"}} {}} {an 132 Value 176 {{value \"User Interface\"}} {}} {an 132 Value 177 {{value \"Compatibility\"}} {}} {an 132 Value 178 {{value \"WebServices\"}} {}} {an 132 Value 179 {{value \"WebComponents\"}} {}} {an 132 Value 180 {{value \"\"}} {}} {an 132 Value 181 {{value \"\"}} {}} {an 132 Value 182 {{value \"\"}} {}} {an 132 Value 183 {{value \"\"}} {}} {an 132 Value 184 {{value \"\"}} {}} {an 132 Value 185 {{value \"\"}} {}} {an 132 Value 186 {{value \"\"}} {}} {an 132 Value 187 {{value \"\"}} {}} {an 132 Value 188 {{value \"\"}} {}} {an 132 Value 189 {{value \"\"}} {}} {an 132 Value 190 {{value \"\"}} {}} {an 132 Value 191 {{value \"\"}} {}} {an 132 Value 192 {{value \"\"}} {}} {an 132 Value 193 {{value \"\"}} {}} {an 132 Value 194 {{value \"\"}} {}} {an 132 Value 195 {{value \"\"}} {}} {an 132 Value 196 {{value \"\"}} {}} {an 132 Value 197 {{value \"\"}} {}} {an 132 Value 198 {{value \"\"}} {}} {an 132 Value 199 {{value \"\"}} {}} {an 132 Value 200 {{value \"\"}} {}} {an 132 Value 201 {{value \"\"}} {}} {an 138 Value 269 {{value \"f_states.per\"}} {}} {an 138 Value 270 {{value \"globtb.4tb\"}} {}} {an 138 Value 271 {{value \"globtm.4tm\"}} {}} {an 138 Value 272 {{value \"myactdefs.4ad\"}} {}} {an 138 Value 273 {{value \"mydb.sch\"}} {}} {an 138 Value 274 {{value \"mydb.val\"}} {}} {an 138 Value 275 {{value \"myhelp.msg\"}} {}} {an 138 Value 276 {{value \"mystyles.4st\"}} {}} {an 138 Value 277 {{value \"p_cust.4gl\"}} {}} {an 138 Value 278 {{value \"p_cust.prf\"}} {}} {an 138 Value 279 {{value \"p_cust.str\"}} {}} {an 138 Value 280 {{value \"toolbar1.inc\"}} {}} {an 138 Value 281 {{value \"\"}} {}} {an 138 Value 282 {{value \"\"}} {}} {an 138 Value 283 {{value \"\"}} {}} {an 138 Value 284 {{value \"\"}} {}} {an 138 Value 285 {{value \"\"}} {}} {an 138 Value 286 {{value \"\"}} {}} {an 138 Value 287 {{value \"\"}} {}} {an 138 Value 288 {{value \"\"}} {}} {an 138 Value 289 {{value \"\"}} {}} {an 138 Value 290 {{value \"\"}} {}} {an 138 Value 291 {{value \"\"}} {}} {an 138 Value 292 {{value \"\"}} {}} {an 138 Value 293 {{value \"\"}} {}} {an 138 Value 294 {{value \"\"}} {}} {an 138 Value 295 {{value \"\"}} {}} {an 138 Value 296 {{value \"\"}} {}} {an 138 Value 297 {{value \"\"}} {}} {an 138 Value 298 {{value \"\"}} {}} {an 140 Value 299 {{value \"f_states.per\"}} {}} {an 140 Value 300 {{value \"globtb.4tb\"}} {}} {an 140 Value 301 {{value \"globtm.4tm\"}} {}} {an 140 Value 302 {{value \"myactdefs.4ad\"}} {}} {an 140 Value 303 {{value \"mydb.sch\"}} {}} {an 140 Value 304 {{value \"mydb.val\"}} {}} {an 140 Value 305 {{value \"myhelp.msg\"}} {}} {an 140 Value 306 {{value \"mystyles.4st\"}} {}} {an 140 Value 307 {{value \"p_cust.4gl\"}} {}} {an 140 Value 308 {{value \"p_cust.prf\"}} {}} {an 140 Value 309 {{value \"p_cust.str\"}} {}} {an 140 Value 310 {{value \"toolbar1.inc\"}} {}} {an 140 Value 311 {{value \"\"}} {}} {an 140 Value 312 {{value \"\"}} {}} {an 140 Value 313 {{value \"\"}} {}} {an 140 Value 314 {{value \"\"}} {}} {an 140 Value 315 {{value \"\"}} {}} {an 140 Value 316 {{value \"\"}} {}} {an 140 Value 317 {{value \"\"}} {}} {an 140 Value 318 {{value \"\"}} {}} {an 140 Value 319 {{value \"\"}} {}} {an 140 Value 320 {{value \"\"}} {}} {an 140 Value 321 {{value \"\"}} {}} {an 140 Value 322 {{value \"\"}} {}} {an 140 Value 323 {{value \"\"}} {}} {an 140 Value 324 {{value \"\"}} {}} {an 140 Value 325 {{value \"\"}} {}} {an 140 Value 326 {{value \"\"}} {}} {an 140 Value 327 {{value \"\"}} {}} {an 140 Value 328 {{value \"\"}} {}} {an 142 Value 329 {{value \"\"}} {}} {an 142 Value 330 {{value \"\"}} {}} {an 142 Value 331 {{value \"\"}} {}} {an 142 Value 332 {{value \"\"}} {}} {an 142 Value 333 {{value \"\"}} {}} {an 142 Value 334 {{value \"\"}} {}} {an 142 Value 335 {{value \"\"}} {}} {an 142 Value 336 {{value \"\"}} {}} {an 142 Value 337 {{value \"\"}} {}} {an 142 Value 338 {{value \"\"}} {}} {an 142 Value 339 {{value \"\"}} {}} {an 142 Value 340 {{value \"\"}} {}} {an 142 Value 341 {{value \"\"}} {}} {an 142 Value 342 {{value \"\"}} {}} {an 142 Value 343 {{value \"\"}} {}} {an 142 Value 344 {{value \"\"}} {}} {an 142 Value 345 {{value \"\"}} {}} {an 142 Value 346 {{value \"\"}} {}} {an 142 Value 347 {{value \"\"}} {}} {an 142 Value 348 {{value \"\"}} {}} {an 142 Value 349 {{value \"\"}} {}} {an 142 Value 350 {{value \"\"}} {}} {an 142 Value 351 {{value \"\"}} {}} {an 142 Value 352 {{value \"\"}} {}} {an 142 Value 353 {{value \"\"}} {}} {an 142 Value 354 {{value \"\"}} {}} {an 142 Value 355 {{value \"\"}} {}} {an 142 Value 356 {{value \"\"}} {}} {an 142 Value 357 {{value \"\"}} {}} {an 142 Value 358 {{value \"\"}} {}} {an 144 Value 359 {{value \"font:FontAwesome.ttf:f0f6\"}} {}} {an 144 Value 360 {{value \"font:FontAwesome.ttf:f0f6\"}} {}} {an 144 Value 361 {{value \"font:FontAwesome.ttf:f0f6\"}} {}} {an 144 Value 362 {{value \"font:FontAwesome.ttf:f0f6\"}} {}} {an 144 Value 363 {{value \"font:FontAwesome.ttf:f0f6\"}} {}} {an 144 Value 364 {{value \"font:FontAwesome.ttf:f0f6\"}} {}} {an 144 Value 365 {{value \"font:FontAwesome.ttf:f0f6\"}} {}} {an 144 Value 366 {{value \"font:FontAwesome.ttf:f0f6\"}} {}} {an 144 Value 367 {{value \"font:FontAwesome.ttf:f0f6\"}} {}} {an 144 Value 368 {{value \"font:FontAwesome.ttf:f0f6\"}} {}} {an 144 Value 369 {{value \"font:FontAwesome.ttf:f0f6\"}} {}} {an 144 Value 370 {{value \"font:FontAwesome.ttf:f0f6\"}} {}} {an 144 Value 371 {{value \"\"}} {}} {an 144 Value 372 {{value \"\"}} {}} {an 144 Value 373 {{value \"\"}} {}} {an 144 Value 374 {{value \"\"}} {}} {an 144 Value 375 {{value \"\"}} {}} {an 144 Value 376 {{value \"\"}} {}} {an 144 Value 377 {{value \"\"}} {}} {an 144 Value 378 {{value \"\"}} {}} {an 144 Value 379 {{value \"\"}} {}} {an 144 Value 380 {{value \"\"}} {}} {an 144 Value 381 {{value \"\"}} {}} {an 144 Value 382 {{value \"\"}} {}} {an 144 Value 383 {{value \"\"}} {}} {an 144 Value 384 {{value \"\"}} {}} {an 144 Value 385 {{value \"\"}} {}} {an 144 Value 386 {{value \"\"}} {}} {an 144 Value 387 {{value \"\"}} {}} {an 144 Value 388 {{value \"\"}} {}} {an 148 Value 419 {{value \"Form Specification Files (.per/.42f)\"}} {}} {an 148 Value 420 {{value \"Toolbar files (.4tb)\"}} {}} {an 148 Value 421 {{value \"Topmenu files (.4tm)\"}} {}} {an 148 Value 422 {{value \"Action Defaults (.4ad)\"}} {}} {an 148 Value 423 {{value \"Database Schema Files (.sch/.val)\"}} {}} {an 148 Value 424 {{value \"Database Schema Files (.sch/.val)\"}} {}} {an 148 Value 425 {{value \"Message Files (.msg/.iem)\"}} {}} {an 148 Value 426 {{value \"Presentation Styles (.4st)\"}} {}} {an 148 Value 427 {{value \"Programs/Modules (.4gl/.42m)\"}} {}} {an 148 Value 428 {{value \"Configuration File (FGLPROFILE)\"}} {}} {an 148 Value 429 {{value \"String Resources (.str/42s)\"}} {}} {an 148 Value 430 {{value \"Using the preprocessor (.inc)\"}} {}} {an 148 Value 431 {{value \"\"}} {}} {an 148 Value 432 {{value \"\"}} {}} {an 148 Value 433 {{value \"\"}} {}} {an 148 Value 434 {{value \"\"}} {}} {an 148 Value 435 {{value \"\"}} {}} {an 148 Value 436 {{value \"\"}} {}} {an 148 Value 437 {{value \"\"}} {}} {an 148 Value 438 {{value \"\"}} {}} {an 148 Value 439 {{value \"\"}} {}} {an 148 Value 440 {{value \"\"}} {}} {an 148 Value 441 {{value \"\"}} {}} {an 148 Value 442 {{value \"\"}} {}} {an 148 Value 443 {{value \"\"}} {}} {an 148 Value 444 {{value \"\"}} {}} {an 148 Value 445 {{value \"\"}} {}} {an 148 Value 446 {{value \"\"}} {}} {an 148 Value 447 {{value \"\"}} {}} {an 148 Value 448 {{value \"\"}} {}} {un 93 {{pageSize \"29\"} {bufferSize \"31\"}}} {un 168 {{row \"1\"}}} {un 100 {{pageSize \"29\"} {bufferSize \"31\"}}}}",
+      "appId": 0,
+      "pageId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150414,
+      "log": "Command(s) validation OK ",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150414,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150414,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400150414,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400150424,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400150428,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400150432,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400153766,
+      "itemId": null,
+      "itemElement": "<span class=\"gbc_TreeAnchor treeCollapsed\"></span>",
+      "auiId": "93",
+      "clientX": 18,
+      "clientY": 105,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400153766,
+      "log": "[app0] EventVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400153767,
+      "log": "Executing EventVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400153767,
+      "log": "Sending events to VM [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400153767,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=3",
+      "data": "event _om 1{}{{ConfigureEvent 0{{idRef \"168\"}{expanded \"1\"}}}}",
+      "appId": 0,
+      "pageId": 3
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400153795,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=3",
+      "data": "om 2 {{an 168 TreeItem 171 {{row \"2\"} {hasChildren \"1\"}} {}} {an 168 TreeItem 479 {{row \"3\"}} {}} {an 168 TreeItem 480 {{row \"4\"}} {}} {an 168 TreeItem 481 {{row \"5\"}} {}} {an 168 TreeItem 482 {{row \"6\"}} {}} {an 168 TreeItem 483 {{row \"7\"}} {}} {an 168 TreeItem 484 {{row \"8\"}} {}} {an 168 TreeItem 485 {{row \"9\"}} {}} {un 93 {{size \"17\"}}} {un 168 {{expanded \"1\"}}} {un 262 {{row \"10\"}}} {un 263 {{row \"11\"}}} {un 264 {{row \"12\"}}} {un 265 {{row \"13\"}}} {un 266 {{row \"14\"}}} {un 267 {{row \"15\"}}} {un 268 {{row \"16\"}}} {un 173 {{value \"Responsive Layout\"}}} {un 174 {{value \"Reflection API\"}}} {un 175 {{value \"Mixed Definitions\"}}} {un 176 {{value \"VAR declaractions\"}}} {un 177 {{value \"Raw String Literals\"}}} {un 178 {{value \"Regular Expressions API\"}}} {un 179 {{value \"Mark SQL Host Variables with $\"}}} {un 180 {{value \"Enhanced sorting\"}}} {un 181 {{value \"New in 3.20\"}}} {un 182 {{value \"New in 3.10\"}}} {un 183 {{value \"Language Features\"}}} {un 184 {{value \"User Interface\"}}} {un 185 {{value \"Compatibility\"}}} {un 186 {{value \"WebServices\"}}} {un 187 {{value \"WebComponents\"}}}}",
+      "appId": 0,
+      "pageId": 3
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400153812,
+      "log": "Command(s) validation OK ",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400153812,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400153812,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400153812,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400153819,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400153819,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400153821,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400154755,
+      "itemId": "topics.name",
+      "itemElement": "<span class=\"gbc-label-text-container\" __widgetbase=\"\" __labelwidget=\"\">Reflection API</span>",
+      "auiId": "174",
+      "clientX": 60,
+      "clientY": 129,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400154756,
+      "log": "[app0] FocusVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400154756,
+      "log": "Executing FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400154756,
+      "log": "Sending events to VM [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400154756,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=4",
+      "data": "event _om 2{}{{ConfigureEvent 0{{idRef \"93\"}{currentRow \"3\"}}}}",
+      "appId": 0,
+      "pageId": 4
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400154780,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=4",
+      "data": "om 3 {{un 93 {{currentRow \"3\"}}} {un 131 {{currentParentRow \"1\"}}} {un 100 {{size \"2\"}}} {un 139 {{value \"Array search test\"}}} {un 269 {{value \"Array search utility\"}}} {un 270 {{value \"\"}}} {un 271 {{value \"\"}}} {un 272 {{value \"\"}}} {un 273 {{value \"\"}}} {un 274 {{value \"\"}}} {un 275 {{value \"\"}}} {un 276 {{value \"\"}}} {un 277 {{value \"\"}}} {un 278 {{value \"\"}}} {un 279 {{value \"\"}}} {un 280 {{value \"\"}}} {un 141 {{value \"test.4gl\"}}} {un 299 {{value \"arrayFind.4gl\"}}} {un 300 {{value \"\"}}} {un 301 {{value \"\"}}} {un 302 {{value \"\"}}} {un 303 {{value \"\"}}} {un 304 {{value \"\"}}} {un 305 {{value \"\"}}} {un 306 {{value \"\"}}} {un 307 {{value \"\"}}} {un 308 {{value \"\"}}} {un 309 {{value \"\"}}} {un 310 {{value \"\"}}} {un 360 {{value \"\"}}} {un 361 {{value \"\"}}} {un 362 {{value \"\"}}} {un 363 {{value \"\"}}} {un 364 {{value \"\"}}} {un 365 {{value \"\"}}} {un 366 {{value \"\"}}} {un 367 {{value \"\"}}} {un 368 {{value \"\"}}} {un 369 {{value \"\"}}} {un 370 {{value \"\"}}} {un 149 {{value \"Array searching sample\"}}} {un 419 {{value \"Array element searching module\"}}} {un 420 {{value \"\"}}} {un 421 {{value \"\"}}} {un 422 {{value \"\"}}} {un 423 {{value \"\"}}} {un 424 {{value \"\"}}} {un 425 {{value \"\"}}} {un 426 {{value \"\"}}} {un 427 {{value \"\"}}} {un 428 {{value \"\"}}} {un 429 {{value \"\"}}} {un 430 {{value \"\"}}} {un 115 {{value \"Reflection API demos\\n--------------------\\n\\nReflection API can introspect types and modify variable values.\\n\\n\"}}} {un 157 {{active \"1\"}}} {un 158 {{active \"1\"}}}}",
+      "appId": 0,
+      "pageId": 4
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400154790,
+      "log": "Command(s) validation OK ",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400154790,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400154790,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400154790,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400154797,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400154797,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400154798,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400154927,
+      "itemId": "topics.name",
+      "itemElement": "<span class=\"gbc-label-text-container\" __widgetbase=\"\" __labelwidget=\"\">Reflection API</span>",
+      "auiId": "174",
+      "clientX": 60,
+      "clientY": 129,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400154927,
+      "log": "[app0] FocusVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400154927,
+      "log": "Executing FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400154927,
+      "log": "Popping unused FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400154928,
+      "log": "[app0] FocusVMCommand command failed.",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400157012,
+      "itemId": "demos.name",
+      "itemElement": "<span class=\"gbc-label-text-container\" __widgetbase=\"\" __labelwidget=\"\">Array search test</span>",
+      "auiId": "139",
+      "clientX": 622,
+      "clientY": 89,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157012,
+      "log": "[app0] FocusVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157012,
+      "log": "Executing FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157012,
+      "log": "Sending events to VM [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400157012,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=5",
+      "data": "event _om 3{}{{ConfigureEvent 0{{idRef \"100\"}{currentRow \"0\"}}}}",
+      "appId": 0,
+      "pageId": 5
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400157038,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=5",
+      "data": "om 4 {{un 157 {{active \"0\"}}} {un 158 {{active \"0\"}}} {un 162 {{active \"0\"} {hidden \"1\"}}} {un 163 {{active \"0\"} {hidden \"1\"}}} {un 164 {{active \"1\"} {hidden \"0\"} {defaultView \"no\"} {context \"subdialog\"}}} {un 0 {{focus \"100\"}}}}",
+      "appId": 0,
+      "pageId": 5
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157043,
+      "log": "Command(s) validation OK ",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157043,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157043,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400157043,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400157046,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157050,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400157050,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400157200,
+      "itemId": "demos.name",
+      "itemElement": "<span class=\"gbc-label-text-container\" __widgetbase=\"\" __labelwidget=\"\">Array search test</span>",
+      "auiId": "139",
+      "clientX": 622,
+      "clientY": 89,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157200,
+      "log": "[app0] FocusVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157200,
+      "log": "Executing FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157200,
+      "log": "Popping unused FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157200,
+      "log": "[app0] FocusVMCommand command failed.",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157201,
+      "log": "[app0] ActionVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157201,
+      "log": "Executing ActionVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157201,
+      "log": "Sending events to VM [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400157202,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=6",
+      "data": "event _om 4{}{{ActionEvent 0{{idRef \"100\"}}}}",
+      "appId": 0,
+      "pageId": 6
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400157233,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=6",
+      "data": "om 5 {{an 0 Window 170 {{name \"w\"} {commentLine \"-1\"} {commentLineHidden \"0\"} {formLine \"2\"} {messageLine \"1\"} {menuLine \"0\"} {promptLine \"0\"} {errorLine \"-1\"} {parent \"87\"} {text \"File: [Reflect/test.4gl]\"} {style \"dialog\"} {posX \"0\"} {posY \"0\"} {width \"77\"} {height \"22\"}} {{Form 487 {{name \"demodisp\"} {width \"77\"} {height \"22\"} {formLine \"2\"}} {{Grid 488 {{width \"77\"} {height \"22\"}} {{FormField 489 {{name \"formonly.txt\"} {colName \"txt\"} {fieldId \"0\"} {tabIndex \"1\"} {numAlign \"0\"} {varType \"STRING\"} {value \"# Property of Four Js*\\n# (c) Copyright Four Js 1995, 2024. All Rights Reserved.\\n# * Trademark of Four Js Development Tools Europe Ltd\\n#   in the United States and elsewhere\\n# \\n# Four Js and its suppliers do not warrant or guarantee that these\\n# samples are accurate and suitable for your purposes. Their inclusion is\\n# purely for information purposes only.\\n\\nIMPORT FGL arrayFind\\nIMPORT reflect\\nIMPORT util\\n\\nMAIN\\n    DEFINE i INT\\n    DEFINE condition1 arrayFind.FindCondition = (fieldName:\\\"s\\\", type: FC_EQUALS, value:\\\"abc\\\")\\n    DEFINE condition2 arrayFind.FindCondition = (fieldName:\\\"i4\\\", type: FC_LESS_THAN, value:\\\"20\\\")\\n    DEFINE a DYNAMIC ARRAY OF RECORD s STRING, i4 INT, date DATE END RECORD\\n    LET a[10].s = \\\"abc\\\"\\n    LET a[11].i4 = \\\"9\\\"\\n    LET a[12].i4 = \\\"19\\\"\\n    LET a[13].i4 = \\\"199\\\"\\n\\n    DISPLAY util.JSON.stringify(condition1)\\n    LET i = 1\\n    WHILE i>0 and i <= a.getLength()\\n        LET i = arrayFind.seach(a: reflect.Value.valueOf(a), condition: condition1.*, fromIndex: i)\\n        IF i > 0 THEN\\n            DISPLAY i, \\\" \\\", a[i].*\\n            LET i = i + 1\\n        END IF\\n    END WHILE\\n\\n    DISPLAY util.JSON.stringify(condition2)\\n    LET i = 1\\n    WHILE i>0 and i <= a.getLength()\\n        LET i = arrayFind.seach(a: reflect.Value.valueOf(a), condition: condition2.*, fromIndex: i)\\n        IF i > 0 THEN\\n            DISPLAY i, \\\" \\\", a[i].*\\n            LET i = i + 1\\n        END IF\\n    END WHILE\\nEND MAIN\\n\"} {tabIndexRt \"1\"} {cursor \"0\"} {cursor2 \"0\"} {dialogType \"Input\"} {active \"1\"}} {{TextEdit 490 {{width \"75\"} {height \"22\"} {stretch \"both\"} {fontPitch \"fixed\"} {wantReturns \"1\"} {scroll \"1\"} {posY \"0\"} {posX \"1\"} {gridWidth \"75\"} {gridHeight \"22\"} {maxLength \"0\"}} {}}}}}}}} {Dialog 493 {{active \"1\"}} {{Action 494 {{name \"accept\"} {text \"OK\"} {acceleratorName \"Return\"} {acceleratorName2 \"Enter\"} {contextMenu \"no\"} {active \"1\"} {hidden \"0\"} {defaultView \"yes\"} {context \"dialog\"}} {}} {Action 495 {{name \"cancel\"} {text \"Cancel\"} {acceleratorName \"Escape\"} {contextMenu \"no\"} {active \"1\"} {hidden \"0\"} {defaultView \"yes\"} {context \"dialog\"}} {}} {Action 496 {{name \"close\"} {text \"Close\"} {acceleratorName \"Alt-F4\"} {defaultView \"no\"} {contextMenu \"no\"} {hidden \"1\"} {active \"1\"} {context \"dialog\"}} {}}}}}} {un 93 {{active \"0\"}}} {un 94 {{active \"0\"}}} {un 100 {{active \"0\"} {actionActive \"0\"}}} {un 101 {{active \"0\"}}} {un 103 {{active \"0\"}}} {un 105 {{active \"0\"}}} {un 107 {{active \"0\"}}} {un 111 {{active \"0\"}}} {un 115 {{active \"0\"}}} {un 152 {{active \"0\"}}} {un 0 {{currentWindow \"170\"} {focus \"489\"}}}}",
+      "appId": 0,
+      "pageId": 6
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157240,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157240,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157240,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157241,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157257,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157257,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157257,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157257,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157259,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157260,
+      "log": "Command(s) validation OK ",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157260,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157260,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400157260,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400157308,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400157311,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400157312,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400158848,
+      "itemId": null,
+      "itemElement": "<div class=\"mt-dialog-actions\" __widgetbase=\"\" __modalwidget=\"\">\n          <span class=\"close\" __widgetbase=\"\" __modalwidget=\"\">\n            <i class=\"zmdi zmdi-close\" title=\"Close window\" __widgetbase=\"\" __modalwidget=\"\"></i>\n          </span>\n      </div>",
+      "auiId": "170",
+      "clientX": 1227,
+      "clientY": 278,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400160325,
+      "itemId": null,
+      "itemElement": "<div class=\"containerElement\" __widgetbase=\"\" __menuwidget=\"\"><div __widgetbase=\"\" __buttonwidget=\"\" id=\"w_624\" class=\"gbc_WidgetBase gbc_ButtonWidget w_624 g_measureable gbc_WidgetBase_standalone aui__494 text-hidden hasText\" data-aui-id=\"494\" data-aui-name=\"accept\">\n  <div tabindex=\"0\" class=\"mt-button\" role=\"button\" __widgetbase=\"\" __buttonwidget=\"\">\n    <div class=\"textimage\" __widgetbase=\"\" __buttonwidget=\"\">\n      <span class=\"mt-button-text\" __widgetbase=\"\" __buttonwidget=\"\">OK</span>\n    </div>\n  </div>\n<char-measurer class=\"g_layout_charMeasurer\" aria-hidden=\"true\"><char-measurer-item class=\"g_layout_charMeasurer1\">MMMMMMMMMM\nM\nM\nM\nM\nM\nM\nM\nM\nM</char-measurer-item><char-measurer-item class=\"g_layout_charMeasurer2\">0000000000</char-measurer-item></char-measurer></div><div __widgetbase=\"\" __buttonwidget=\"\" id=\"w_625\" class=\"gbc_WidgetBase gbc_ButtonWidget w_625 g_measureable gbc_WidgetBase_standalone aui__495 text-hidden hasText\" data-aui-id=\"495\" data-aui-name=\"cancel\">\n  <div tabindex=\"0\" class=\"mt-button\" role=\"button\" __widgetbase=\"\" __buttonwidget=\"\">\n    <div class=\"textimage\" __widgetbase=\"\" __buttonwidget=\"\">\n      <span class=\"mt-button-text\" __widgetbase=\"\" __buttonwidget=\"\">Cancel</span>\n    </div>\n  </div>\n<char-measurer class=\"g_layout_charMeasurer\" aria-hidden=\"true\"><char-measurer-item class=\"g_layout_charMeasurer1\">MMMMMMMMMM\nM\nM\nM\nM\nM\nM\nM\nM\nM</char-measurer-item><char-measurer-item class=\"g_layout_charMeasurer2\">0000000000</char-measurer-item></char-measurer></div><div __widgetbase=\"\" __buttonwidget=\"\" id=\"w_626\" class=\"gbc_WidgetBase gbc_ButtonWidget w_626 g_measureable gbc_WidgetBase_standalone aui__496 text-hidden hidden hasText\" data-aui-id=\"496\" data-aui-name=\"close\">\n  <div tabindex=\"0\" class=\"mt-button\" role=\"button\" __widgetbase=\"\" __buttonwidget=\"\">\n    <div class=\"textimage\" __widgetbase=\"\" __buttonwidget=\"\">\n      <span class=\"mt-button-text\" __widgetbase=\"\" __buttonwidget=\"\">Close</span>\n    </div>\n  </div>\n<char-measurer class=\"g_layout_charMeasurer\" aria-hidden=\"true\"><char-measurer-item class=\"g_layout_charMeasurer1\">MMMMMMMMMM\nM\nM\nM\nM\nM\nM\nM\nM\nM</char-measurer-item><char-measurer-item class=\"g_layout_charMeasurer2\">0000000000</char-measurer-item></char-measurer></div></div>",
+      "auiId": "493",
+      "clientX": 799,
+      "clientY": 649,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400160662,
+      "itemId": "cancel",
+      "itemElement": "<span class=\"mt-button-text\" __widgetbase=\"\" __buttonwidget=\"\">Cancel</span>",
+      "auiId": "495",
+      "clientX": 731,
+      "clientY": 649,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160662,
+      "log": "[app0] Start command group [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160662,
+      "log": "[app0] CursorsVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160663,
+      "log": "[app0] ValueVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160663,
+      "log": "[app0] ActionVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160663,
+      "log": "[app0] Finish command group [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160663,
+      "log": "[app0] GroupCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160663,
+      "log": "Executing GroupCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160663,
+      "log": "[app0] CursorsVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160663,
+      "log": "[app0] ValueVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160663,
+      "log": "[app0] ActionVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160663,
+      "log": "Executing CursorsVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160663,
+      "log": "Popping unused CursorsVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160663,
+      "log": "[app0] CursorsVMCommand command failed.",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160663,
+      "log": "Executing ValueVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160664,
+      "log": "Popping unused ValueVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160664,
+      "log": "[app0] ValueVMCommand command failed.",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160664,
+      "log": "Executing ActionVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160664,
+      "log": "Sending events to VM [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400160664,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=7",
+      "data": "event _om 5{}{{ActionEvent 0{{idRef \"495\"}}}}",
+      "appId": 0,
+      "pageId": 7
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400160780,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=7",
+      "data": "om 6 {{rn 493} {rn 170} {un 93 {{active \"1\"}}} {un 94 {{active \"1\"}}} {un 100 {{active \"1\"} {actionActive \"1\"}}} {un 101 {{active \"1\"}}} {un 103 {{active \"1\"}}} {un 105 {{active \"1\"}}} {un 107 {{active \"1\"}}} {un 111 {{active \"1\"}}} {un 115 {{active \"1\"}}} {un 152 {{active \"1\"}}} {un 0 {{currentWindow \"87\"} {focus \"100\"}}}}",
+      "appId": 0,
+      "pageId": 7
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160801,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160804,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160804,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160805,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160838,
+      "log": "Command(s) validation OK ",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160838,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160838,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400160838,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400160843,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400160845,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400160847,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400162388,
+      "itemId": null,
+      "itemElement": "<span class=\"gbc_TreeAnchor treeCollapsed\"></span>",
+      "auiId": "93",
+      "clientX": 18,
+      "clientY": 299,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400162388,
+      "log": "[app0] EventVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400162389,
+      "log": "Executing EventVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400162389,
+      "log": "Sending events to VM [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400162389,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=8",
+      "data": "event _om 6{}{{ConfigureEvent 0{{idRef \"265\"}{expanded \"1\"}}}}",
+      "appId": 0,
+      "pageId": 8
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400162424,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=8",
+      "data": "om 7 {{an 265 TreeItem 486 {{row \"14\"} {hasChildren \"1\"}} {}} {an 265 TreeItem 492 {{row \"15\"} {hasChildren \"1\"}} {}} {un 93 {{size \"19\"}}} {un 265 {{expanded \"1\"}}} {un 266 {{row \"16\"}}} {un 267 {{row \"17\"}}} {un 268 {{row \"18\"}}} {un 185 {{value \"UI Basics\"}}} {un 186 {{value \"UI Advanced\"}}} {un 187 {{value \"Compatibility\"}}} {un 188 {{value \"WebServices\"}}} {un 189 {{value \"WebComponents\"}}}}",
+      "appId": 0,
+      "pageId": 8
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400162438,
+      "log": "Command(s) validation OK ",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400162438,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400162438,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400162438,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400162445,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400162445,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400162446,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400163602,
+      "itemId": null,
+      "itemElement": "<span class=\"gbc_TreeAnchor treeCollapsed\"></span>",
+      "auiId": "93",
+      "clientX": 22,
+      "clientY": 314,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400163602,
+      "log": "[app0] EventVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400163603,
+      "log": "Executing EventVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400163603,
+      "log": "Sending events to VM [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400163603,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=9",
+      "data": "event _om 7{}{{ConfigureEvent 0{{idRef \"486\"}{expanded \"1\"}}}}",
+      "appId": 0,
+      "pageId": 9
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400163626,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=9",
+      "data": "om 8 {{an 486 TreeItem 169 {{row \"15\"}} {}} {an 486 TreeItem 490 {{row \"16\"}} {}} {an 486 TreeItem 489 {{row \"17\"}} {}} {an 486 TreeItem 488 {{row \"18\"}} {}} {an 486 TreeItem 487 {{row \"19\"}} {}} {an 486 TreeItem 170 {{row \"20\"}} {}} {an 486 TreeItem 496 {{row \"21\"}} {}} {an 486 TreeItem 494 {{row \"22\"}} {}} {an 486 TreeItem 493 {{row \"23\"}} {}} {an 486 TreeItem 497 {{row \"24\"}} {}} {an 486 TreeItem 498 {{row \"25\"}} {}} {an 486 TreeItem 499 {{row \"26\"}} {}} {an 486 TreeItem 500 {{row \"27\"}} {}} {an 486 TreeItem 501 {{row \"28\"}} {}} {un 93 {{size \"33\"}}} {un 486 {{expanded \"1\"}}} {un 492 {{row \"29\"}}} {un 266 {{row \"30\"}}} {un 267 {{row \"-1\"}}} {un 268 {{row \"-1\"}}} {un 186 {{value \"Prompt\"}}} {un 187 {{value \"RingMenu\"}}} {un 188 {{value \"Widgets\"}}} {un 189 {{value \"Lists\"}}} {un 190 {{value \"Canvas\"}}} {un 191 {{value \"GuiMisc\"}}} {un 192 {{value \"Layout\"}}} {un 193 {{value \"ActionDefaults\"}}} {un 194 {{value \"TopMenu\"}}} {un 195 {{value \"ToolBar\"}}} {un 196 {{value \"StartMenu\"}}} {un 197 {{value \"Styles\"}}} {un 198 {{value \"Windows\"}}} {un 199 {{value \"TtyAttrs\"}}} {un 200 {{value \"UI Advanced\"}}} {un 201 {{value \"Compatibility\"}}}}",
+      "appId": 0,
+      "pageId": 9
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400163638,
+      "log": "Command(s) validation OK ",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400163638,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400163638,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400163638,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400163645,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400163645,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400163646,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400164298,
+      "itemId": "topics.name",
+      "itemElement": "<span class=\"gbc-label-text-container\" __widgetbase=\"\" __labelwidget=\"\">Prompt</span>",
+      "auiId": "186",
+      "clientX": 56,
+      "clientY": 334,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400164298,
+      "log": "[app0] FocusVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400164298,
+      "log": "Executing FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400164298,
+      "log": "Sending events to VM [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400164298,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=10",
+      "data": "event _om 8{}{{ConfigureEvent 0{{idRef \"93\"}{currentRow \"15\"}}}}",
+      "appId": 0,
+      "pageId": 10
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400164333,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=10",
+      "data": "om 9 {{un 93 {{currentRow \"15\"}}} {un 131 {{currentParentRow \"14\"}}} {un 100 {{size \"1\"}}} {un 139 {{value \"Prompt\"}}} {un 269 {{value \"\"}}} {un 141 {{value \"Prompt1\"}}} {un 299 {{value \"\"}}} {un 145 {{value \"font:FontAwesome.ttf:f085\"}}} {un 359 {{value \"\"}}} {un 149 {{value \"Ask for one value\"}}} {un 419 {{value \"\"}}} {un 115 {{value \"Prompt demo\\n-----------\\n\\nThis demo shows how to use the PROMPT instruction.\"}}} {un 157 {{active \"1\"}}} {un 158 {{active \"1\"}}} {un 162 {{active \"1\"} {hidden \"0\"}}} {un 163 {{active \"1\"} {hidden \"0\"}}} {un 164 {{active \"0\"} {hidden \"1\"}}} {un 0 {{focus \"93\"}}}}",
+      "appId": 0,
+      "pageId": 10
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400164346,
+      "log": "Command(s) validation OK ",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400164346,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400164346,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400164346,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400164354,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400164363,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400164366,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400164575,
+      "itemId": "topics.name",
+      "itemElement": "<span class=\"gbc-label-text-container\" __widgetbase=\"\" __labelwidget=\"\">Prompt</span>",
+      "auiId": "186",
+      "clientX": 56,
+      "clientY": 334,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400164575,
+      "log": "[app0] FocusVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400164575,
+      "log": "Executing FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400164575,
+      "log": "Popping unused FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400164575,
+      "log": "[app0] FocusVMCommand command failed.",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400166209,
+      "itemId": "topics.name",
+      "itemElement": "<span class=\"gbc-label-text-container\" __widgetbase=\"\" __labelwidget=\"\">RingMenu</span>",
+      "auiId": "187",
+      "clientX": 84,
+      "clientY": 360,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400166209,
+      "log": "[app0] FocusVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400166209,
+      "log": "Executing FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400166209,
+      "log": "Sending events to VM [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400166209,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=11",
+      "data": "event _om 9{}{{ConfigureEvent 0{{idRef \"93\"}{currentRow \"16\"}}}}",
+      "appId": 0,
+      "pageId": 11
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400166232,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=11",
+      "data": "om 10 {{un 93 {{currentRow \"16\"}}} {un 100 {{size \"2\"}}} {un 139 {{value \"Ring Menu 1\"}}} {un 269 {{value \"Ring Menu 2\"}}} {un 141 {{value \"Menu1\"}}} {un 299 {{value \"Menu2\"}}} {un 359 {{value \"font:FontAwesome.ttf:f085\"}}} {un 149 {{value \"Standard MENU instruction\"}}} {un 419 {{value \"Using the STYLE attribute\"}}} {un 115 {{value \"Ring Menu demos\\n---------------\\n\\nThese demos show how to use the MENU instruction :\\n- the first demo shows how a simply MENU works.\\n- the second demo applies a STYLE to the MENU.\"}}}}",
+      "appId": 0,
+      "pageId": 11
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400166238,
+      "log": "Command(s) validation OK ",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400166238,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400166238,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400166238,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400166242,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400166242,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400166244,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400166405,
+      "itemId": "topics.name",
+      "itemElement": "<span class=\"gbc-label-text-container\" __widgetbase=\"\" __labelwidget=\"\">RingMenu</span>",
+      "auiId": "187",
+      "clientX": 84,
+      "clientY": 360,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400166406,
+      "log": "[app0] FocusVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400166406,
+      "log": "Executing FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400166406,
+      "log": "Popping unused FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400166406,
+      "log": "[app0] FocusVMCommand command failed.",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400166878,
+      "itemId": "topics.name",
+      "itemElement": "<span class=\"gbc-label-text-container\" __widgetbase=\"\" __labelwidget=\"\">RingMenu</span>",
+      "auiId": "187",
+      "clientX": 84,
+      "clientY": 360,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400166878,
+      "log": "[app0] FocusVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400166878,
+      "log": "Executing FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400166878,
+      "log": "Popping unused FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400166878,
+      "log": "[app0] FocusVMCommand command failed.",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400167731,
+      "itemId": "demos.name",
+      "itemElement": "<span class=\"gbc-label-text-container\" __widgetbase=\"\" __labelwidget=\"\">Ring Menu 1</span>",
+      "auiId": "139",
+      "clientX": 572,
+      "clientY": 89,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167731,
+      "log": "[app0] FocusVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167731,
+      "log": "Executing FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167732,
+      "log": "Sending events to VM [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400167732,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=12",
+      "data": "event _om 10{}{{ConfigureEvent 0{{idRef \"100\"}{currentRow \"0\"}}}}",
+      "appId": 0,
+      "pageId": 12
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400167752,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=12",
+      "data": "om 11 {{un 157 {{active \"0\"}}} {un 158 {{active \"0\"}}} {un 162 {{active \"0\"} {hidden \"1\"}}} {un 163 {{active \"0\"} {hidden \"1\"}}} {un 164 {{active \"1\"} {hidden \"0\"}}} {un 0 {{focus \"100\"}}}}",
+      "appId": 0,
+      "pageId": 12
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167756,
+      "log": "Command(s) validation OK ",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167756,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167756,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400167756,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400167758,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167763,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400167764,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400167890,
+      "itemId": "demos.name",
+      "itemElement": "<span class=\"gbc-label-text-container\" __widgetbase=\"\" __labelwidget=\"\">Ring Menu 1</span>",
+      "auiId": "139",
+      "clientX": 572,
+      "clientY": 89,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167890,
+      "log": "[app0] FocusVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167890,
+      "log": "Executing FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167890,
+      "log": "Popping unused FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167890,
+      "log": "[app0] FocusVMCommand command failed.",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167891,
+      "log": "[app0] ActionVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167891,
+      "log": "Executing ActionVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167891,
+      "log": "Sending events to VM [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400167891,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=13",
+      "data": "event _om 11{}{{ActionEvent 0{{idRef \"100\"}}}}",
+      "appId": 0,
+      "pageId": 13
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400167914,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=13",
+      "data": "om 12 {{un 0 {{runtimeStatus \"childstart\"}}}}\nom 13 {{un 0 {{runtimeStatus \"processing\"}}}}",
+      "appId": 0,
+      "pageId": 13
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400167915,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "newtask",
+      "uaDetails": "newTask",
+      "type": "newTask : POST : /wtopprd/ua/newtask/e28ab62af053143400e6bab4705dd0aa?seq=0",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400167915,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "empty",
+      "type": "empty : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=14",
+      "appId": 0,
+      "pageId": 14
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167917,
+      "log": "Command(s) validation OK ",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167917,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167917,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400167917,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400167919,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167919,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400167919,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400167928,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "newtask",
+      "uaDetails": "newTask",
+      "type": "newTask : POST : /wtopprd/ua/newtask/e28ab62af053143400e6bab4705dd0aa?seq=0",
+      "data": "",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400167931,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "empty",
+      "type": "empty : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=14",
+      "data": "om 14 {{un 0 {{runtimeStatus \"interactive\"}}}}",
+      "appId": 0,
+      "pageId": 14
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167933,
+      "log": "No command to validate",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167933,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400167933,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167935,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400167935,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167940,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400167941,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "runTask",
+      "type": "runTask : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=1&pageId=1",
+      "data": null,
+      "appId": 1,
+      "pageId": 1
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400167943,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 1
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400167955,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "runTask",
+      "type": "runTask : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=1&pageId=1",
+      "data": "meta Connection {{encoding \"UTF-8\"} {protocolVersion \"102\"} {interfaceVersion \"110\"} {runtimeVersion \"5.00.03-2525\"} {encapsulation \"1\"} {filetransfer \"1\"} {filetransferVersion \"2\"} {filetransferFC \"1\"} {procIdParent \"T100RHEL9:57295\"} {frontEndID \"{d9083a58-3de5-18da-a855-0864a897b6d7}\"} {procId \"T100RHEL9:57979\"} {programName \"Menu1\"}}",
+      "appId": 1,
+      "pageId": 1
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400167956,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=1&pageId=2",
+      "data": "meta Client{{name \"GBC\"}{version \"5.00.07.dsc5\"}{encoding \"UTF-8\"}{encapsulation \"0\"}{filetransfer \"0\"}{mobileUI \"0\"}{media \"large\"}{json \"0\"}}",
+      "appId": 1,
+      "pageId": 2
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400167985,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=1&pageId=2",
+      "data": "om 0 {{an 0 UserInterface 0 {{name \"Menu1\"} {text \"Menu1\"} {charLengthSemantics \"0\"} {procIdParent \"T100RHEL9:57295\"} {procId \"T100RHEL9:57979\"} {dbDate \"MDY4/\"} {dbCentury \"R\"} {decimalSeparator \".\"} {thousandsSeparator \",\"} {media \"large\"} {errorLine \"-1\"} {commentLine \"-1\"} {formLine \"2\"} {messageLine \"1\"} {menuLine \"0\"} {promptLine \"0\"} {fieldOrder \"1\"} {currentWindow \"87\"} {focus \"101\"} {runtimeStatus \"interactive\"}} {{StyleList 1 {} {{Style 2 {{name \"Window\"}} {{StyleAttribute 3 {{name \"windowType\"} {value \"normal\"}} {}}}} {Style 4 {{name \"Window.main\"}} {{StyleAttribute 5 {{name \"windowType\"} {value \"normal\"}} {}} {StyleAttribute 6 {{name \"startMenuPosition\"} {value \"menu\"}} {}}}} {Style 7 {{name \"Window.main2\"}} {{StyleAttribute 8 {{name \"windowType\"} {value \"normal\"}} {}} {StyleAttribute 9 {{name \"actionPanelPosition\"} {value \"none\"}} {}} {StyleAttribute 10 {{name \"ringMenuPosition\"} {value \"none\"}} {}}}} {Style 11 {{name \"Window.dialog\"}} {{StyleAttribute 12 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 13 {{name \"sizable\"} {value \"no\"}} {}} {StyleAttribute 14 {{name \"position\"} {value \"center\"}} {}} {StyleAttribute 15 {{name \"actionPanelPosition\"} {value \"bottom\"}} {}} {StyleAttribute 16 {{name \"ringMenuPosition\"} {value \"bottom\"}} {}} {StyleAttribute 17 {{name \"toolBarPosition\"} {value \"none\"}} {}}}} {Style 18 {{name \"Window.dialog2\"}} {{StyleAttribute 19 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 20 {{name \"sizable\"} {value \"no\"}} {}} {StyleAttribute 21 {{name \"position\"} {value \"center\"}} {}} {StyleAttribute 22 {{name \"actionPanelPosition\"} {value \"none\"}} {}} {StyleAttribute 23 {{name \"ringMenuPosition\"} {value \"none\"}} {}} {StyleAttribute 24 {{name \"toolBarPosition\"} {value \"none\"}} {}}}} {Style 25 {{name \"Window.dialog3\"}} {{StyleAttribute 26 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 27 {{name \"sizable\"} {value \"yes\"}} {}} {StyleAttribute 28 {{name \"toolBarPosition\"} {value \"none\"}} {}} {StyleAttribute 29 {{name \"actionPanelPosition\"} {value \"none\"}} {}} {StyleAttribute 30 {{name \"ringMenuPosition\"} {value \"none\"}} {}}}} {Style 31 {{name \"Window.dialog4\"}} {{StyleAttribute 32 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 33 {{name \"sizable\"} {value \"yes\"}} {}} {StyleAttribute 34 {{name \"actionPanelPosition\"} {value \"bottom\"}} {}} {StyleAttribute 35 {{name \"ringMenuPosition\"} {value \"none\"}} {}}}} {Style 36 {{name \"Window.naked\"}} {{StyleAttribute 37 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 38 {{name \"actionPanelPosition\"} {value \"none\"}} {}} {StyleAttribute 39 {{name \"ringMenuPosition\"} {value \"none\"}} {}} {StyleAttribute 40 {{name \"toolBarPosition\"} {value \"none\"}} {}}}} {Style 41 {{name \"Window.viewer\"}} {{StyleAttribute 42 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 43 {{name \"sizable\"} {value \"yes\"}} {}} {StyleAttribute 44 {{name \"actionPanelPosition\"} {value \"none\"}} {}} {StyleAttribute 45 {{name \"ringMenuPosition\"} {value \"none\"}} {}} {StyleAttribute 46 {{name \"toolBarPosition\"} {value \"none\"}} {}}}}}} {ActionDefaultList 47 {} {{ActionDefault 56 {{name \"interrupt\"} {text \"Interrupt\"} {contextMenu \"no\"}} {}} {ActionDefault 64 {{name \"editcopy\"} {text \"Copy\"} {image \"font:FontAwesome.ttf:f0c5\"} {comment \"Copy\"} {acceleratorName \"Control-C\"} {contextMenu \"no\"}} {}} {ActionDefault 65 {{name \"editcut\"} {text \"Cut\"} {image \"font:FontAwesome.ttf:f0c4\"} {comment \"Cut\"} {acceleratorName \"Control-X\"} {contextMenu \"no\"}} {}} {ActionDefault 66 {{name \"editpaste\"} {text \"Paste\"} {image \"font:FontAwesome.ttf:f0ea\"} {comment \"Paste\"} {acceleratorName \"Control-V\"} {contextMenu \"no\"}} {}} {ActionDefault 67 {{name \"nextfield\"} {text \"Next Field\"} {acceleratorName \"Tab\"} {contextMenu \"no\"}} {}} {ActionDefault 68 {{name \"prevfield\"} {text \"Previous Field\"} {acceleratorName \"Shift-Tab\"} {contextMenu \"no\"}} {}} {ActionDefault 73 {{name \"nextpage\"} {text \"Next Page\"} {acceleratorName \"Next\"} {contextMenu \"no\"}} {}} {ActionDefault 74 {{name \"prevpage\"} {text \"Previous Page\"} {acceleratorName \"Prior\"} {contextMenu \"no\"}} {}} {ActionDefault 75 {{name \"nexttab\"} {text \"Next Folder Tab\"} {acceleratorName \"Control-Tab\"} {contextMenu \"no\"}} {}} {ActionDefault 76 {{name \"prevtab\"} {text \"Previous Folder Tab\"} {acceleratorName \"Control-Shift-Tab\"} {contextMenu \"no\"}} {}}}} {ImageFonts 85 {} {{ImageFont 86 {{name \"FontAwesome.ttf\"} {href \"http://10.40.41.189:80/wtopprd/ua/ft/e28ab62af053143400e6bab4705dd0aa/fgl-files/57979/FontAwesome.ttf?t=1729775310;s=165548;charset=UTF-8\"}} {}}}} {Window 87 {{name \"screen\"} {commentLine \"-2\"} {commentLineHidden \"0\"} {formLine \"2\"} {messageLine \"1\"} {menuLine \"0\"} {promptLine \"0\"} {errorLine \"-1\"} {posX \"0\"} {posY \"0\"} {width \"80\"} {height \"25\"} {style \"main\"} {text \"Menu\"}} {{Form 88 {{name \"Menu1\"} {text \"Menu\"} {width \"59\"} {height \"24\"} {formLine \"2\"}} {{Grid 89 {{width \"59\"} {height \"24\"}} {{Group 90 {{text \"description\"} {posY \"0\"} {posX \"0\"} {gridWidth \"59\"} {gridHeight \"6\"}} {{Label 91 {{text \"A ring menu defines both an action controller and a view\"} {posY \"1\"} {posX \"1\"} {gridWidth \"56\"}} {}} {Label 92 {{text \"for the actions.\"} {posY \"2\"} {posX \"1\"} {gridWidth \"16\"}} {}} {Label 93 {{text \"You can associate another action view to the ring menu,\"} {posY \"3\"} {posX \"1\"} {gridWidth \"55\"}} {}} {Label 94 {{text \"for example a toolbar.\"} {posY \"4\"} {posX \"1\"} {gridWidth \"22\"}} {}}}} {Group 95 {{text \"info\"} {posY \"6\"} {posX \"0\"} {gridWidth \"59\"} {gridHeight \"19\"}} {{FormField 96 {{name \"formonly.info\"} {colName \"info\"} {fieldId \"0\"} {tabIndex \"1\"} {numAlign \"0\"} {varType \"STRING\"} {value \"Enter menu\"}} {{TextEdit 97 {{width \"55\"} {height \"16\"} {wantReturns \"1\"} {scroll \"1\"} {posY \"1\"} {posX \"2\"} {gridWidth \"55\"} {gridHeight \"16\"}} {}}}}}}}}}} {Menu 100 {{text \"MENU\"} {posY \"0\"} {active \"1\"} {selection \"101\"}} {{MenuAction 101 {{name \"item 1\"} {text \"Item 1\"} {comment \"\"} {tabIndexRt \"1\"} {active \"1\"} {hidden \"0\"} {defaultView \"yes\"} {context \"dialog\"}} {}} {MenuAction 102 {{name \"item 2\"} {text \"Item 2\"} {comment \"Comment for Item 2\"} {tabIndexRt \"2\"} {active \"1\"} {hidden \"0\"} {defaultView \"yes\"} {context \"dialog\"}} {}} {MenuAction 103 {{name \"item 3\"} {text \"Item 3\"} {comment \"Comment for Item 3\"} {hidden \"1\"} {active \"0\"} {tabIndexRt \"3\"} {defaultView \"yes\"} {context \"dialog\"}} {}} {MenuAction 104 {{name \"hide item 1\"} {text \"Hide Item 1\"} {comment \"HIDE OPTION 'Item 1'\"} {tabIndexRt \"4\"} {active \"1\"} {hidden \"0\"} {defaultView \"yes\"} {context \"dialog\"}} {}} {MenuAction 105 {{name \"show item 1\"} {text \"Show Item 1\"} {comment \"SHOW OPTION 'Item 1'\"} {tabIndexRt \"5\"} {active \"1\"} {hidden \"0\"} {defaultView \"yes\"} {context \"dialog\"}} {}} {MenuAction 106 {{name \"show item 3\"} {text \"Show Item 3\"} {comment \"SHOW OPTION 'Item 3'\"} {tabIndexRt \"6\"} {active \"1\"} {hidden \"0\"} {defaultView \"yes\"} {context \"dialog\"}} {}} {MenuAction 107 {{name \"f5\"} {isHotKey \"1\"} {acceleratorName \"F5\"} {active \"1\"} {hidden \"1\"} {defaultView \"yes\"} {context \"dialog\"}} {}} {MenuAction 108 {{name \"fkey6\"} {text \"Fkey6\"} {comment \"\"} {acceleratorName \"F6\"} {tabIndexRt \"7\"} {active \"1\"} {hidden \"0\"} {defaultView \"yes\"} {context \"dialog\"}} {}} {MenuAction 109 {{name \"control-e\"} {text \"Control-e\"} {comment \"ERROR control-e\"} {acceleratorName \"Control-e\"} {tabIndexRt \"8\"} {active \"1\"} {hidden \"0\"} {defaultView \"yes\"} {context \"dialog\"}} {}} {MenuAction 110 {{name \"print\"} {text \"Print\"} {image \"font:FontAwesome.ttf:f02f\"} {comment \"Print\"} {contextMenu \"no\"} {tabIndexRt \"9\"} {active \"1\"} {hidden \"0\"} {defaultView \"yes\"} {context \"dialog\"}} {}} {MenuAction 111 {{name \"first\"} {text \"First\"} {image \"font:FontAwesome.ttf:f048\"} {comment \"First record\"} {contextMenu \"no\"} {tabIndexRt \"10\"} {active \"1\"} {hidden \"0\"} {defaultView \"yes\"} {context \"dialog\"}} {}} {MenuAction 112 {{name \"exit\"} {text \"exit\"} {comment \"\"} {tabIndexRt \"11\"} {active \"1\"} {hidden \"0\"} {defaultView \"yes\"} {context \"dialog\"}} {}} {MenuAction 113 {{name \"help\"} {text \"Help\"} {acceleratorName \"F1\"} {contextMenu \"no\"} {active \"1\"} {hidden \"1\"} {defaultView \"no\"} {context \"dialog\"}} {}} {MenuAction 114 {{name \"close\"} {text \"Close\"} {acceleratorName \"Alt-F4\"} {defaultView \"no\"} {contextMenu \"no\"} {hidden \"1\"} {active \"1\"} {context \"dialog\"}} {}}}}}}}}}",
+      "appId": 1,
+      "pageId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167999,
+      "log": "[app1] LayoutCommand command set [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167999,
+      "log": "[app1] LayoutCommand command set [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167999,
+      "log": "[app1] RestoreFocusCommand command set [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400167999,
+      "log": "[app1] LayoutCommand command set [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400168001,
+      "log": "[app1] LayoutCommand command set [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400168001,
+      "log": "[app1] LayoutCommand command set [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400168001,
+      "log": "[app1] RestoreFocusCommand command set [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400168001,
+      "log": "[app1] LayoutCommand command set [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400168009,
+      "log": "No command to validate",
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400168009,
+      "log": "[app1] LayoutCommand command set [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400168009,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 1
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400168018,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400168021,
+      "log": "[app1] RestoreFocusCommand command set [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400168024,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400169721,
+      "itemId": null,
+      "itemElement": "<div role=\"menuitem\" __widgetbase=\"\" __sessionsidebarapplicationstackitemwidget=\"\" id=\"w_48\" class=\"gbc_WidgetBase gbc_SessionSidebarApplicationStackItemWidget w_48 g_measureable gbc_WidgetBase_standalone has-title\">\n    <span class=\"applicationStackIcon\" __widgetbase=\"\" __sessionsidebarapplicationstackitemwidget=\"\"><div tabindex=\"0\" __widgetbase=\"\" __imagewidget=\"\" __gbcimagewidget=\"\" id=\"w_49\" class=\"gbc_WidgetBase gbc_ImageWidget w_49 g_measureable gbc_WidgetBase_standalone hidden\" title=\"demo\" aria-label=\"demo\"></div></span>\n    <span class=\"applicationStackTitle\" __widgetbase=\"\" __sessionsidebarapplicationstackitemwidget=\"\" title=\"demo\">demo</span>\n</div>",
+      "auiId": null,
+      "clientX": 7,
+      "clientY": 30,
+      "rightClick": false,
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400169721,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400169732,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400169732,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400169732,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400169735,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400169740,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400170767,
+      "itemId": "topics.name",
+      "itemElement": "<span class=\"gbc-label-text-container\" __widgetbase=\"\" __labelwidget=\"\">Prompt</span>",
+      "auiId": "186",
+      "clientX": 109,
+      "clientY": 337,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400170767,
+      "log": "[app0] FocusVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400170767,
+      "log": "Executing FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400170767,
+      "log": "Sending events to VM [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400170768,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=15",
+      "data": "event _om 12{}{{ConfigureEvent 0{{idRef \"93\"}{currentRow \"15\"}}}}",
+      "appId": 0,
+      "pageId": 15
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400170792,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=15",
+      "data": "om 15 {{un 93 {{currentRow \"15\"}}} {un 100 {{size \"1\"}}} {un 139 {{value \"Prompt\"}}} {un 269 {{value \"\"}}} {un 141 {{value \"Prompt1\"}}} {un 299 {{value \"\"}}} {un 359 {{value \"\"}}} {un 149 {{value \"Ask for one value\"}}} {un 419 {{value \"\"}}} {un 115 {{value \"Prompt demo\\n-----------\\n\\nThis demo shows how to use the PROMPT instruction.\"}}} {un 157 {{active \"1\"}}} {un 158 {{active \"1\"}}} {un 162 {{active \"1\"} {hidden \"0\"}}} {un 163 {{active \"1\"} {hidden \"0\"}}} {un 164 {{active \"0\"} {hidden \"1\"}}} {un 0 {{focus \"93\"}}}}",
+      "appId": 0,
+      "pageId": 15
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400170798,
+      "log": "Command(s) validation OK ",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400170798,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400170798,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400170798,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400170802,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400170806,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400170807,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400170925,
+      "itemId": "topics.name",
+      "itemElement": "<span class=\"gbc-label-text-container\" __widgetbase=\"\" __labelwidget=\"\">Prompt</span>",
+      "auiId": "186",
+      "clientX": 109,
+      "clientY": 337,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400170925,
+      "log": "[app0] FocusVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400170925,
+      "log": "Executing FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400170925,
+      "log": "Popping unused FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400170925,
+      "log": "[app0] FocusVMCommand command failed.",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400172224,
+      "itemId": "demos.program",
+      "itemElement": "<span class=\"gbc-label-text-container\" __widgetbase=\"\" __labelwidget=\"\">Prompt1</span>",
+      "auiId": "141",
+      "clientX": 734,
+      "clientY": 83,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172224,
+      "log": "[app0] FocusVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172224,
+      "log": "Executing FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172224,
+      "log": "Sending events to VM [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400172224,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=16",
+      "data": "event _om 13{}{{ConfigureEvent 0{{idRef \"100\"}{currentRow \"0\"}}}}",
+      "appId": 0,
+      "pageId": 16
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400172247,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=16",
+      "data": "om 16 {{un 157 {{active \"0\"}}} {un 158 {{active \"0\"}}} {un 159 {{active \"0\"}}} {un 160 {{active \"0\"}}} {un 162 {{active \"0\"} {hidden \"1\"}}} {un 163 {{active \"0\"} {hidden \"1\"}}} {un 164 {{active \"1\"} {hidden \"0\"}}} {un 0 {{focus \"100\"}}}}",
+      "appId": 0,
+      "pageId": 16
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172251,
+      "log": "Command(s) validation OK ",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172251,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172251,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400172251,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400172253,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172258,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400172259,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400172388,
+      "itemId": "demos.program",
+      "itemElement": "<span class=\"gbc-label-text-container\" __widgetbase=\"\" __labelwidget=\"\">Prompt1</span>",
+      "auiId": "141",
+      "clientX": 734,
+      "clientY": 84,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172388,
+      "log": "[app0] FocusVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172388,
+      "log": "Executing FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172388,
+      "log": "Popping unused FocusVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172388,
+      "log": "[app0] FocusVMCommand command failed.",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172389,
+      "log": "[app0] ActionVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172389,
+      "log": "Executing ActionVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172389,
+      "log": "Sending events to VM [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400172389,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=17",
+      "data": "event _om 14{}{{ActionEvent 0{{idRef \"100\"}}}}",
+      "appId": 0,
+      "pageId": 17
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400172419,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=17",
+      "data": "om 17 {{un 0 {{runtimeStatus \"childstart\"}}}}\nom 18 {{un 0 {{runtimeStatus \"processing\"}}}}",
+      "appId": 0,
+      "pageId": 17
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400172419,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "newtask",
+      "uaDetails": "newTask",
+      "type": "newTask : POST : /wtopprd/ua/newtask/e28ab62af053143400e6bab4705dd0aa?seq=1",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400172419,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "empty",
+      "type": "empty : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=18",
+      "appId": 0,
+      "pageId": 18
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172422,
+      "log": "Command(s) validation OK ",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172422,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172422,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400172422,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400172423,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172423,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400172424,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400172433,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "empty",
+      "type": "empty : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=18",
+      "data": "",
+      "appId": 0,
+      "pageId": 18
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172445,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400172446,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "runTask",
+      "type": "runTask : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=2&pageId=1",
+      "data": null,
+      "appId": 2,
+      "pageId": 1
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400172446,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "empty",
+      "type": "empty : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=19",
+      "appId": 0,
+      "pageId": 19
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400172446,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 2
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400172461,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "runTask",
+      "type": "runTask : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=2&pageId=1",
+      "data": "meta Connection {{encoding \"UTF-8\"} {protocolVersion \"102\"} {interfaceVersion \"110\"} {runtimeVersion \"5.00.03-2525\"} {encapsulation \"1\"} {filetransfer \"1\"} {filetransferVersion \"2\"} {filetransferFC \"1\"} {procIdParent \"T100RHEL9:57295\"} {frontEndID \"{d9083a58-3de5-18da-a855-0864a897b6d7}\"} {procId \"T100RHEL9:57982\"} {programName \"Prompt1\"}}",
+      "appId": 2,
+      "pageId": 1
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400172462,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=2&pageId=2",
+      "data": "meta Client{{name \"GBC\"}{version \"5.00.07.dsc5\"}{encoding \"UTF-8\"}{encapsulation \"0\"}{filetransfer \"0\"}{mobileUI \"0\"}{media \"large\"}{json \"0\"}}",
+      "appId": 2,
+      "pageId": 2
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400172463,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "empty",
+      "type": "empty : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=19",
+      "data": "om 19 {{un 0 {{runtimeStatus \"interactive\"}}}}",
+      "appId": 0,
+      "pageId": 19
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172465,
+      "log": "No command to validate",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172465,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400172465,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172465,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400172465,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400172492,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=2&pageId=2",
+      "data": "om 0 {{an 0 UserInterface 0 {{name \"Prompt1\"} {text \"Prompt1\"} {charLengthSemantics \"0\"} {procIdParent \"T100RHEL9:57295\"} {procId \"T100RHEL9:57982\"} {dbDate \"MDY4/\"} {dbCentury \"R\"} {decimalSeparator \".\"} {thousandsSeparator \",\"} {media \"large\"} {errorLine \"-1\"} {commentLine \"-1\"} {formLine \"2\"} {messageLine \"1\"} {menuLine \"0\"} {promptLine \"0\"} {fieldOrder \"1\"} {currentWindow \"87\"} {focus \"90\"} {runtimeStatus \"interactive\"}} {{StyleList 1 {} {{Style 2 {{name \"Window\"}} {{StyleAttribute 3 {{name \"windowType\"} {value \"normal\"}} {}}}} {Style 4 {{name \"Window.main\"}} {{StyleAttribute 5 {{name \"windowType\"} {value \"normal\"}} {}} {StyleAttribute 6 {{name \"startMenuPosition\"} {value \"menu\"}} {}}}} {Style 7 {{name \"Window.main2\"}} {{StyleAttribute 8 {{name \"windowType\"} {value \"normal\"}} {}} {StyleAttribute 9 {{name \"actionPanelPosition\"} {value \"none\"}} {}} {StyleAttribute 10 {{name \"ringMenuPosition\"} {value \"none\"}} {}}}} {Style 11 {{name \"Window.dialog\"}} {{StyleAttribute 12 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 13 {{name \"sizable\"} {value \"no\"}} {}} {StyleAttribute 14 {{name \"position\"} {value \"center\"}} {}} {StyleAttribute 15 {{name \"actionPanelPosition\"} {value \"bottom\"}} {}} {StyleAttribute 16 {{name \"ringMenuPosition\"} {value \"bottom\"}} {}} {StyleAttribute 17 {{name \"toolBarPosition\"} {value \"none\"}} {}}}} {Style 18 {{name \"Window.dialog2\"}} {{StyleAttribute 19 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 20 {{name \"sizable\"} {value \"no\"}} {}} {StyleAttribute 21 {{name \"position\"} {value \"center\"}} {}} {StyleAttribute 22 {{name \"actionPanelPosition\"} {value \"none\"}} {}} {StyleAttribute 23 {{name \"ringMenuPosition\"} {value \"none\"}} {}} {StyleAttribute 24 {{name \"toolBarPosition\"} {value \"none\"}} {}}}} {Style 25 {{name \"Window.dialog3\"}} {{StyleAttribute 26 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 27 {{name \"sizable\"} {value \"yes\"}} {}} {StyleAttribute 28 {{name \"toolBarPosition\"} {value \"none\"}} {}} {StyleAttribute 29 {{name \"actionPanelPosition\"} {value \"none\"}} {}} {StyleAttribute 30 {{name \"ringMenuPosition\"} {value \"none\"}} {}}}} {Style 31 {{name \"Window.dialog4\"}} {{StyleAttribute 32 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 33 {{name \"sizable\"} {value \"yes\"}} {}} {StyleAttribute 34 {{name \"actionPanelPosition\"} {value \"bottom\"}} {}} {StyleAttribute 35 {{name \"ringMenuPosition\"} {value \"none\"}} {}}}} {Style 36 {{name \"Window.naked\"}} {{StyleAttribute 37 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 38 {{name \"actionPanelPosition\"} {value \"none\"}} {}} {StyleAttribute 39 {{name \"ringMenuPosition\"} {value \"none\"}} {}} {StyleAttribute 40 {{name \"toolBarPosition\"} {value \"none\"}} {}}}} {Style 41 {{name \"Window.viewer\"}} {{StyleAttribute 42 {{name \"windowType\"} {value \"modal\"}} {}} {StyleAttribute 43 {{name \"sizable\"} {value \"yes\"}} {}} {StyleAttribute 44 {{name \"actionPanelPosition\"} {value \"none\"}} {}} {StyleAttribute 45 {{name \"ringMenuPosition\"} {value \"none\"}} {}} {StyleAttribute 46 {{name \"toolBarPosition\"} {value \"none\"}} {}}}}}} {ActionDefaultList 47 {} {{ActionDefault 56 {{name \"interrupt\"} {text \"Interrupt\"} {contextMenu \"no\"}} {}} {ActionDefault 64 {{name \"editcopy\"} {text \"Copy\"} {image \"font:FontAwesome.ttf:f0c5\"} {comment \"Copy\"} {acceleratorName \"Control-C\"} {contextMenu \"no\"}} {}} {ActionDefault 65 {{name \"editcut\"} {text \"Cut\"} {image \"font:FontAwesome.ttf:f0c4\"} {comment \"Cut\"} {acceleratorName \"Control-X\"} {contextMenu \"no\"}} {}} {ActionDefault 66 {{name \"editpaste\"} {text \"Paste\"} {image \"font:FontAwesome.ttf:f0ea\"} {comment \"Paste\"} {acceleratorName \"Control-V\"} {contextMenu \"no\"}} {}} {ActionDefault 67 {{name \"nextfield\"} {text \"Next Field\"} {acceleratorName \"Tab\"} {contextMenu \"no\"}} {}} {ActionDefault 68 {{name \"prevfield\"} {text \"Previous Field\"} {acceleratorName \"Shift-Tab\"} {contextMenu \"no\"}} {}} {ActionDefault 73 {{name \"nextpage\"} {text \"Next Page\"} {acceleratorName \"Next\"} {contextMenu \"no\"}} {}} {ActionDefault 74 {{name \"prevpage\"} {text \"Previous Page\"} {acceleratorName \"Prior\"} {contextMenu \"no\"}} {}} {ActionDefault 75 {{name \"nexttab\"} {text \"Next Folder Tab\"} {acceleratorName \"Control-Tab\"} {contextMenu \"no\"}} {}} {ActionDefault 76 {{name \"prevtab\"} {text \"Previous Folder Tab\"} {acceleratorName \"Control-Shift-Tab\"} {contextMenu \"no\"}} {}}}} {ImageFonts 85 {} {{ImageFont 86 {{name \"FontAwesome.ttf\"} {href \"http://10.40.41.189:80/wtopprd/ua/ft/e28ab62af053143400e6bab4705dd0aa/fgl-files/57982/FontAwesome.ttf?t=1729775310;s=165548;charset=UTF-8\"}} {}}}} {Window 87 {{name \"screen\"} {commentLine \"-2\"} {commentLineHidden \"0\"} {formLine \"2\"} {messageLine \"1\"} {menuLine \"0\"} {promptLine \"0\"} {errorLine \"-1\"} {posX \"0\"} {posY \"0\"} {width \"80\"} {height \"25\"} {style \"main\"} {text \"Prompt\"}} {{Form 88 {{name \"Prompt\"} {text \"Prompt\"} {width \"41\"} {height \"6\"} {formLine \"2\"}} {{VBox 89 {} {{Table 90 {{pageSize \"5\"} {tabName \"sr\"} {bufferSize \"5\"} {multiRowSelection \"0\"} {offset \"0\"} {doubleClick \"open_prompt\"} {sortColumn \"-1\"} {sortType \"\"} {size \"14\"} {currentRow \"0\"} {focusOnField \"0\"} {dialogType \"DisplayArray\"} {canDrag \"0\"} {canDrop \"0\"} {active \"1\"} {actionActive \"1\"} {haveRowActions \"0\"} {noFilter \"0\"}} {{TableColumn 91 {{text \"Case\"} {name \"formonly.c\"} {colName \"c\"} {fieldId \"0\"} {tabIndex \"1\"} {numAlign \"0\"} {varType \"CHAR(30)\"} {tabIndexRt \"1\"} {active \"1\"} {dialogType \"DisplayArray\"}} {{Edit 92 {{width \"39\"}} {}} {ValueList 95 {} {{Value 96 {{value \"CHAR\"}} {}} {Value 97 {{value \"CHAR(20)\"}} {}} {Value 98 {{value \"VARCHAR(20)\"}} {}} {Value 99 {{value \"INTEGER\"}} {}} {Value 100 {{value \"SMALLINT\"}} {}}}}}}}}}}}} {Dialog 101 {{active \"1\"}} {{Action 102 {{name \"accept\"} {text \"OK\"} {acceleratorName \"Return\"} {acceleratorName2 \"Enter\"} {contextMenu \"no\"} {active \"1\"} {hidden \"0\"} {defaultView \"yes\"} {context \"dialog\"}} {}} {Action 103 {{name \"cancel\"} {text \"Cancel\"} {acceleratorName \"Escape\"} {contextMenu \"no\"} {active \"1\"} {hidden \"0\"} {defaultView \"yes\"} {context \"dialog\"}} {}} {Action 104 {{name \"close\"} {text \"Close\"} {acceleratorName \"Alt-F4\"} {defaultView \"no\"} {contextMenu \"no\"} {hidden \"1\"} {active \"1\"} {context \"dialog\"}} {}} {Action 105 {{name \"firstrow\"} {text \"First\"} {image \"font:FontAwesome.ttf:f048\"} {acceleratorName \"Home\"} {contextMenu \"no\"} {active \"0\"} {hidden \"0\"} {defaultView \"no\"} {context \"dialog\"}} {}} {Action 106 {{name \"prevrow\"} {text \"Previous\"} {image \"font:FontAwesome.ttf:f04a\"} {acceleratorName \"Up\"} {contextMenu \"no\"} {active \"0\"} {hidden \"0\"} {defaultView \"no\"} {context \"dialog\"}} {}} {Action 107 {{name \"nextrow\"} {text \"Next\"} {image \"font:FontAwesome.ttf:f04e\"} {acceleratorName \"Down\"} {contextMenu \"no\"} {active \"1\"} {hidden \"0\"} {defaultView \"no\"} {context \"dialog\"}} {}} {Action 108 {{name \"lastrow\"} {text \"Last\"} {image \"font:FontAwesome.ttf:f051\"} {acceleratorName \"End\"} {contextMenu \"no\"} {active \"1\"} {hidden \"0\"} {defaultView \"no\"} {context \"dialog\"}} {}} {Action 109 {{name \"editcopy\"} {text \"Copy\"} {image \"font:FontAwesome.ttf:f0c5\"} {comment \"Copy\"} {acceleratorName \"Control-C\"} {contextMenu \"no\"} {active \"1\"} {hidden \"0\"} {defaultView \"no\"} {context \"dialog\"}} {}} {Action 110 {{name \"open_prompt\"} {active \"1\"} {hidden \"0\"} {defaultView \"no\"} {context \"dialog\"}} {}} {Action 111 {{name \"find\"} {text \"Find\"} {image \"font:FontAwesome.ttf:f002\"} {comment \"Search\"} {acceleratorName \"Control-F\"} {active \"1\"} {hidden \"0\"} {defaultView \"no\"} {context \"dialog\"}} {}} {Action 112 {{name \"findnext\"} {text \"Find Next\"} {image \"font:FontAwesome.ttf:f00e\"} {comment \"Search\"} {acceleratorName \"Control-G\"} {active \"1\"} {hidden \"0\"} {defaultView \"no\"} {context \"dialog\"}} {}}}}}}}}}",
+      "appId": 2,
+      "pageId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172505,
+      "log": "[app2] LayoutCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172505,
+      "log": "[app2] LayoutCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172506,
+      "log": "[app2] RestoreFocusCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172507,
+      "log": "[app2] LayoutCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172508,
+      "log": "[app2] LayoutCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172508,
+      "log": "[app2] LayoutCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172508,
+      "log": "[app2] RestoreFocusCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172508,
+      "log": "[app2] LayoutCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172515,
+      "log": "No command to validate",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172515,
+      "log": "[app2] LayoutCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400172515,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172524,
+      "log": "[app2] PageSizeVMCommand command added [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172525,
+      "log": "[app2] RestoreFocusCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172525,
+      "log": "Executing PageSizeVMCommand command [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172525,
+      "log": "Sending events to VM [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400172525,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=2&pageId=3",
+      "data": "event _om 15{}{{ConfigureEvent 0{{idRef \"90\"}{pageSize \"48\"}{bufferSize \"50\"}}}}",
+      "appId": 2,
+      "pageId": 3
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400172545,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=2&pageId=3",
+      "data": "om 1 {{an 95 Value 115 {{value \"FLOAT\"}} {}} {an 95 Value 116 {{value \"SMALLFLOAT\"}} {}} {an 95 Value 117 {{value \"DECIMAL(6,3)\"}} {}} {an 95 Value 118 {{value \"MONEY(4,2)\"}} {}} {an 95 Value 119 {{value \"DATE\"}} {}} {an 95 Value 120 {{value \"DATETIME YEAR TO MONTH\"}} {}} {an 95 Value 121 {{value \"DATETIME YEAR TO SECOND\"}} {}} {an 95 Value 122 {{value \"INTERVAL YEAR TO MONTH\"}} {}} {an 95 Value 123 {{value \"INTERVAL DAY(3) TO MINUTE\"}} {}} {an 95 Value 124 {{value \"\"}} {}} {an 95 Value 125 {{value \"\"}} {}} {an 95 Value 126 {{value \"\"}} {}} {an 95 Value 127 {{value \"\"}} {}} {an 95 Value 128 {{value \"\"}} {}} {an 95 Value 129 {{value \"\"}} {}} {an 95 Value 130 {{value \"\"}} {}} {an 95 Value 131 {{value \"\"}} {}} {an 95 Value 132 {{value \"\"}} {}} {an 95 Value 133 {{value \"\"}} {}} {an 95 Value 134 {{value \"\"}} {}} {an 95 Value 135 {{value \"\"}} {}} {an 95 Value 136 {{value \"\"}} {}} {an 95 Value 137 {{value \"\"}} {}} {an 95 Value 138 {{value \"\"}} {}} {an 95 Value 139 {{value \"\"}} {}} {an 95 Value 140 {{value \"\"}} {}} {an 95 Value 141 {{value \"\"}} {}} {an 95 Value 142 {{value \"\"}} {}} {an 95 Value 143 {{value \"\"}} {}} {an 95 Value 144 {{value \"\"}} {}} {an 95 Value 145 {{value \"\"}} {}} {an 95 Value 146 {{value \"\"}} {}} {an 95 Value 147 {{value \"\"}} {}} {an 95 Value 148 {{value \"\"}} {}} {an 95 Value 149 {{value \"\"}} {}} {an 95 Value 150 {{value \"\"}} {}} {an 95 Value 151 {{value \"\"}} {}} {an 95 Value 152 {{value \"\"}} {}} {an 95 Value 153 {{value \"\"}} {}} {an 95 Value 154 {{value \"\"}} {}} {an 95 Value 155 {{value \"\"}} {}} {an 95 Value 156 {{value \"\"}} {}} {an 95 Value 157 {{value \"\"}} {}} {an 95 Value 158 {{value \"\"}} {}} {an 95 Value 159 {{value \"\"}} {}} {un 90 {{pageSize \"48\"} {bufferSize \"50\"}}}}",
+      "appId": 2,
+      "pageId": 3
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172564,
+      "log": "Command(s) validation OK ",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172564,
+      "log": "[app2] RestoreFocusCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172564,
+      "log": "[app2] LayoutCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400172564,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 2
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400172568,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400172570,
+      "log": "[app2] RestoreFocusCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400172571,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400174382,
+      "itemId": null,
+      "itemElement": "<i class=\"zmdi zmdi-close-circle\"></i>",
+      "auiId": null,
+      "clientX": 1904,
+      "clientY": 7,
+      "rightClick": false,
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174382,
+      "log": "[app2] ActionVMCommand command added [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174382,
+      "log": "Executing ActionVMCommand command [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174382,
+      "log": "Sending events to VM [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400174383,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=2&pageId=4",
+      "data": "event _om 16{}{{ActionEvent 0{{idRef \"104\"}}}}",
+      "appId": 2,
+      "pageId": 4
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400174409,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=2&pageId=4",
+      "data": "om 2 {{rn 0}}",
+      "appId": 2,
+      "pageId": 4
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400174419,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "empty",
+      "type": "empty : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=2&pageId=5",
+      "appId": 2,
+      "pageId": 5
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174419,
+      "log": "Command(s) validation OK ",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174419,
+      "log": "[app2] RestoreFocusCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174419,
+      "log": "[app2] LayoutCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400174419,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 2
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174419,
+      "log": "[app2] RestoreFocusCommand command set [object Object]",
+      "appId": 2
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400174433,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "empty",
+      "type": "empty : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=2&pageId=5",
+      "data": "",
+      "appId": 2,
+      "pageId": 5
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174434,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174445,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174445,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400174446,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400174448,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400174831,
+      "itemId": null,
+      "itemElement": "<i class=\"zmdi zmdi-close-circle\"></i>",
+      "auiId": null,
+      "clientX": 1904,
+      "clientY": 7,
+      "rightClick": false,
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174831,
+      "log": "[app0] ActionVMCommand command added [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174831,
+      "log": "Executing ActionVMCommand command [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174832,
+      "log": "Sending events to VM [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400174832,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=20",
+      "data": "event _om 15{}{{ActionEvent 0{{idRef \"154\"}}}}",
+      "appId": 0,
+      "pageId": 20
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400174854,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=20",
+      "data": "om 20 {{rn 0}}",
+      "appId": 0,
+      "pageId": 20
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400174867,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "empty",
+      "type": "empty : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=21",
+      "appId": 0,
+      "pageId": 21
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174867,
+      "log": "Command(s) validation OK ",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174867,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174868,
+      "log": "[app0] LayoutCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400174868,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 0
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174868,
+      "log": "[app0] RestoreFocusCommand command set [object Object]",
+      "appId": 0
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400174881,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "empty",
+      "type": "empty : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=0&pageId=21",
+      "data": "",
+      "appId": 0,
+      "pageId": 21
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174881,
+      "log": "[app1] LayoutCommand command set [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174885,
+      "log": "[app1] LayoutCommand command set [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400174885,
+      "log": "[app1] RestoreFocusCommand command set [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400174887,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 1
+    },
+    {
+      "provider": "[FOCUS]",
+      "t": 1734400174889,
+      "log": "restoreVMFocus for node :  [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[MOUSE]",
+      "t": 1734400177615,
+      "itemId": null,
+      "itemElement": "<i class=\"zmdi zmdi-close-circle\"></i>",
+      "auiId": null,
+      "clientX": 1901,
+      "clientY": 11,
+      "rightClick": false,
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400177615,
+      "log": "[app1] ActionVMCommand command added [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400177615,
+      "log": "Executing ActionVMCommand command [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400177615,
+      "log": "Sending events to VM [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400177615,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=1&pageId=3",
+      "data": "event _om 12{}{{ActionEvent 0{{idRef \"114\"}}}}",
+      "appId": 1,
+      "pageId": 3
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400177637,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "auiOrder",
+      "type": "auiOrder : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=1&pageId=3",
+      "data": "om 1 {{rn 0}}",
+      "appId": 1,
+      "pageId": 3
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400177642,
+      "httpType": "HTTP REQUEST",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "empty",
+      "type": "empty : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=1&pageId=4",
+      "appId": 1,
+      "pageId": 4
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400177642,
+      "log": "Command(s) validation OK ",
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400177642,
+      "log": "[app1] RestoreFocusCommand command set [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400177642,
+      "log": "[app1] LayoutCommand command set [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[UI]",
+      "t": 1734400177642,
+      "type": "layoutapplicationservice",
+      "data": {},
+      "appId": 1
+    },
+    {
+      "provider": "[SCHEDULER]",
+      "t": 1734400177642,
+      "log": "[app1] RestoreFocusCommand command set [object Object]",
+      "appId": 1
+    },
+    {
+      "provider": "[NETWORK]",
+      "t": 1734400177656,
+      "httpType": "HTTP RESPONSE",
+      "httpMethod": "POST",
+      "uaType": "sua",
+      "uaDetails": "empty",
+      "type": "empty : POST : /wtopprd/ua/sua/e28ab62af053143400e6bab4705dd0aa?appId=1&pageId=4",
+      "data": "",
+      "appId": 1,
+      "pageId": 4
+    }
+  ],
+  "images": null
+}

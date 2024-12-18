@@ -1,0 +1,3984 @@
+[NaNaLogFactoryImpl] Loading property file file:/u1/topprd/utl/java/jar/bpm/conf/NaNaLog.properties
+tcp-4fef4d6ab7324adeaa814c9e200a2156 10.703 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-6ec1d22041ae40868bae2e3ae47710fd 10.170 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-1d053a923ca24716ba40ddcab4d8d87b 10.045 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-bfe8f00e3ac0431e90e7d10aa48c6c08 10.053 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-60f46fcd527b4d258431a3ffe0960cca 10.588 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-15534f9dcc2f4b0095668bea3eccd255 10.089 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-10fb7be6e38a496d85fbd0f34c04853d 10.211 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-a668c1583b994d848e6be244a01e2ca0 10.100 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-69e463365dc84d1ab79b55e81a04eef4 10.380 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-d06c44de28434f6ab8818cbc8ada210a 10.352 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-63b9fcd787164052bd33d8c83d3d7e6c 10.163 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-d2b85a81aa8f4fdbbeb9e23a967144a4 10.200 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-15c51660109244dda9dce091c4a49dc4 24.622 "ScenarioWrapper" Unexpected exception raised: The action 'query' does not belong to the active dialog.:    at com.fourjs.ggc.client.ScenarioWrapper.star
+tcp-1c46f906812b4ba29db4034bfb2bed01 10.170 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-1d411794f0564963bb4fcad999c86d6d 10.748 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-1906b223a5934253bf0cf7a9cbb279ab 10.745 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-46fdb3633be04807bb301e93480449f0 10.546 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-1c59191f152d4329bf1690c3d11bca3d 10.058 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-03f86a4d20c644b18a688cbd6aee9490 10.261 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-62109459057d419d959fd8048174882b 10.088 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-5fa82cd4a9f040148dd98ea6dc915266 10.282 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-78547e5cd68b4143985a487687c55a10 10.117 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-681deeab66f24959b843f848fc49e192 10.175 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-decdb644258f494ab0a9b16aa001dcbb 10.109 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-4beab3432186494a8d2d2dd3f9b04e70 10.188 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-52d69a982707412a98563ed84eca6460 10.479 "Start process" tcp-7c1781506a96443780aed4ee9b408ce5 12.717 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-8f8588e426fa4b5086469cf78c5b82eb 12.614 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-3695d84ea52e42f5bf79da634516ae56 12.509 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-17e7342221934136af14c6baa7a2caed 12.408 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-b7d124d6f3f84d8aa0edb7972c8918c6 12.005 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-3946da56d11b49cc9db57f1429282d78 11.287 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-247ac8bd91794658b4d2b5cf128c4e1b 10.789 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-c354b13d9e5d49efa0ac8d65569eeff2 10.990 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-2fb8a1e744d5457ab18bf94fac143d08 10.580 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-f1e6a77e50724dfa84207da30539253e 12.318 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-aac3270464af43ab8f75c27e4e6666a4 10.056 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-d43b097ed8f04b92a2495d5d214af868 10.054 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-2d95cb2d18394c3891f4646f03eca878 10.165 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-d163863096704dceaeaf31f5413a5afa 10.087 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-d30cb92b5df544248bfc119e43281396 10.106 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-5d2902e7885d4b3b891c2a204e85b03b 10.168 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-67bb63d81282479f8f8542083479f54f 10.479 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-9f59fdfd5756479885c81e29dadab65d 10.804 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-e3e74892f113463fa71d3cbb26d6ade1 10.138 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-ed804789428f4dce993e9288bcbadd66 10.046 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-eff8c956700a4369bf4fa9563949a09a 10.053 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-e78f960b094b4cfda679e82c28ecb02f 10.270 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-7d38eca3becc4b9c979e181eb345d4b1 10.262 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-623dcbd2a6e74df381855e3547f0c036 10.322 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-8836cec2c7724c97b5d7095e0662ee34 10.314 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-3f28fc4c555647119c5f392579f5ada7 10.204 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-4b3ea5cb1b5c4d52b6e8ffd617815fd3 10.093 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-102d8903119943529d01cda8f1a70110 10.276 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-163afa4366954475ba769098e7e8850a 10.291 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-fdd0f91aa7bc49089a0052f3f1d9b729 10.053 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-b2353066c96740158f0dccc3111aaab1 10.542 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-985606e51a9d4fefa9e753b2cbd834cd 10.629 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-5ce038ded5424896bc27cebec48722a3 10.082 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-3ce2bbede34848efa90e379fe67cea3c 10.626 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-93a114bf4d8d4b9c80dbb42ab117f6e8 10.524 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-dd130cae722d4b5092a18893b56581fd 10.138 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-b68696398350482abbc2f6ab62701433 10.695 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-7cf7997f098348b89e49cedcdc97ff8d 10.898 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-2698af0daa904b3c82c9c1267420ed12 11.100 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-fd9ea54f961d41ac93696df1fa34b320 11.202 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-54b6fdd122d44675864cf5ce7c7c9fc4 11.389 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-502716ac5f4040adaed513201d5db736 10.685 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+tcp-0dee91424bde431584574add7378947d 10.229 "Start process" DVM_AVAILABLE (10 seconds) expired. VM Connection timed out.
+=  Full session duration: 00:01:50.337
+== Session statistics == Id: 21106f3f7a864d578dd2cd5b8d88c3ec ==
+                 Duration: 00:00:42.807
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: fb0e4ed5674447d4a06df6ac1f3874f2 ==
+                 Duration: 00:00:48.788
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: d27cfe9e43bf4c72b664515f91b31119 ==
+                 Duration: 00:00:48.699
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: c8d80333881448af886b8fc16959901a ==
+                 Duration: 00:00:44.534
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: d57d4bce56b9426985104d4ca96b50ea ==
+                 Duration: 00:00:47.155
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a5f60ee2f8bc43f383f737736d3e13c0 ==
+                 Duration: 00:00:48.207
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: fd024eb710ae46c8bbd3bbe95fbd8763 ==
+                 Duration: 00:00:48.115
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 5efc4ac5f0d84d699b0c4b04d71c9129 ==
+                 Duration: 00:00:46.840
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: da0ff8ae946b457499b442ac8b913e7a ==
+                 Duration: 00:00:47.885
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: e75fe02907bb4c7988d5d6a3b42eaf66 ==
+                 Duration: 00:00:46.650
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: f9f022c59db3494c949f5f2d828db2c6 ==
+                 Duration: 00:00:47.876
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 944962dbc75d4fbb94d16f7554580931 ==
+                 Duration: 00:00:46.435
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 730a2dc3c34f4288b6881408ea7688fb ==
+                 Duration: 00:00:47.337
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 413dfbf431704a5db20f5bf70db1adc2 ==
+                 Duration: 00:00:46.241
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: ecb0073552634444aa97fc57d0f22196 ==
+                 Duration: 00:00:47.265
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: ce61fa20a3c04ec9857151bae344f20d ==
+                 Duration: 00:00:52.833
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 4b181fd07b0248648bc1788745c76e91 ==
+                 Duration: 00:00:47.244
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 25d681ab86144800b95988cd0623ac97 ==
+                 Duration: 00:00:46.795
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 503599a9f51d4e82958e8a9b5226e4fc ==
+                 Duration: 00:00:46.693
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: cb0533e10fe2464780b06b3d33c8a60f ==
+                 Duration: 00:00:47.129
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 3a7665c1d91045b88bca718ade9dc8c0 ==
+                 Duration: 00:00:46.657
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 85265d7279634ebb860be44dc4593007 ==
+                 Duration: 00:00:46.708
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 59d496d9f22b46679ebb2a0d607b0c5c ==
+                 Duration: 00:00:51.593
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 1b52439a1cab4c958ec7cf83da839f68 ==
+                 Duration: 00:00:50.186
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 8a07d6463cea4ab5a5055ac03ad2873e ==
+                 Duration: 00:00:51.956
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 08f2e37bb01c49f3a430041c5d7dfdb9 ==
+                 Duration: 00:00:51.340
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 20fa9f55d5224ca0bbb57a2c0b016d8a ==
+                 Duration: 00:00:48.757
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 12675a41b24b4a289dc2435419f04201 ==
+                 Duration: 00:00:45.906
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: fcb8875e5b274e428407c00e585fb58e ==
+                 Duration: 00:00:53.425
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 751b34c5b9264fdbb4afc2cd09fc4867 ==
+                 Duration: 00:00:58.106
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 94f5512d0ceb4e77b6e1d339d9cd0f08 ==
+                 Duration: 00:00:52.592
+           Bytes received: 243117
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 3bb4f86a902f4013a38cdd0ac450610f ==
+                 Duration: 00:00:45.511
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 8b76e0b838f14294b20d4b29c1c2092e ==
+                 Duration: 00:00:50.562
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 629e1f6a63ea427d9d88396be3e4de80 ==
+                 Duration: 00:00:51.653
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 01d4cb16405045ef83adb66f0bd9be86 ==
+                 Duration: 00:00:54.285
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: c3ac6575590c44c0b147a66d7c82a5a6 ==
+                 Duration: 00:00:50.231
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 3a0862a3bb8b4084a2ab64f57b1499a8 ==
+                 Duration: 00:00:49.521
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: d4ba8ae7a0174b9680df01cb009dd8cc ==
+                 Duration: 00:00:47.443
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 2b9f358e8f1545acb38bd6d62f8738ca ==
+                 Duration: 00:00:46.201
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 14903d7bdc6546908c38ee31dac9ff27 ==
+                 Duration: 00:00:52.591
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 22dcaf758bc041a4bf46a764132cff09 ==
+                 Duration: 00:00:48.093
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 102642acaddc462e976b20e2c1d89dcf ==
+                 Duration: 00:00:51.424
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 372efcbff5c54e3184764a76ad25cfb4 ==
+                 Duration: 00:00:50.881
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: af45f741db9e42a5aafd29a9180ff9d8 ==
+                 Duration: 00:00:49.609
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: cf6218e834774b24948677d0bf77ea21 ==
+                 Duration: 00:00:49.541
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 385589cf4d2f45f7aee72eddc2152d79 ==
+                 Duration: 00:00:51.130
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 0b95ffdecd7949e990992dcc32d50c0c ==
+                 Duration: 00:00:49.812
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a9b6d9cf8c3d40d39f4ef5d2bb40231d ==
+                 Duration: 00:00:54.438
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: c5a06ea5a0fa427a86b32f843a594d85 ==
+                 Duration: 00:00:49.238
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 5fc5186f4f79425893e049b95b776c8f ==
+                 Duration: 00:00:54.030
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: bc74e66cbc4640f2bf3df9dab5806b37 ==
+                 Duration: 00:00:49.471
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 5e46581ea6a94a4fb96a398dce0e950a ==
+                 Duration: 00:00:58.409
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 3109a9a889d84df99c76046dca66a554 ==
+                 Duration: 00:00:44.606
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 7123496029bf404c9ffaa075f2c841b9 ==
+                 Duration: 00:00:52.334
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: df5162610d5241d2affc8bd83698a592 ==
+                 Duration: 00:00:50.131
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 9fb18cc81e974b7e8e25306e37aa2556 ==
+                 Duration: 00:00:48.137
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 45ca3e14133a4c128b7c7d761d13bc22 ==
+                 Duration: 00:00:57.917
+           Bytes received: 243117
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: accf6a603b2f42dcbf1fc7657e7b7f6a ==
+                 Duration: 00:00:53.925
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 1b4a3a18bf614801a2f01f10b765bf39 ==
+                 Duration: 00:00:55.120
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 2af603c44f014f2bb9dec905c66f7d75 ==
+                 Duration: 00:00:57.286
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: d46e997ca50f48f58c36c4b118a27d3f ==
+                 Duration: 00:00:52.819
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 490535c1ca514058b445aab490c6470a ==
+                 Duration: 00:00:52.829
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 0265c81ba28a4d2ebea569641efb96b8 ==
+                 Duration: 00:01:00.527
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: ffc47425da4f4be88f72df15eac08ee6 ==
+                 Duration: 00:00:55.396
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: b1770e32d1a44e8883b9735aaa8c9c2e ==
+                 Duration: 00:01:01.655
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 762d06558068430b8c9833d192b7f47a ==
+                 Duration: 00:01:01.519
+           Bytes received: 243569
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 49f9874613344c0aae7ad8e90401088c ==
+                 Duration: 00:01:00.102
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 2b464e7407ad49f18d252236a09abaee ==
+                 Duration: 00:00:54.172
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 8bd9d56a485b4e6a983585e98b3696f4 ==
+                 Duration: 00:01:01.235
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: bcca807e821d489abea41481cd12650b ==
+                 Duration: 00:00:57.422
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 847ff6aa9a6d4dc79560b0cb61a700cd ==
+                 Duration: 00:00:55.505
+           Bytes received: 243598
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 1d08333654c54cff82f31a4df3f5d4e0 ==
+                 Duration: 00:01:00.918
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: c5cb6bec31224e01b71b3816252622fd ==
+                 Duration: 00:00:57.393
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 30741d3bc04e4607973d6bacece6dcdd ==
+                 Duration: 00:01:00.665
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: d8f3f5eac2d14308a37ef0a111abd188 ==
+                 Duration: 00:01:00.551
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 18a4450e04a24f0bb75357c9947673a3 ==
+                 Duration: 00:01:02.393
+           Bytes received: 243569
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 9f49ed1c58c2414cb6fe7dd3e7c4693f ==
+                 Duration: 00:01:00.301
+           Bytes received: 243541
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: db5bf015a23245b59a6b70b041c528c7 ==
+                 Duration: 00:01:00.520
+           Bytes received: 243591
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a29752b5f48e492dac610756792908b3 ==
+                 Duration: 00:00:58.769
+           Bytes received: 243569
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 3f4c5f05ef8b47c389931ba851135e92 ==
+                 Duration: 00:01:06.116
+           Bytes received: 243637
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a6ad56b253b14540bb9217c75f3241e9 ==
+                 Duration: 00:01:01.549
+           Bytes received: 243569
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 6db4b0b311984389a75eefb26d565596 ==
+                 Duration: 00:01:02.543
+           Bytes received: 243562
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 0008e9f2a55e44a6badb0e6a58bd0217 ==
+                 Duration: 00:01:01.849
+           Bytes received: 243637
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 14b0e68879e949e191c5d812471e2baf ==
+                 Duration: 00:01:01.111
+           Bytes received: 243548
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: d1b70a92399a475d83183313af302065 ==
+                 Duration: 00:01:04.070
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 4b82d22510844a9dba1ca414258e2d63 ==
+                 Duration: 00:01:05.347
+           Bytes received: 243688
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: d334018b38ea45ceac47b1b935b647ee ==
+                 Duration: 00:01:04.920
+           Bytes received: 243632
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: f88a5b0d7bb1439dbc3b27cf28f1cf33 ==
+                 Duration: 00:01:04.614
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a553bac6e31746438364e032bf0a7861 ==
+                 Duration: 00:01:05.060
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 820fca3a50d4451984968806c696901e ==
+                 Duration: 00:00:58.822
+           Bytes received: 243619
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 785807f067ea41489978ad7165655daa ==
+                 Duration: 00:00:58.703
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: b831cd07dc7d424da54d57fa299a8f43 ==
+                 Duration: 00:00:58.604
+           Bytes received: 243536
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 2fa653e671274dfe8c25d9541c9c59e6 ==
+                 Duration: 00:00:59.604
+           Bytes received: 243569
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a2216319ded24ba2b99b3315ba1e9de6 ==
+                 Duration: 00:01:02.733
+           Bytes received: 243569
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 0276b095479e46708889f58413749c23 ==
+                 Duration: 00:01:05.568
+           Bytes received: 243569
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 79cdc393e17f4099bccc54d37feb14ba ==
+                 Duration: 00:00:53.722
+           Bytes received: 243548
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 4ec96b646e2c4122ae64da5a8be8ad00 ==
+                 Duration: 00:00:54.140
+           Bytes received: 243586
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: f5351cb16b874b1b87ebab4093a80ebc ==
+                 Duration: 00:01:05.034
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 15eab49cf81f4d7a8f74198127516814 ==
+                 Duration: 00:00:53.388
+           Bytes received: 243548
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a07657e5e5cd4640a7c509b432677f62 ==
+                 Duration: 00:01:02.002
+           Bytes received: 243688
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: bc266fbfcd6544e3a8bdced8994eda02 ==
+                 Duration: 00:01:00.709
+           Bytes received: 243619
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 6ec3a68f1e834efeb014a73160945ac4 ==
+                 Duration: 00:01:00.882
+           Bytes received: 243587
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 93c7b870147c420d99148f57d9bd1e86 ==
+                 Duration: 00:00:59.306
+           Bytes received: 243627
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: cd9a98096663445fba0befbbcf1fbee4 ==
+                 Duration: 00:01:04.799
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 748e3673fbfe4e47b43858d4f358637a ==
+                 Duration: 00:00:57.147
+           Bytes received: 243598
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: b6e5512024ac409fb9dad5e333ec6c56 ==
+                 Duration: 00:01:02.110
+           Bytes received: 243640
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 3b96edf7ae0f40f4a601c2d653c93635 ==
+                 Duration: 00:01:03.329
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 8c0528d0222a47b1bc5136b46f1d83dc ==
+                 Duration: 00:01:02.716
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 526913c00b844506a31df61d0e679520 ==
+                 Duration: 00:01:00.520
+           Bytes received: 243632
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 4fc911656f3641179e41906ee269db60 ==
+                 Duration: 00:00:54.935
+           Bytes received: 243548
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a97e7dbb4ae94679834b4ade36b87402 ==
+                 Duration: 00:01:01.069
+           Bytes received: 243619
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: cd784c6d50944e0ba2f6d81268ae3790 ==
+                 Duration: 00:01:02.014
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a0a604ffd5fe484e873e025f4996025e ==
+                 Duration: 00:01:01.461
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 15c51660109244dda9dce091c4a49dc4 ==
+                 Duration: 00:00:25.668
+           Bytes received: 58402
+               Bytes sent: 657
+           Scenario count: 1
+          Scenario failed: 1
+            Checks failed: 4
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: The action 'query' does not belong to the active dialog.
+
+com.fourjs.ggc.StatusError: The action 'query' does not belong to the active dialog.
+	at com.fourjs.ggc.client.ClientImpl.action(ClientImpl.java:1134)
+	at com.fourjs.ggc.client.ClientImpl.action(ClientImpl.java:1082)
+	at azzi800.azzi800_test_provider_1$scenario_0.play(azzi800_test_provider_1.java:65)
+	at com.fourjs.ggc.client.ScenarioWrapper.play(ScenarioWrapper.java:271)
+	at com.fourjs.ggc.client.ScenarioWrapper.start(ScenarioWrapper.java:80)
+	at com.fourjs.ggc.client.TCPSession$1.run(TCPSession.java:124)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+Check failures:
+ - CHECK FAILURE (azzi800_test_provider_1.java:41): Form title is not valid, expected: '使用者資料設定作業(azzi800)      [鼎捷開發測試環境(正式區):topprd,99]      營運據點:台中國泰(DSCTC)', got: 'azzi800'
+ - CHECK FAILURE (azzi800_test_provider_1.java:49): Form title is not valid, expected: '使用者資料設定作業(azzi800)      [鼎捷開發測試環境(正式區):topprd,99]      營運據點:台中國泰(DSCTC)', got: 'azzi800'
+ - CHECK FAILURE (azzi800_test_provider_1.java:58): Form title is not valid, expected: '使用者資料設定作業(azzi800)      [鼎捷開發測試環境(正式區):topprd,99]      營運據點:台中國泰(DSCTC)', got: 'azzi800'
+ - CHECK FAILURE (azzi800_test_provider_1.java:63): Form title is not valid, expected: '使用者資料設定作業(azzi800)      [鼎捷開發測試環境(正式區):topprd,99]      營運據點:台中國泰(DSCTC)', got: 'azzi800'
+VM Errors:
+ - Program stopped at 'lib_cl_ap.4gl', line number 767.
+FORMS statement error number -8007.
+The string resource file 'azzi800' cannot be read.
+
+== Session statistics == Id: 13da0f7c504c4f1bab6208e363080f2a ==
+                 Duration: 00:01:01.710
+           Bytes received: 243638
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 5a37a401c7664bb0bb38a86c382bfdfb ==
+                 Duration: 00:01:01.109
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: fc824af0851c4433ad14fa11edcfb92e ==
+                 Duration: 00:00:59.551
+           Bytes received: 243627
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: eec6bcae748a408b96eff502d9019ee8 ==
+                 Duration: 00:00:56.701
+           Bytes received: 243569
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 3ffac32ff3cd49f79da1dc9d52a91e57 ==
+                 Duration: 00:01:00.694
+           Bytes received: 243679
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: bfd30285b4af4c14b2cf5aa4ddccf96e ==
+                 Duration: 00:01:03.002
+           Bytes received: 243640
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 777b1d4b0c2d4e1a9a9577a154b7227b ==
+                 Duration: 00:01:02.194
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: dfa40edd310c46ac97cbf57de3f4b6db ==
+                 Duration: 00:01:01.581
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a9d415c532214b2abf423f2c2530562b ==
+                 Duration: 00:01:05.275
+           Bytes received: 243673
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 01d651be22ca4d8e8d510895262e7d58 ==
+                 Duration: 00:01:03.007
+           Bytes received: 243681
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 0eeb7d9fb1ec434ba1f7a24412f05aac ==
+                 Duration: 00:01:07.133
+           Bytes received: 243733
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 4ba70e0c7ba64ffb80f0977592f8b7de ==
+                 Duration: 00:01:01.589
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 5664800a15544cb59abdf4de4926b9db ==
+                 Duration: 00:00:54.275
+           Bytes received: 243637
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: ff944c692cd8434087c1a1d2a6550da3 ==
+                 Duration: 00:01:01.573
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 59e29f1264a8489c963d8617635bd0fc ==
+                 Duration: 00:00:55.101
+           Bytes received: 243619
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 5154ae4efbb143e09e4aa48776f12533 ==
+                 Duration: 00:00:59.961
+           Bytes received: 243650
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a036df46a99343439b552cdf9dedaa21 ==
+                 Duration: 00:00:56.287
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: c00adc599a474e2380bfe2cd05d26a52 ==
+                 Duration: 00:00:58.711
+           Bytes received: 243640
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 5465ff4e8e874729b4aefabfb4e90df1 ==
+                 Duration: 00:00:58.217
+           Bytes received: 243673
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 64b6c0d42cd3472ea7848c392532b835 ==
+                 Duration: 00:01:01.746
+           Bytes received: 243673
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 340bd511d4b54117a586bcc3b2299dc7 ==
+                 Duration: 00:00:53.046
+           Bytes received: 243637
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 7ad50c0c94534c0d84c7a4e939d09ea6 ==
+                 Duration: 00:00:59.258
+           Bytes received: 243731
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: fe0af3e90d5947979071a44c66be6104 ==
+                 Duration: 00:01:05.856
+           Bytes received: 243673
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 662788aa14054f9f916fed824e97de40 ==
+                 Duration: 00:00:59.853
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: bb7006047e764d1a97534003f92bdaa3 ==
+                 Duration: 00:01:01.501
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 2f8abf85ec6349889efe1c90b0a94b3e ==
+                 Duration: 00:00:53.757
+           Bytes received: 243569
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: dbfd0ba516ac478b87718beead67048c ==
+                 Duration: 00:01:01.355
+           Bytes received: 243673
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 6302b5d7a15946388c0050abf4c28c37 ==
+                 Duration: 00:00:58.848
+           Bytes received: 243640
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: b0d6486783d54ad7a836ca8a9197e5da ==
+                 Duration: 00:00:58.218
+           Bytes received: 243640
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: ea5060ae4f3d4de4a298562c03f72ea5 ==
+                 Duration: 00:00:59.928
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 850447ba8be746b1b7b8f10bdc1fb37b ==
+                 Duration: 00:01:03.564
+           Bytes received: 243713
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 8b039a40edd94678b8cd39c2e10a9bcb ==
+                 Duration: 00:01:02.912
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 3915f8ef1b8644c7b964ecf935bbf460 ==
+                 Duration: 00:00:57.576
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 400b91eb58814df9a43423064dbaa725 ==
+                 Duration: 00:00:59.388
+           Bytes received: 243671
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 83534180727f408cb40fa7b23daf9729 ==
+                 Duration: 00:01:02.585
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 039f7a3f377a4c5289930af43722775e ==
+                 Duration: 00:01:03.226
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 54ac84e944df4bb0bf5d8382c9a7847c ==
+                 Duration: 00:00:59.212
+           Bytes received: 243652
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 9e842f89f98d46e79fb8c07647a42263 ==
+                 Duration: 00:00:58.968
+           Bytes received: 243708
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: e99c5fe5681a4c3494fd4bc1211a6c4d ==
+                 Duration: 00:01:00.610
+           Bytes received: 243708
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 6d305a346606439ba219fc34fa13275d ==
+                 Duration: 00:00:58.715
+           Bytes received: 243658
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 74aa9c1e0a964217beb9817ae5b806bb ==
+                 Duration: 00:01:03.382
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 96d46bfeca834e53986e64a1e86aa1e9 ==
+                 Duration: 00:01:01.323
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.705
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 3a2cfaa8cc9545a3b8d2d8964c3a5b3d ==
+                 Duration: 00:01:03.405
+           Bytes received: 243721
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: dd7fdd423eda488d9ae4562ae0eac910 ==
+                 Duration: 00:01:00.805
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 8bbab7dbd0004d22b33f55600ab36ad3 ==
+                 Duration: 00:01:03.344
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: bb6871cdf37348a6add856bf8e48d546 ==
+                 Duration: 00:00:59.285
+           Bytes received: 243673
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 0cb6c5b07fa149dcbea4c4c7ea8ec9c3 ==
+                 Duration: 00:01:02.163
+           Bytes received: 243671
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: cd126c902f744e7e92c0d5a8bdbe2b57 ==
+                 Duration: 00:01:01.823
+           Bytes received: 243673
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 0aec67c778c3425891f63c3251ea9a47 ==
+                 Duration: 00:01:00.144
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: f4c2532333164923ad9a5f3e8ba7430b ==
+                 Duration: 00:01:01.934
+           Bytes received: 243701
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: df3b0e6152754e2cb55bba5e32bc68cf ==
+                 Duration: 00:01:02.640
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 8d8b767bbe994c1f920edb16f54dce15 ==
+                 Duration: 00:01:02.489
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.165
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 349e374139e5444296705ddabd1a9155 ==
+                 Duration: 00:01:03.128
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 401a525770b64e839d6f0c2fbecce840 ==
+                 Duration: 00:00:55.267
+           Bytes received: 243728
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 51a4a3b892544d018bc43c519085d08a ==
+                 Duration: 00:01:02.921
+           Bytes received: 243721
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a3dbaee11e034b278ca7b7a8a25457fc ==
+                 Duration: 00:01:01.794
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 99a0848ef5ec46ca86fca6ee229b8ee8 ==
+                 Duration: 00:01:00.260
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 621cef102f8849b484c58560ade5023e ==
+                 Duration: 00:01:00.463
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 9a00f7cba9134e80897557ea878957f8 ==
+                 Duration: 00:00:59.222
+           Bytes received: 243673
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 29ebe2df493f4eda897197fdd39dc534 ==
+                 Duration: 00:01:01.168
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 7c4b86c62772421395a7cf1232f8fb70 ==
+                 Duration: 00:00:59.661
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 44ba6def69de4d9782686ad8a085a008 ==
+                 Duration: 00:01:00.898
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 7f8b9c9ff0e84d43851e9554ff747958 ==
+                 Duration: 00:01:00.100
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 5cd2e862168747e3bdf8a4c9aed3916d ==
+                 Duration: 00:00:58.695
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 6b9d50cd8b22406fb25535f6870590cf ==
+                 Duration: 00:00:58.687
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 3b0eed43c362475f91ee743c3ff68f68 ==
+                 Duration: 00:00:59.289
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 3988c85b34d6460d91ad8a47af0ee0d4 ==
+                 Duration: 00:00:59.777
+           Bytes received: 243671
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 5d9fdc598d1048b2b1ad2ca4dc8d66d7 ==
+                 Duration: 00:01:00.722
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 253514ba13e34e0bbcadd483dd47ff7e ==
+                 Duration: 00:00:57.998
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 6fb64c108dc9446a81a1f682ad84465a ==
+                 Duration: 00:00:59.632
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: b1bdedf1bb23481dad385b0f8fd7cc0d ==
+                 Duration: 00:00:57.479
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 9244879f8ef74a91a710804a9c8290f0 ==
+                 Duration: 00:01:00.312
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 0434ee3dfb9b4c9d98efa3ad7ef2b843 ==
+                 Duration: 00:00:59.130
+           Bytes received: 243644
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: c0321591ee1f4d02a424971f7f52cd40 ==
+                 Duration: 00:00:58.841
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: f07d609c299241dbbc5abfd679eef0a7 ==
+                 Duration: 00:00:59.403
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 8bcf2571499e42e19156042a867eb240 ==
+                 Duration: 00:00:56.145
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.044
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: c55db945e4f24b7aa0ff1ab930e058a4 ==
+                 Duration: 00:00:55.309
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 73e4a3777dfe451cb0d05d3bb153426c ==
+                 Duration: 00:00:58.409
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 7052e0a32d164c51aa45f95044c7f4f5 ==
+                 Duration: 00:00:56.584
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.054
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: a767492582a7425a97e32f5178c545b2 ==
+                 Duration: 00:00:55.287
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: d0e6356c26b24b6889b99694199792ec ==
+                 Duration: 00:00:58.394
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: efaed32db8154af981fccf01c35bd50c ==
+                 Duration: 00:00:58.283
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 9a2be65db09845b29a7d4941b1f11efa ==
+                 Duration: 00:00:56.772
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 5579cd2c270343a5bc81559d350c3894 ==
+                 Duration: 00:00:55.824
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.588
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: fc503b8958474faf9b5c50ef59f55524 ==
+                 Duration: 00:00:55.402
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 80a357e4d1014015905e9ecf57acdaa9 ==
+                 Duration: 00:00:56.040
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a3575de7db6e4077bf23fdb02a8044e5 ==
+                 Duration: 00:00:55.366
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: c8907e9df8914843ae588923cbf1dc72 ==
+                 Duration: 00:00:57.406
+           Bytes received: 243652
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: b0bba60c967c4399a349b8c162575c83 ==
+                 Duration: 00:00:56.757
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.211
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.090
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 958004e3d7e846758708d2416f81356d ==
+                 Duration: 00:01:00.240
+           Bytes received: 243640
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: e9a5ce04ad5b472ea48bc2dac644cdcc ==
+                 Duration: 00:00:56.417
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 171eec8796cd4e5f93a33eba48505199 ==
+                 Duration: 00:01:00.543
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.379
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 5357555ee3464f598f0756299f1e8153 ==
+                 Duration: 00:00:58.300
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.099
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 6953c186202247028472c99487f09091 ==
+                 Duration: 00:00:53.321
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: fe9bf3905d874470b5cebe99f34d857f ==
+                 Duration: 00:00:54.772
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.351
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.163
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.200
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: e4cfd5b855d541dc9f2aef80f8e92ffb ==
+                 Duration: 00:00:53.494
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 2911111ed3214243ab503785b7c1124c ==
+                 Duration: 00:00:53.772
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 50d523109beb4928b6be58fdb35c08d4 ==
+                 Duration: 00:00:52.612
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: b29992ed7b60497396e5e821b13bc78d ==
+                 Duration: 00:00:57.946
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 1370bd224d57473697a5292d097d5bb3 ==
+                 Duration: 00:00:55.125
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 6fc8f62360544e81bfb6b799b3df6301 ==
+                 Duration: 00:00:54.144
+           Bytes received: 243640
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: c35fd1ee2f5b4c20b0e0d1e63bc331ea ==
+                 Duration: 00:00:53.516
+           Bytes received: 243640
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: cf79a5ac452f4cbb8cfdf3b6eca9dac2 ==
+                 Duration: 00:00:53.416
+           Bytes received: 243682
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 41341d33f9834dc683676ce813f383f5 ==
+                 Duration: 00:00:53.639
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: b88278016f814023b883730265fe43b5 ==
+                 Duration: 00:00:49.865
+           Bytes received: 243652
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a22b2fd78e0e4699a818c6a2406e4679 ==
+                 Duration: 00:00:51.509
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 51773caa01964ed48e52edd4d8732829 ==
+                 Duration: 00:00:53.138
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 9995682587684d85b830b802a4b8d352 ==
+                 Duration: 00:00:51.016
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 8ad65fbcd3314e8bbe77ce5839063ec2 ==
+                 Duration: 00:00:51.961
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.171
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.748
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:18.185
+           Bytes received: 256
+               Bytes sent: 105
+           Scenario count: 0
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 04dc1eb229344406810d519ed35ff166 ==
+                 Duration: 00:00:59.929
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 1e1bf07bd6d6472081d6da787d4764f3 ==
+                 Duration: 00:00:54.418
+           Bytes received: 243640
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 1d9137b8d05a4375bc0cdf9b178ca523 ==
+                 Duration: 00:00:54.346
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: fe327d87fefe4102824ea11c06c287ae ==
+                 Duration: 00:00:50.136
+           Bytes received: 243696
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 0f0ea8e7b9ab4aad8049f3ca435394b3 ==
+                 Duration: 00:00:55.043
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.744
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 31eb4dfcfc1c4a70b2c8ce0adfc3b28b ==
+                 Duration: 00:00:51.426
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.546
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 4da4880f6e99474cb1ee337bd0ce4827 ==
+                 Duration: 00:00:56.697
+           Bytes received: 243721
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: dce84ceb7c334802ba9aef1e678cbd62 ==
+                 Duration: 00:00:56.539
+           Bytes received: 243718
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.058
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: fc96a4443828463cbaafac465d542869 ==
+                 Duration: 00:00:59.048
+           Bytes received: 243731
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.260
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.243
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.087
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: dd64c33bb36e484e9851d31d66c4fe37 ==
+                 Duration: 00:00:46.745
+           Bytes received: 243646
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.061
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: b4a54345d3044b619f396092cfd8cf98 ==
+                 Duration: 00:00:52.358
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.174
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.107
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.188
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: e92ff84f64e64bb9a80442201681ca7e ==
+                 Duration: 00:00:54.388
+           Bytes received: 243718
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 0be0395499984149b268fdd3290c7780 ==
+                 Duration: 00:01:01.635
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: b7daeae8aaf640f0b95a3395ec9e2628 ==
+                 Duration: 00:00:53.447
+           Bytes received: 243673
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 210a9f2a061f4a9aa9369d343a9ae5c2 ==
+                 Duration: 00:00:50.492
+           Bytes received: 243640
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:12.824
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:12.742
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:12.644
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:12.539
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 430088e9fd2f49a4b658a5c3ad5a1fb8 ==
+                 Duration: 00:00:55.186
+           Bytes received: 243731
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:12.338
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 519204e6bd7341f48b85ff883a048de8 ==
+                 Duration: 00:00:51.519
+           Bytes received: 243671
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:12.136
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:11.424
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 2f13e7d999d4452c9f09b0b7ee6c0c91 ==
+                 Duration: 00:01:00.833
+           Bytes received: 243683
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:11.130
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 5f5d665fc1b948acbd1fc9a16420ede0 ==
+                 Duration: 00:00:51.999
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.928
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: b26d57bcfdac437a9cf5935afc98e056 ==
+                 Duration: 00:00:53.561
+           Bytes received: 243673
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.719
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.619
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 2643ff2f70df45b6b95d393c5561fdb0 ==
+                 Duration: 00:00:58.282
+           Bytes received: 243689
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: b5ee97908a9741efbf07385e5e8db475 ==
+                 Duration: 00:00:53.746
+           Bytes received: 243695
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: d95a9cc387de4b8caa58ee6b400d7512 ==
+                 Duration: 00:00:58.084
+           Bytes received: 243733
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 1e7400ddce8f4462bc6b1761902f96d6 ==
+                 Duration: 00:00:56.602
+           Bytes received: 243695
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 52a1715abc6a4343810125c1b61df496 ==
+                 Duration: 00:00:56.542
+           Bytes received: 243745
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: f31d1e7590fa4b0fada1cdbf0eb7df1f ==
+                 Duration: 00:00:52.903
+           Bytes received: 243736
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: e63ce4f93b4244fc85d484037a2bc89f ==
+                 Duration: 00:00:57.534
+           Bytes received: 243678
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 999b1faea0f64fb18a69c33b898efec2 ==
+                 Duration: 00:00:56.129
+           Bytes received: 243739
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 3a2e69d179cd44f6b63e3244a94c2290 ==
+                 Duration: 00:00:52.257
+           Bytes received: 243686
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a49c448c127e4829947cb90e656129d8 ==
+                 Duration: 00:00:55.974
+           Bytes received: 243745
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: b8432a0f196f432f926fdf363072b678 ==
+                 Duration: 00:00:59.112
+           Bytes received: 243733
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 895fb992280743c78456376b98ffd430 ==
+                 Duration: 00:00:58.442
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 4f94833c8b034314aef46316591e1560 ==
+                 Duration: 00:00:51.607
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 9e417e1203c44f6b9f868a4b6d24801e ==
+                 Duration: 00:00:58.517
+           Bytes received: 243678
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 324f1aa483d94fad9fa64d99d890751e ==
+                 Duration: 00:00:55.505
+           Bytes received: 243745
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 3ea5770636a343b6b8294992b8797b18 ==
+                 Duration: 00:00:57.859
+           Bytes received: 243264
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: f94c6422822f4213b84bb860803e93c5 ==
+                 Duration: 00:00:48.939
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 04a70379b14e4203909563e1a984698a ==
+                 Duration: 00:00:57.970
+           Bytes received: 243671
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 1b334a8d578d4c268fda3780a4301fa7 ==
+                 Duration: 00:00:50.483
+           Bytes received: 243729
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: bf3a13e690f546d58934c52d1a8a3a2a ==
+                 Duration: 00:00:48.267
+           Bytes received: 243668
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 9fac475cb0864676ab46b5f570635b99 ==
+                 Duration: 00:00:49.772
+           Bytes received: 243681
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 8e172a460eb64e59a4ec7e3e0c62eaa0 ==
+                 Duration: 00:00:55.331
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 0f1ec48d3f2c48d18ef6b0671eabd3ad ==
+                 Duration: 00:00:56.612
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 430d119ebaf1482c913396ddbcbb02cc ==
+                 Duration: 00:00:57.350
+           Bytes received: 243728
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 390f85366e9d48bdb2abd649db1d3f25 ==
+                 Duration: 00:00:55.172
+           Bytes received: 243733
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: c6c5dbc2d89b410696e91710d6ee2b73 ==
+                 Duration: 00:00:54.457
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: b9d65d7c854c47f5beff224e350006a8 ==
+                 Duration: 00:00:52.975
+           Bytes received: 243745
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 3459a5964dbf4eecb629085c4aca8835 ==
+                 Duration: 00:00:54.063
+           Bytes received: 243733
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: bf3f89eae8d345099d48a5edf7eadb96 ==
+                 Duration: 00:00:56.298
+           Bytes received: 243761
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 66d3654338654797ba7066d04e09fc5e ==
+                 Duration: 00:00:51.658
+           Bytes received: 243704
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a2679a522a7a4af2ab1380929173e1db ==
+                 Duration: 00:00:45.995
+           Bytes received: 243731
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: eebaab1e5f7544c4a7d79fdd7f7c357c ==
+                 Duration: 00:00:47.287
+           Bytes received: 243723
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 0a9cf926e895484095b2cc2aacf79eb5 ==
+                 Duration: 00:00:55.605
+           Bytes received: 243761
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 62331142e0ac46be89364ce7a3e34395 ==
+                 Duration: 00:00:48.879
+           Bytes received: 243671
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 434e5bed538a4bbc9f5feb2d2a453951 ==
+                 Duration: 00:00:55.458
+           Bytes received: 243761
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 84d98cf0a89748008898921b618ef850 ==
+                 Duration: 00:00:54.944
+           Bytes received: 243761
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.056
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 9da331239ddd4a0b9166499eefc2198b ==
+                 Duration: 00:00:51.868
+           Bytes received: 243704
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: fd3d4dc7ef254b04986504b8a58a7963 ==
+                 Duration: 00:00:55.033
+           Bytes received: 243711
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 1e13d090a573427ba7b1c3792264db44 ==
+                 Duration: 00:00:48.348
+           Bytes received: 243728
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: d7c3b31747a543e7b8c1b393d4cf5900 ==
+                 Duration: 00:00:48.587
+           Bytes received: 243761
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: d0a0a7edeb344ad18f99b08a473c69b8 ==
+                 Duration: 00:00:54.068
+           Bytes received: 243704
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: d73d35d78be6444ea691ee487a041962 ==
+                 Duration: 00:00:54.666
+           Bytes received: 243754
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 4f63cb93df41419d87820ee840dc41df ==
+                 Duration: 00:00:47.846
+           Bytes received: 243728
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.166
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.053
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.086
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 789c3464db334322852e845120d4b102 ==
+                 Duration: 00:00:54.162
+           Bytes received: 243704
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: d37fa21fc1d34752a68cb4bd2efec434 ==
+                 Duration: 00:00:51.868
+           Bytes received: 243761
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 102623f515ff47f0b69ad9d182c9694e ==
+                 Duration: 00:00:53.835
+           Bytes received: 243704
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.804
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.105
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: a11181edcd384cce8e448e7e66c7dd2f ==
+                 Duration: 00:00:53.450
+           Bytes received: 243754
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.480
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 05642b9ae23c4ee8bcac0b53f20f28f6 ==
+                 Duration: 00:00:55.435
+           Bytes received: 243678
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a3b69b08ae4a414a895600e78faa8b72 ==
+                 Duration: 00:00:53.197
+           Bytes received: 243761
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.167
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.135
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: efba72b0338141b8ae46ed3bf85106cb ==
+                 Duration: 00:00:46.433
+           Bytes received: 243678
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.047
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 5e5aca2b7b5c4894a10508ce4432e282 ==
+                 Duration: 00:00:54.868
+           Bytes received: 243678
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 9d376f22d5ea4680b098c8e57b2e2cab ==
+                 Duration: 00:00:45.771
+           Bytes received: 243671
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.053
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 21ccc21938cb46e69ea1ad1274900acc ==
+                 Duration: 00:00:52.436
+           Bytes received: 243761
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: b482c7161c70425d8b2c7a3cf0792140 ==
+                 Duration: 00:00:54.194
+           Bytes received: 243276
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.270
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 92f60fdd7d554e39babe4ce96dbb1ba9 ==
+                 Duration: 00:00:52.987
+           Bytes received: 243735
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: ddc8e6d04ae74061a7a6c5362777c83f ==
+                 Duration: 00:00:52.149
+           Bytes received: 243704
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.262
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.321
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.314
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: c146a7a08ffb4665af30a895b934d1af ==
+                 Duration: 00:00:50.604
+           Bytes received: 243711
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 5b84170c488c4bed8470863b5db72e51 ==
+                 Duration: 00:00:50.779
+           Bytes received: 243711
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: c8d6693f1e844d53b49ee5fbc18f9824 ==
+                 Duration: 00:00:52.881
+           Bytes received: 243685
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.203
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 3547ac24ee364521b4c6b07f3f3956b7 ==
+                 Duration: 00:00:52.672
+           Bytes received: 243683
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a8e51c3c1d68472c8d99b842c32aac43 ==
+                 Duration: 00:00:43.990
+           Bytes received: 243671
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.276
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.092
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 568f2a2740c84522b5f971140927b274 ==
+                 Duration: 00:00:50.834
+           Bytes received: 243738
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.291
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 71349dcd51e844458ecb2f877f022f03 ==
+                 Duration: 00:00:51.904
+           Bytes received: 243685
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 57a43f9c09ef4c8785372a2a6edef14f ==
+                 Duration: 00:00:49.274
+           Bytes received: 243761
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.053
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.541
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: e2056ee652f14f939edc1d4b72bde8f4 ==
+                 Duration: 00:00:50.233
+           Bytes received: 243704
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 8dfce82fc58440e4a13b0400a15fc5a6 ==
+                 Duration: 00:00:50.079
+           Bytes received: 243733
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: cae915bcdcc94359afedcc2a20f03d2a ==
+                 Duration: 00:00:50.015
+           Bytes received: 243688
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 56ca93bf997d4cfaa68c81e554adee36 ==
+                 Duration: 00:00:49.262
+           Bytes received: 243704
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.622
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 238730a98e79492e946f872f6ea5c00d ==
+                 Duration: 00:00:51.014
+           Bytes received: 243724
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.545
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.521
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: a9c6732bd5de4b1e9a824bb1840d18ef ==
+                 Duration: 00:00:50.608
+           Bytes received: 243728
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.083
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 28e243b6bc7f40eba1d6da08c29b31dc ==
+                 Duration: 00:00:50.399
+           Bytes received: 243721
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.137
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:11.202
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: null ==
+                 Duration: 00:00:11.100
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 836d9f494e6a4b1cb0967ab1b00d928e ==
+                 Duration: 00:00:50.037
+           Bytes received: 243683
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.897
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: a1b9af993825459e9dd82eab5cf38e7b ==
+                 Duration: 00:00:47.858
+           Bytes received: 243754
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.696
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: ebf26f4ff9db4b68b22c5b8ba150d1d1 ==
+                 Duration: 00:00:48.798
+           Bytes received: 243713
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 4308c67cfbae472e9bd0317ad0aeb8e8 ==
+                 Duration: 00:00:40.892
+           Bytes received: 243731
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: b09df7e33bcf4caf99d319c2cf421a64 ==
+                 Duration: 00:00:48.905
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:11.383
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: b399407abf69401783e263b45fae0e9c ==
+                 Duration: 00:00:49.043
+           Bytes received: 243638
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 8374fbec3d584de18ae840c6527b4005 ==
+                 Duration: 00:00:47.680
+           Bytes received: 243671
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 51fc5f353aa04c25b7cad6868c5aa4d0 ==
+                 Duration: 00:00:47.496
+           Bytes received: 243671
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 4c1ccdebd49947cc9ea49de4ce5a7d11 ==
+                 Duration: 00:00:50.600
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 252714cff75240c184e1de0b4748b8bf ==
+                 Duration: 00:00:43.030
+           Bytes received: 243761
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 3a1d298092b24d809ef1b7a88570d7f4 ==
+                 Duration: 00:00:45.971
+           Bytes received: 243704
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 288b7e8902b148a4af8e81fef0969aff ==
+                 Duration: 00:00:41.563
+           Bytes received: 243704
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.684
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: 32085c8b9f424cbc85fc1edb7efddf7d ==
+                 Duration: 00:00:45.361
+           Bytes received: 243704
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: a0eb0850b9eb438a99bf6f6d8efb715c ==
+                 Duration: 00:00:44.443
+           Bytes received: 243750
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: fd8910d3c49b48c0bf5c7e24ea082f7e ==
+                 Duration: 00:00:46.278
+           Bytes received: 243713
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: null ==
+                 Duration: 00:00:10.228
+           Bytes received: 0
+               Bytes sent: 0
+           Scenario count: 0
+          Scenario failed: 1
+            Checks failed: 0
+Scenario failures:
+ - Exception com.fourjs.ggc.StatusError:
+Message: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+
+com.fourjs.ggc.StatusError: DVM_AVAILABLE Timeout expired. VM Connection timed out.
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:230)
+	at com.fourjs.ggc.client.TCPSession.start(TCPSession.java:139)
+	at com.fourjs.ggc.client.SessionManagerImpl$3.run(SessionManagerImpl.java:269)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.util.concurrent.TimeoutException
+	at sun.nio.ch.PendingFuture.get(PendingFuture.java:197)
+	at com.fourjs.ggc.client.TCPSession.startSession(TCPSession.java:223)
+	... 5 more
+
+== Session statistics == Id: b7872f9ef83540539c5dcfeb468f6410 ==
+                 Duration: 00:00:46.036
+           Bytes received: 243690
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0
+== Session statistics == Id: 9c30240addc943a2b35b93482bede781 ==
+                 Duration: 00:00:45.783
+           Bytes received: 243728
+               Bytes sent: 1607
+           Scenario count: 1
+          Scenario failed: 0
+            Checks failed: 0

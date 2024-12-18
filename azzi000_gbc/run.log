@@ -1,0 +1,143 @@
+[NaNaLogFactoryImpl] Loading property file file:/u1/topprd/utl/java/jar/bpm/conf/NaNaLog.properties
+[NaNaLogFactoryImpl] Loading property file file:/u1/topprd/utl/java/jar/bpm/conf/NaNaLog.properties
+=  Full session duration: 00:00:40.941
+== Session statistics == Id: ad23d3c0dcfc361af70d0a657ce4dcbd ==
+                 Duration: 00:00:25.755
+           Bytes received: 0
+               Bytes sent: 3673
+           Scenario count: 3
+          Scenario failed: 0
+            Checks failed: 0
+          Files requested: 192
+         Files downloaded: 192
+     File download failed: 0
+File download - bytes received: 546701
+== Session statistics == Id: 05742672f3ef94d150ef67c69697b4ab ==
+                 Duration: 00:00:29.882
+           Bytes received: 0
+               Bytes sent: 3673
+           Scenario count: 3
+          Scenario failed: 0
+            Checks failed: 0
+          Files requested: 192
+         Files downloaded: 192
+     File download failed: 0
+File download - bytes received: 546701
+== Session statistics == Id: 079218be7566bfd2067d4e65a8824b9f ==
+                 Duration: 00:00:25.808
+           Bytes received: 0
+               Bytes sent: 3673
+           Scenario count: 3
+          Scenario failed: 0
+            Checks failed: 0
+          Files requested: 192
+         Files downloaded: 192
+     File download failed: 0
+File download - bytes received: 546701
+== Session statistics == Id: eeff8bddf7489720dee160ffcedd758c ==
+                 Duration: 00:00:25.835
+           Bytes received: 0
+               Bytes sent: 3673
+           Scenario count: 3
+          Scenario failed: 0
+            Checks failed: 0
+          Files requested: 192
+         Files downloaded: 192
+     File download failed: 0
+File download - bytes received: 546701
+== Session statistics == Id: 16a22699ac54418140f8100af56a0e3a ==
+                 Duration: 00:00:24.431
+           Bytes received: 0
+               Bytes sent: 3673
+           Scenario count: 3
+          Scenario failed: 0
+            Checks failed: 0
+          Files requested: 192
+         Files downloaded: 192
+     File download failed: 0
+File download - bytes received: 546701
+=  Full session duration: 00:00:40.972
+== Session statistics == Id: f843c3dd7d1bf1ae80ce20bbd6bffdcf ==
+                 Duration: 00:00:25.743
+           Bytes received: 0
+               Bytes sent: 3673
+           Scenario count: 3
+          Scenario failed: 0
+            Checks failed: 0
+          Files requested: 192
+         Files downloaded: 192
+     File download failed: 0
+File download - bytes received: 546701
+== Session statistics == Id: 9ecd4648e8fa8c67b57353e2625f15e6 ==
+                 Duration: 00:00:24.498
+           Bytes received: 0
+               Bytes sent: 3673
+           Scenario count: 3
+          Scenario failed: 0
+            Checks failed: 0
+          Files requested: 192
+         Files downloaded: 192
+     File download failed: 0
+File download - bytes received: 546701
+== Session statistics == Id: c4daa4b25bee8a4635c710cd0d8ebea6 ==
+                 Duration: 00:00:25.584
+           Bytes received: 0
+               Bytes sent: 3673
+           Scenario count: 3
+          Scenario failed: 0
+            Checks failed: 0
+          Files requested: 192
+         Files downloaded: 192
+     File download failed: 0
+File download - bytes received: 546701
+== Session statistics == Id: 8994904b3ea17bc0e46a55daf34ce66e ==
+                 Duration: 00:00:25.710
+           Bytes received: 0
+               Bytes sent: 3673
+           Scenario count: 3
+          Scenario failed: 0
+            Checks failed: 0
+          Files requested: 192
+         Files downloaded: 192
+     File download failed: 0
+File download - bytes received: 546701
+== Session statistics == Id: 28ca6fb349c0edf516abf56c41315ea4 ==
+                 Duration: 00:00:24.509
+           Bytes received: 0
+               Bytes sent: 3673
+           Scenario count: 3
+          Scenario failed: 0
+            Checks failed: 0
+          Files requested: 192
+         Files downloaded: 192
+     File download failed: 0
+File download - bytes received: 546701
+ourjs.ggc.client.ScenarioWrapper.start(ScenarioWrapper.java:98)
+	at com.fourjs.ggc.client.UASession.incomingClient(UASession.java:74)
+	at com.fourjs.ggc.client.UAClient$NewTaskHandler$1.run(UAClient.java:566)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+== Session statistics == Id: 03a7ea5c6b9e26c1e2a7a4bdda1a6351 ==
+                 Duration: 00:00:24.984
+           Bytes received: 0
+               Bytes sent: 3673
+           Scenario count: 3
+          Scenario failed: 0
+            Checks failed: 0
+          Files requested: 192
+         Files downloaded: 192
+     File download failed: 0
+File download - bytes received: 546701
+== Session statistics == Id: e664b09528272360fd444066ded90af0 ==
+                 Duration: 00:00:25.399
+           Bytes received: 0
+               Bytes sent: 3673
+           Scenario count: 3
+          Scenario failed: 0
+            Checks failed: 0
+          Files requested: 192
+         Files downloaded: 192
+     File download failed: 0
+File download - bytes received: 546701
