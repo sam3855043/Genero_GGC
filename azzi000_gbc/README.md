@@ -38,9 +38,8 @@ COMMAND:
  --scenario-provider azzi000.azzi000_gbc_1_provider --instance-count 2 --instance-delay 500
  
  # GUIGRAPH execute
- - fglrun azzi000_gdc.42m ua --url http://10.40.41.147/wtopprd/ua/r/app/gwc_azzi000?Arg=99 -f 10.40.41.189:0
- - ggcadmin ua --url http://10.40.41.189/wtoptst/ua/r/app/gwc_azzi000?Arg=99 
- --scenario-provider azzi000.azzi000_gbc_1_provider -f 10.40.41.189:0 🚨 錯誤：Something went wrong!
+ - fglrun azzi000_gdc.42m ua --url http://10.40.41.147/wtopprd/ua/r/app/gwc_azzi000?Arg=99 -f 10.40.241.163:0
+ - ggcadmin ua --url http://10.40.41.189/wtoptst/ua/r/app/gwc_azzi000?Arg=99  --scenario-provider azzi000.azzi000_gbc_1_provider -f 10.40.241.163:0 🚨 錯誤：Something went wrong!
  # TCP mode
  - export GUIMODE=GDC
  - ggcadmin tcp -w /u1/usr/tiptop/sam/Genero_ggc/azzi000_gbc/ -c 'fglrun /u1/topprd/erp/azz/42r/azzi000.42r' --scenario-provider azzi000.azzi000_gbc_1_provider --instance-count 2 ✅ **成功**：操作已順利完成！
