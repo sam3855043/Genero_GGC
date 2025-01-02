@@ -54,3 +54,4 @@ COMMAND:
  - ggcadmin ua --url http://10.40.41.189/wtoptst/ua/r/app/gwc_azzi000?Arg=99 --scenario-provider azzi000.azzi000_gbc_1_provider --instance-count 5  --instance-delay 3000 --speed-ratio 0.5 ✅ **成功**：操作已順利完成！
  - ggcadmin ua --url http://10.40.41.189/wtoptst/ua/r/app/gwc_azzi000?Arg=99 --scenario-provider azzi000.azzi000_gbc_1_provider --instance-count 6  --instance-delay 3000 --speed-ratio 0.5 🚨 錯誤：Something went wrong!
  - ggcadmin ua --url http://10.40.41.189/wtoptst/ua/r/app/gwc_azzi000?Arg=99 --scenario-provider azzi000.azzi000_gbc_1_provider --instance-count 10  --instance-delay 3000 --speed-ratio 0.5🚨 錯誤：Something went wrong!
+ - ggcadmin ua --url http://10.40.41.189/wtoptst/ua/r/app/gwc_azzi000?Arg=99 --scenario-provider azzi000.azzi000_gbc_1_provider --instance-count 100  --instance-delay 300 --speed-ratio 0 🚨 錯誤：Something went wrong!
