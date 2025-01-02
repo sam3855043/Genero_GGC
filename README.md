@@ -1,3 +1,6 @@
+# Geenero5 GGC enviroment setting
+ - export GGCDIR=/u1/genero/ggc
+ - . $GGCDIR/envggc
 # Genero_ggc
 test gcc from Genero GHOST sample
 - GHOST sample 

@@ -25,16 +25,22 @@ COMMAND:
  - ggcadmin startbdlserver & <br>
  - export GUIMODE=GDC;fglrun price_sample tcp --command-line "fglrun /u1/topprd/azz/erp/azz/42r/azzi000.42r"
 ## fastcgidispatch testing
- - fglrun 189.42m ua --url http://10.40.41.189/wtopprd/ua/r/app/gwc_azzi000?Arg=99
+ - fglrun azzi00_gdc.42m ua --url http://10.40.41.189/wtopprd/ua/r/app/gwc_azzi000?Arg=99 
 ## Detail please check the manual 
  - https://4js.com/online_documentation/fjs-ggc-manual-html/#ggc-topics/t_ggc_record_scenario_log_dvm.html
 
 # JAVA scenario
 ## ggcgen for java
- - ggcgen java --package-name gdc --check-form gbc.log
+ - ggcgen java --package-name azzi000 --check-form gbc.log
 
  - ggcadmin ua --url http://10.40.41.189/wtoptst/ua/r/app/gwc_azzi000?Arg=99 --scenario-provider azzi000.azzi000_gbc_1_provider --instance-count 2 --instance-delay 500
  - ggcadmin ua --url http://10.40.40.207/wtoptst/ua/r/app/gwc_azzi000?Arg=99 --scenario-provider azzi000.azzi000_gbc_1_provider --instance-count 1
+ --scenario-provider azzi000.azzi000_gbc_1_provider --instance-count 2 --instance-delay 500
+ 
+ # GUIGRAPH execute
+ - fglrun azzi000_gdc.42m ua --url http://10.40.41.147/wtopprd/ua/r/app/gwc_azzi000?Arg=99 -f 10.40.41.189:0
+ - ggcadmin ua --url http://10.40.41.189/wtoptst/ua/r/app/gwc_azzi000?Arg=99 
+ --scenario-provider azzi000.azzi000_gbc_1_provider -f 10.40.41.189:0 🚨 錯誤：Something went wrong!
  # TCP mode
  - export GUIMODE=GDC
  - ggcadmin tcp -w /u1/usr/tiptop/sam/Genero_ggc/azzi000_gbc/ -c 'fglrun /u1/topprd/erp/azz/42r/azzi000.42r' --scenario-provider azzi000.azzi000_gbc_1_provider --instance-count 2 ✅ **成功**：操作已順利完成！
