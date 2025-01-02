@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 # Geenero5 GGC enviroment setting
  - export GGCDIR=/u1/genero/ggc
  - . $GGCDIR/envggc
 # Genero_ggc
+=======
+# Genero_GGC5
+>>>>>>> origin/HEAD
 test gcc from Genero GHOST sample
 - GHOST sample 
     - quick-start
