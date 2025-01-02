@@ -1,4 +1,4 @@
-# Genero_ggc
+# Genero_GGC5
 test gcc from Genero GHOST sample
 - GHOST sample 
     - quick-start
