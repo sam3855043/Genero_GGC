@@ -1,4 +1,0 @@
-- fglrun --start-guilog=azzi000.guilog $AZZ/42r/azzp000.42r azzi000
-- ggcgen bdl azzi000
-- fglrun azzi000.42m tcp --command "fglrun /u1/topprd/erp/azz/42r/azzp000.42r azzi000" 
-- fglrun

@@ -1,0 +1,334 @@
+LOGVERSION=2
+-2:COMMENT:0:平台 = { OS版本 = { OSX 14.5.0 } 字長 = { 64 } 字節順序={ Little Endian }可用幾何圖形 = { 1920 x 1055 } 畫面幾何圖形 = { 1920 x 1055 } 虛擬桌面 = { true }  }
+147-demo:SHORTCUT:1919:start
+15:HTTP:1922:*** DATE[2025-01-09 16:20:32.262]
+15:HTTP:1922:*** FUNCTION[sendHelloTo]
+15:HTTP:1922:*** SENDING REQUEST[6000023466A0]
+15:HTTP:1922:*** URL[http://@10.40.41.147/wtopprd/ua/r/gwc-demo?frontEndId1=%7B28ecfef8-1f3e-49b4-9ec4-2c1b00d5322e%7D&frontEndId2=%7B32e80e96-1a0b-4a10-a507-4e80b4361159%7D]
+15:HTTP:1946:*** DATE[2025-01-09 16:20:32.282]
+15:HTTP:1947:*** FUNCTION[finishedHandler]
+15:HTTP:1947:*** REQ FINISHED[6000023466A0]
+15:HTTP:1947:*** URL[http://@10.40.41.147/wtopprd/ua/r/gwc-demo?frontEndId1=%7B28ecfef8-1f3e-49b4-9ec4-2c1b00d5322e%7D&frontEndId2=%7B32e80e96-1a0b-4a10-a507-4e80b4361159%7D]
+15:HTTP:1947:*** DATE[2025-01-09 16:20:32.283]
+15:HTTP:1947:*** FUNCTION[handleDVMData]
+15:HTTP:1947:*** REQ[6000023466A0]
+15:COMMENT:1948:NEW
+15:DVM:1948:meta Connection {{encoding "UTF-8"} {protocolVersion "102"} {interfaceVersion "110"} {runtimeVersion "3.21.03-2525"} {compression "none"} {encapsulation "1"} {filetransfer "1"} {frontEndID "{28ecfef8-1f3e-49b4-9ec4-2c1b00d5322e}"} {procId "t100demo3:182698"}}
+15:FE:0:meta Client{{name "GDC"}{version "5.00.03-202409031136"}{host "samueldeMacBook-Pro.local"}{connections "1"}{port "6400"}{frontEndID2 "{32e80e96-1a0b-4a10-a507-4e80b4361159}"}{encapsulation "0"}{clientInfo "host-name =samueldeMacBook-Pro.local^hw-addr   =a4:cf:99:97:a6:97^host-addr =10.40.241.163^user-name =samuel^app-id    ={ef1f3a65-3695-f2e4-0071-4c592eaba02e}^cx-mode   =gas"}{gitVersion "5.00.03-202409031136-0-g98baa404b"}{filetransfer "0"}}
+15:COMMENT:1:PingManager: Restart Ping, timeout=145000
+15:HTTP:1:*** DATE[2025-01-09 16:20:32.289]
+15:HTTP:1:*** FUNCTION[postRequest]
+15:HTTP:1:*** SENDING REQUEST[600002390AA0]
+15:HTTP:1:*** BUFFER[meta Client{{name "GDC"}{version "5.00.03-202409031136"}{host "samueldeMacBook-Pro.local"}{connections "1"}{port "6400"}{frontEndID2 "{32e80e96-1a0b-4a10-a507-4e80b4361159}"}{encapsulation "0"}{clientInfo "host-name =samueldeMacBook-Pro.local^hw-addr   =a4:cf:99:97:a6:97^host-addr =10.40.241.163^user-name =samuel^app-id    ={ef1f3a65-3695-f2e4-0071-4c592eaba02e}^cx-mode   =gas"}{gitVersion "5.00.03-202409031136-0-g98baa404b"}{filetransfer "0"}}\n]
+15:HTTP:1:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=1]
+15:HTTP:33:*** DATE[2025-01-09 16:20:32.318]
+15:HTTP:33:*** FUNCTION[finishedHandler]
+15:HTTP:33:*** REQ FINISHED[600002390AA0]
+15:HTTP:33:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=1]
+15:HTTP:33:*** DATE[2025-01-09 16:20:32.318]
+15:HTTP:33:*** FUNCTION[handleDVMData]
+15:HTTP:33:*** REQ[600002390AA0]
+15:DVM:33:om 0 {{an 0 UserInterface 0 {{name "demo"} {text "demo"} {charLengthSemantics "0"} {procId "t100demo3:182698"} {dbDate "MDY4/"} {dbCentury "R"} {decimalSeparator "."} {thousandsSeparator ","} {errorLine "-1"} {commentLine "-1"} {formLine "2"} {messageLine "1"} {menuLine "0"} {promptLine "0"} {inputWrap "1"} {fieldOrder "1"} {currentWindow "94"} {focus "100"} {runtimeStatus "interactive"}} {{StyleList 1 {} {{Style 2 {{name "Window"}} {{StyleAttribute 3 {{name "windowType"} {value "normal"}} {}}}} {Style 4 {{name "Window.main"}} {{StyleAttribute 5 {{name "windowType"} {value "normal"}} {}} {StyleAttribute 6 {{name "startMenuPosition"} {value "menu"}} {}}}} {Style 7 {{name "Window.main2"}} {{StyleAttribute 8 {{name "windowType"} {value "normal"}} {}} {StyleAttribute 9 {{name "actionPanelPosition"} {value "none"}} {}} {StyleAttribute 10 {{name "ringMenuPosition"} {value "none"}} {}}}} {Style 11 {{name "Window.dialog"}} {{StyleAttribute 12 {{name "windowType"} {value "modal"}} {}} {StyleAttribute 13 {{name "sizable"} {value "no"}} {}} {StyleAttribute 14 {{name "position"} {value "center"}} {}} {StyleAttribute 15 {{name "actionPanelPosition"} {value "bottom"}} {}} {StyleAttribute 16 {{name "ringMenuPosition"} {value "bottom"}} {}} {StyleAttribute 17 {{name "toolBarPosition"} {value "none"}} {}} {StyleAttribute 18 {{name "statusBarType"} {value "none"}} {}} {StyleAttribute 19 {{name "errorMessagePosition"} {value "popup"}} {}}}} {Style 20 {{name "Window.dialog2"}} {{StyleAttribute 21 {{name "windowType"} {value "modal"}} {}} {StyleAttribute 22 {{name "sizable"} {value "no"}} {}} {StyleAttribute 23 {{name "position"} {value "center"}} {}} {StyleAttribute 24 {{name "actionPanelPosition"} {value "none"}} {}} {StyleAttribute 25 {{name "ringMenuPosition"} {value "none"}} {}} {StyleAttribute 26 {{name "toolBarPosition"} {value "none"}} {}} {StyleAttribute 27 {{name "statusBarType"} {value "none"}} {}} {StyleAttribute 28 {{name "errorMessagePosition"} {value "popup"}} {}}}} {Style 29 {{name "Window.dialog3"}} {{StyleAttribute 30 {{name "windowType"} {value "modal"}} {}} {StyleAttribute 31 {{name "sizable"} {value "yes"}} {}} {StyleAttribute 32 {{name "toolBarPosition"} {value "none"}} {}} {StyleAttribute 33 {{name "actionPanelPosition"} {value "none"}} {}} {StyleAttribute 34 {{name "ringMenuPosition"} {value "none"}} {}} {StyleAttribute 35 {{name "statusBarType"} {value "none"}} {}} {StyleAttribute 36 {{name "errorMessagePosition"} {value "popup"}} {}}}} {Style 37 {{name "Window.dialog4"}} {{StyleAttribute 38 {{name "windowType"} {value "modal"}} {}} {StyleAttribute 39 {{name "sizable"} {value "yes"}} {}} {StyleAttribute 40 {{name "actionPanelPosition"} {value "bottom"}} {}} {StyleAttribute 41 {{name "ringMenuPosition"} {value "none"}} {}} {StyleAttribute 42 {{name "statusBarType"} {value "none"}} {}} {StyleAttribute 43 {{name "errorMessagePosition"} {value "popup"}} {}}}} {Style 44 {{name "Window.naked"}} {{StyleAttribute 45 {{name "windowType"} {value "modal"}} {}} {StyleAttribute 46 {{name "border"} {value "tool"}} {}} {StyleAttribute 47 {{name "actionPanelPosition"} {value "none"}} {}} {StyleAttribute 48 {{name "ringMenuPosition"} {value "none"}} {}} {StyleAttribute 49 {{name "toolBarPosition"} {value "none"}} {}} {StyleAttribute 50 {{name "statusBarType"} {value "none"}} {}}}} {Style 51 {{name "Window.viewer"}} {{StyleAttribute 52 {{name "windowType"} {value "modal"}} {}} {StyleAttribute 53 {{name "windowSystemMenu"} {value "yes"}} {}} {StyleAttribute 54 {{name "windowOptionMinimize"} {value "no"}} {}} {StyleAttribute 55 {{name "windowOptionMaximize"} {value "no"}} {}} {StyleAttribute 56 {{name "sizable"} {value "yes"}} {}} {StyleAttribute 57 {{name "actionPanelPosition"} {value "none"}} {}} {StyleAttribute 58 {{name "ringMenuPosition"} {value "none"}} {}} {StyleAttribute 59 {{name "toolBarPosition"} {value "none"}} {}} {StyleAttribute 60 {{name "statusBarType"} {value "none"}} {}}}}}} {ActionDefaultList 61 {} {{ActionDefault 70 {{name "interrupt"} {text "Interrupt"} {contextMenu "no"}} {}} {ActionDefault 78 {{name "editcopy"} {text "Copy"} {image "font:FontAwesome.ttf:f0c5"} {comment "Copy"} {acceleratorName "Control-C"} {contextMenu "no"}} {}} {ActionDefault 79 {{name "editcut"} {text "Cut"} {image "font:FontAwesome.ttf:f0c4"} {comment "Cut"} {acceleratorName "Control-X"} {contextMenu "no"}} {}} {ActionDefault 80 {{name "editpaste"} {text "Paste"} {image "font:FontAwesome.ttf:f0ea"} {comment "Paste"} {acceleratorName "Control-V"} {contextMenu "no"}} {}} {ActionDefault 81 {{name "nextfield"} {text "Next Field"} {acceleratorName "Tab"} {contextMenu "no"}} {}} {ActionDefault 82 {{name "prevfield"} {text "Previous Field"} {acceleratorName "Shift-Tab"} {contextMenu "no"}} {}} {ActionDefault 87 {{name "nextpage"} {text "Next Page"} {acceleratorName "Next"} {contextMenu "no"}} {}} {ActionDefault 88 {{name "prevpage"} {text "Previous Page"} {acceleratorName "Prior"} {contextMenu "no"}} {}} {ActionDefault 89 {{name "nexttab"} {text "Next Folder Tab"} {acceleratorName "Control-Tab"} {contextMenu "no"}} {}} {ActionDefault 90 {{name "prevtab"} {text "Previous Folder Tab"} {acceleratorName "Control-Shift-Tab"} {contextMenu "no"}} {}}}} {ImageFonts 92 {} {{ImageFont 93 {{name "FontAwesome.ttf"} {href "http://10.40.41.147:80/wtopprd/ua/ft/e4b368a23dd873c13938b25f49b96e68/fgl-files/182698/FontAwesome.ttf?t=1725984344;s=165548;charset=UTF-8"}} {}}}} {Window 94 {{name "screen"} {commentLine "-2"} {commentLineHidden "0"} {formLine "2"} {messageLine "1"} {menuLine "0"} {promptLine "0"} {errorLine "-1"} {posX "0"} {posY "0"} {width "80"} {height "25"} {style "main"} {text "Demos"}} {{Form 95 {{name "demo"} {text "Demos"} {width "126"} {height "16"} {formLine "2"}} {{Grid 96 {{width "126"} {height "16"}} {{Label 97 {{width "52"} {text "Demo directory"} {style "title"} {posY "0"} {posX "2"} {gridWidth "52"}} {}} {VBox 98 {{splitter "1"} {posY "1"} {posX "1"} {gridWidth "124"} {gridHeight "15"}} {{HBox 99 {{splitter "1"}} {{Table 100 {{pageSize "1"} {width "39"} {tabName "s_topics"} {bufferSize "1"} {multiRowSelection "0"} {offset "0"} {size "8"} {sortColumn "-1"} {sortType ""} {currentRow "0"} {focusOnField "0"} {dialogType "DisplayArray"} {canDrag "0"} {canDrop "0"} {active "1"}} {{TreeInfo 138 {{currentParentRow "-1"}} {{TreeItem 195 {{row "0"}} {}} {TreeItem 196 {{row "-1"} {hasChildren "1"}} {}}}} {TableColumn 101 {{text "Topic"} {name "topics.name"} {colName "name"} {fieldId "0"} {tabIndex "1"} {numAlign "0"} {varType "VARCHAR(255)"} {tabIndexRt "1"} {active "1"} {dialogType "DisplayArray"}} {{Edit 102 {{width "37"}} {}} {ValueList 139 {} {{Value 140 {{value "File Types"}} {}}}}}}}} {Table 107 {{pageSize "1"} {doubleClick "show"} {height "15ln"} {width "85"} {tabName "s_demos"} {bufferSize "1"} {multiRowSelection "0"} {offset "0"} {sortColumn "-1"} {sortType ""} {size "13"} {currentRow "0"} {focusOnField "0"} {dialogType "DisplayArray"} {canDrag "0"} {canDrop "0"} {active "1"} {actionActive "1"} {actionIdRef "187"}} {{TableColumn 108 {{text "Demo"} {name "demos.name"} {colName "name"} {fieldId "3"} {tabIndex "2"} {tabIndexRt "2"} {numAlign "0"} {varType "VARCHAR(255)"} {active "1"} {dialogType "DisplayArray"}} {{Edit 109 {{width "17"}} {}} {ValueList 145 {} {{Value 146 {{value "f_cust.per"}} {}}}}}} {TableColumn 110 {{text "Program"} {name "demos.program"} {colName "program"} {fieldId "4"} {tabIndex "3"} {tabIndexRt "3"} {numAlign "0"} {varType "VARCHAR(255)"} {active "1"} {dialogType "DisplayArray"}} {{Edit 111 {{width "9"}} {}} {ValueList 147 {} {{Value 148 {{value "f_cust.per"}} {}}}}}} {TableColumn 112 {{text "Arguments"} {name "demos.args"} {colName "args"} {fieldId "5"} {tabIndex "4"} {tabIndexRt "4"} {numAlign "0"} {varType "VARCHAR(255)"} {active "1"} {dialogType "DisplayArray"}} {{Edit 113 {{width "10"}} {}} {ValueList 149 {} {{Value 150 {{value ""}} {}}}}}} {TableColumn 114 {{text "Type"} {name "demos.type"} {colName "type"} {fieldId "6"} {noEntry "1"} {tabIndex "5"} {numAlign "0"} {varType "VARCHAR(255)"} {active "1"} {dialogType "DisplayArray"}} {{Image 115 {{width "5"}} {}} {ValueList 151 {} {{Value 152 {{value "font:FontAwesome.ttf:f0f6"}} {}}}}}} {TableColumn 118 {{text "Description"} {name "demos.description"} {colName "description"} {fieldId "8"} {tabIndex "6"} {tabIndexRt "6"} {numAlign "0"} {varType "VARCHAR(255)"} {active "1"} {dialogType "DisplayArray"}} {{Edit 119 {{width "38"}} {}} {ValueList 155 {} {{Value 156 {{value "Form Specification Files (.per/.42f)"}} {}}}}}}}}}} {FormField 122 {{name "formonly.readme"} {colName "readme"} {fieldId "10"} {tabIndex "7"} {numAlign "0"} {varType "STRING"} {value "The Sample1 demo\n----------------\n\nThis little example is provided to show all program components.\n\nFiles used by this example are:\n\n  - Programs/Modules (.4gl/.42m)\n  - Form Specification Files (.per/.42f)\n  - Using the preprocessor (.inc)\n  - Database Schema Files (.sch/.val)\n  - Message Files (.msg/.iem)\n  - String Resources (.str/42s)\n  - Action Defaults (.4ad)\n  - Presentation Styles (.4st)\n  - Toolbar files (.4tb)\n  - Topmenu files (.4tm)\n  - Configuration File (FGLPROFILE)\n\n\nHow to run this example?\n-----------------------\n\nMake sure a front-end is started.\n\nOn UNIX, run:\n   start-unix.sh\nOn WINDOWS, run:\n   start-mswin.bat\n\nThere are some environment variables to be set before starting a program.\n\nSee the scripts for more details about compilation and deployment rules.\n\nIf you want to debug the program:\n\nfglrun -d dist/bin/p_cust.42m\n(fgldb) break main\nBreakpoint 1 at 0x00000000: file p_cust.4gl, line xx.\n(fgldb) run\n\n\nIf you want to profile the program:\n\nfglrun -p dist/bin/p_cust.42m > profile.out\n\n"} {tabIndexRt "7"} {dialogType "Input"} {active "1"}} {{TextEdit 123 {{width "124"} {height "11"} {stretch "both"} {fontPitch "fixed"} {notEditable "1"} {wantReturns "1"} {scroll "1"}} {}}}}}}}}}} {Dialog 159 {{active "1"}} {{Action 160 {{name "cancel"} {text "Cancel"} {acceleratorName "Escape"} {contextMenu "no"} {active "1"} {hidden "0"} {defaultView "yes"}} {}} {Action 161 {{name "close"} {text "Close"} {acceleratorName "Alt-F4"} {defaultView "no"} {contextMenu "no"} {active "1"} {hidden "0"}} {}} {Action 162 {{name "topics.+tab_out_prev"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 163 {{name "+tab_out_prev"} {acceleratorName "shift-control-tab"} {defaultView "no"} {active "1"} {hidden "0"}} {}} {Action 164 {{name "topics.+tab_out_next"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 165 {{name "+tab_out_next"} {acceleratorName "control-tab"} {defaultView "no"} {active "1"} {hidden "0"}} {}} {Action 166 {{name "topics.firstrow"} {defaultView "no"} {active "0"} {hidden "1"}} {}} {Action 167 {{name "firstrow"} {text "First"} {image "font:FontAwesome.ttf:f048"} {acceleratorName "Home"} {contextMenu "no"} {defaultView "no"} {active "0"} {hidden "0"}} {}} {Action 168 {{name "topics.prevrow"} {defaultView "no"} {active "0"} {hidden "1"}} {}} {Action 169 {{name "prevrow"} {text "Previous"} {image "font:FontAwesome.ttf:f04a"} {acceleratorName "Up"} {contextMenu "no"} {defaultView "no"} {active "0"} {hidden "0"}} {}} {Action 170 {{name "topics.nextrow"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 171 {{name "nextrow"} {text "Next"} {image "font:FontAwesome.ttf:f04e"} {acceleratorName "Down"} {contextMenu "no"} {defaultView "no"} {active "1"} {hidden "0"}} {}} {Action 172 {{name "topics.lastrow"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 173 {{name "lastrow"} {text "Last"} {image "font:FontAwesome.ttf:f051"} {acceleratorName "End"} {contextMenu "no"} {defaultView "no"} {active "1"} {hidden "0"}} {}} {Action 174 {{name "topics.editcopy"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 175 {{name "editcopy"} {text "Copy"} {image "font:FontAwesome.ttf:f0c5"} {comment "Copy"} {acceleratorName "Control-C"} {contextMenu "no"} {defaultView "no"} {active "1"} {hidden "0"}} {}} {Action 176 {{name "topics.expandall"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 177 {{name "expandall"} {defaultView "no"} {active "1"} {hidden "0"}} {}} {Action 178 {{name "topics.collapseall"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 179 {{name "collapseall"} {defaultView "no"} {active "1"} {hidden "0"}} {}} {Action 180 {{name "demos.+tab_out_prev"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 181 {{name "demos.+tab_out_next"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 182 {{name "demos.firstrow"} {defaultView "no"} {active "0"} {hidden "1"}} {}} {Action 183 {{name "demos.prevrow"} {defaultView "no"} {active "0"} {hidden "1"}} {}} {Action 184 {{name "demos.nextrow"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 185 {{name "demos.lastrow"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 186 {{name "demos.editcopy"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 187 {{name "demos.show"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 188 {{name "show"} {active "0"} {hidden "1"}} {}} {Action 189 {{name "demos.find"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 190 {{name "find"} {text "Find"} {image "font:FontAwesome.ttf:f002"} {comment "Search"} {acceleratorName "Control-F"} {defaultView "no"} {active "1"} {hidden "0"}} {}} {Action 191 {{name "demos.findnext"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 192 {{name "findnext"} {text "Find Next"} {image "font:FontAwesome.ttf:f00e"} {comment "Search"} {acceleratorName "Control-G"} {defaultView "no"} {active "1"} {hidden "0"}} {}} {Action 193 {{name "topics.find"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 194 {{name "topics.findnext"} {defaultView "no"} {active "1"} {hidden "1"}} {}}}}}}}}}
+15:COMMENT:0:[Internal] Request file: 'http://10.40.41.147:80/wtopprd/ua/ft/e4b368a23dd873c13938b25f49b96e68/fgl-files/182698/FontAwesome.ttf?t=1725984344;s=165548;charset=UTF-8'
+15:COMMENT:22:PingManager: Restart Ping, timeout=145000
+15:COMMENT:91:ControllerUI::flush(): try to send data.CanSend = 1 ; runtimeStatus = interactive ; m_EventsOrder.count=2 ([107:2][100:2]); m_FunctionCallReturn.isNull=1 ; m_KeyEvents.count = 0 ()
+15:FE:91:event _om 0{}{{ConfigureEvent 0{{idRef "107"}{ pageSize "15"}{ bufferSize "16"}}}{ConfigureEvent 0{{idRef "100"}{ pageSize "16"}{ bufferSize "17"}}}}
+15:HTTP:91:*** DATE[2025-01-09 16:20:32.413]
+15:HTTP:91:*** FUNCTION[postRequest]
+15:HTTP:91:*** SENDING REQUEST[6000023FB0A0]
+15:HTTP:91:*** BUFFER[event _om 0{}{{ConfigureEvent 0{{idRef "107"}{ pageSize "15"}{ bufferSize "16"}}}{ConfigureEvent 0{{idRef "100"}{ pageSize "16"}{ bufferSize "17"}}}}\n]
+15:HTTP:91:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=2]
+15:HTTP:104:*** DATE[2025-01-09 16:20:32.422]
+15:HTTP:104:*** FUNCTION[finishedHandler]
+15:HTTP:104:*** REQ FINISHED[6000023FB0A0]
+15:HTTP:104:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=2]
+15:HTTP:104:*** DATE[2025-01-09 16:20:32.422]
+15:HTTP:104:*** FUNCTION[handleDVMData]
+15:HTTP:104:*** REQ[6000023FB0A0]
+15:DVM:104:om 1 {{an 138 TreeItem 198 {{row "2"} {hasChildren "1"}} {}} {an 138 TreeItem 353 {{row "3"} {hasChildren "1"}} {}} {an 138 TreeItem 354 {{row "4"} {hasChildren "1"}} {}} {an 138 TreeItem 355 {{row "5"} {hasChildren "1"}} {}} {an 138 TreeItem 356 {{row "6"} {hasChildren "1"}} {}} {an 138 TreeItem 357 {{row "7"} {hasChildren "1"}} {}} {an 139 Value 305 {{value "New in 3.20"}} {}} {an 139 Value 306 {{value "New in 3.10"}} {}} {an 139 Value 307 {{value "Language Features"}} {}} {an 139 Value 308 {{value "User Interface"}} {}} {an 139 Value 309 {{value "Compatibility"}} {}} {an 139 Value 310 {{value "WebServices"}} {}} {an 139 Value 311 {{value "WebComponents"}} {}} {an 139 Value 312 {{value ""}} {}} {an 139 Value 313 {{value ""}} {}} {an 139 Value 314 {{value ""}} {}} {an 139 Value 315 {{value ""}} {}} {an 139 Value 316 {{value ""}} {}} {an 139 Value 317 {{value ""}} {}} {an 139 Value 318 {{value ""}} {}} {an 139 Value 319 {{value ""}} {}} {an 139 Value 320 {{value ""}} {}} {an 145 Value 200 {{value "f_states.per"}} {}} {an 145 Value 201 {{value "globtb.4tb"}} {}} {an 145 Value 202 {{value "globtm.4tm"}} {}} {an 145 Value 203 {{value "myactdefs.4ad"}} {}} {an 145 Value 204 {{value "mydb.sch"}} {}} {an 145 Value 205 {{value "mydb.val"}} {}} {an 145 Value 206 {{value "myhelp.msg"}} {}} {an 145 Value 207 {{value "mystyles.4st"}} {}} {an 145 Value 208 {{value "p_cust.4gl"}} {}} {an 145 Value 209 {{value "p_cust.prf"}} {}} {an 145 Value 210 {{value "p_cust.str"}} {}} {an 145 Value 211 {{value "toolbar1.inc"}} {}} {an 145 Value 212 {{value ""}} {}} {an 145 Value 213 {{value ""}} {}} {an 145 Value 214 {{value ""}} {}} {an 147 Value 215 {{value "f_states.per"}} {}} {an 147 Value 216 {{value "globtb.4tb"}} {}} {an 147 Value 217 {{value "globtm.4tm"}} {}} {an 147 Value 218 {{value "myactdefs.4ad"}} {}} {an 147 Value 219 {{value "mydb.sch"}} {}} {an 147 Value 220 {{value "mydb.val"}} {}} {an 147 Value 221 {{value "myhelp.msg"}} {}} {an 147 Value 222 {{value "mystyles.4st"}} {}} {an 147 Value 223 {{value "p_cust.4gl"}} {}} {an 147 Value 224 {{value "p_cust.prf"}} {}} {an 147 Value 225 {{value "p_cust.str"}} {}} {an 147 Value 226 {{value "toolbar1.inc"}} {}} {an 147 Value 227 {{value ""}} {}} {an 147 Value 228 {{value ""}} {}} {an 147 Value 229 {{value ""}} {}} {an 149 Value 230 {{value ""}} {}} {an 149 Value 231 {{value ""}} {}} {an 149 Value 232 {{value ""}} {}} {an 149 Value 233 {{value ""}} {}} {an 149 Value 234 {{value ""}} {}} {an 149 Value 235 {{value ""}} {}} {an 149 Value 236 {{value ""}} {}} {an 149 Value 237 {{value ""}} {}} {an 149 Value 238 {{value ""}} {}} {an 149 Value 239 {{value ""}} {}} {an 149 Value 240 {{value ""}} {}} {an 149 Value 241 {{value ""}} {}} {an 149 Value 242 {{value ""}} {}} {an 149 Value 243 {{value ""}} {}} {an 149 Value 244 {{value ""}} {}} {an 151 Value 245 {{value "font:FontAwesome.ttf:f0f6"}} {}} {an 151 Value 246 {{value "font:FontAwesome.ttf:f0f6"}} {}} {an 151 Value 247 {{value "font:FontAwesome.ttf:f0f6"}} {}} {an 151 Value 248 {{value "font:FontAwesome.ttf:f0f6"}} {}} {an 151 Value 249 {{value "font:FontAwesome.ttf:f0f6"}} {}} {an 151 Value 250 {{value "font:FontAwesome.ttf:f0f6"}} {}} {an 151 Value 251 {{value "font:FontAwesome.ttf:f0f6"}} {}} {an 151 Value 252 {{value "font:FontAwesome.ttf:f0f6"}} {}} {an 151 Value 253 {{value "font:FontAwesome.ttf:f0f6"}} {}} {an 151 Value 254 {{value "font:FontAwesome.ttf:f0f6"}} {}} {an 151 Value 255 {{value "font:FontAwesome.ttf:f0f6"}} {}} {an 151 Value 256 {{value "font:FontAwesome.ttf:f0f6"}} {}} {an 151 Value 257 {{value ""}} {}} {an 151 Value 258 {{value ""}} {}} {an 151 Value 259 {{value ""}} {}} {an 155 Value 275 {{value "Form Specification Files (.per/.42f)"}} {}} {an 155 Value 276 {{value "Toolbar files (.4tb)"}} {}} {an 155 Value 277 {{value "Topmenu files (.4tm)"}} {}} {an 155 Value 278 {{value "Action Defaults (.4ad)"}} {}} {an 155 Value 279 {{value "Database Schema Files (.sch/.val)"}} {}} {an 155 Value 280 {{value "Database Schema Files (.sch/.val)"}} {}} {an 155 Value 281 {{value "Message Files (.msg/.iem)"}} {}} {an 155 Value 282 {{value "Presentation Styles (.4st)"}} {}} {an 155 Value 283 {{value "Programs/Modules (.4gl/.42m)"}} {}} {an 155 Value 284 {{value "Configuration File (FGLPROFILE)"}} {}} {an 155 Value 285 {{value "String Resources (.str/42s)"}} {}} {an 155 Value 286 {{value "Using the preprocessor (.inc)"}} {}} {an 155 Value 287 {{value ""}} {}} {an 155 Value 288 {{value ""}} {}} {an 155 Value 289 {{value ""}} {}} {un 100 {{pageSize "16"} {bufferSize "17"}}} {un 196 {{row "1"}}} {un 107 {{pageSize "15"} {bufferSize "16"}}}}
+15:COMMENT:0:PingManager: Restart Ping, timeout=145000
+15:COMMENT:591:ControllerUI::flush(): try to send data.CanSend = 1 ; runtimeStatus = interactive ; m_EventsOrder.count=1 ([100:2]); m_FunctionCallReturn.isNull=1 ; m_KeyEvents.count = 0 ()
+15:FE:591:event _om 1{}{{ConfigureEvent 0{{idRef "100"}{ currentRow "2"}{ currentColumn "0"}}}}
+15:HTTP:594:*** DATE[2025-01-09 16:20:33.018]
+15:HTTP:594:*** FUNCTION[postRequest]
+15:HTTP:594:*** SENDING REQUEST[600002346B80]
+15:HTTP:594:*** BUFFER[event _om 1{}{{ConfigureEvent 0{{idRef "100"}{ currentRow "2"}{ currentColumn "0"}}}}\n]
+15:HTTP:594:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=3]
+15:HTTP:597:*** DATE[2025-01-09 16:20:33.024]
+15:HTTP:597:*** FUNCTION[finishedHandler]
+15:HTTP:597:*** REQ FINISHED[600002346B80]
+15:HTTP:597:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=3]
+15:HTTP:598:*** DATE[2025-01-09 16:20:33.024]
+15:HTTP:598:*** FUNCTION[handleDVMData]
+15:HTTP:598:*** REQ[600002346B80]
+15:DVM:598:om 2 {{un 100 {{currentRow "2"}}} {un 107 {{size "0"} {currentRow "-1"}}} {un 146 {{value ""}}} {un 200 {{value ""}}} {un 201 {{value ""}}} {un 202 {{value ""}}} {un 203 {{value ""}}} {un 204 {{value ""}}} {un 205 {{value ""}}} {un 206 {{value ""}}} {un 207 {{value ""}}} {un 208 {{value ""}}} {un 209 {{value ""}}} {un 210 {{value ""}}} {un 211 {{value ""}}} {un 148 {{value ""}}} {un 215 {{value ""}}} {un 216 {{value ""}}} {un 217 {{value ""}}} {un 218 {{value ""}}} {un 219 {{value ""}}} {un 220 {{value ""}}} {un 221 {{value ""}}} {un 222 {{value ""}}} {un 223 {{value ""}}} {un 224 {{value ""}}} {un 225 {{value ""}}} {un 226 {{value ""}}} {un 152 {{value ""}}} {un 245 {{value ""}}} {un 246 {{value ""}}} {un 247 {{value ""}}} {un 248 {{value ""}}} {un 249 {{value ""}}} {un 250 {{value ""}}} {un 251 {{value ""}}} {un 252 {{value ""}}} {un 253 {{value ""}}} {un 254 {{value ""}}} {un 255 {{value ""}}} {un 256 {{value ""}}} {un 156 {{value ""}}} {un 275 {{value ""}}} {un 276 {{value ""}}} {un 277 {{value ""}}} {un 278 {{value ""}}} {un 279 {{value ""}}} {un 280 {{value ""}}} {un 281 {{value ""}}} {un 282 {{value ""}}} {un 283 {{value ""}}} {un 284 {{value ""}}} {un 285 {{value ""}}} {un 286 {{value ""}}} {un 122 {{value ""}}} {un 166 {{active "1"}}} {un 167 {{active "1"}}} {un 168 {{active "1"}}} {un 169 {{active "1"}}} {un 184 {{active "0"}}} {un 185 {{active "0"}}}}
+15:COMMENT:2:PingManager: Restart Ping, timeout=145000
+15:COMMENT:751:ControllerUI::flush(): try to send data.CanSend = 1 ; runtimeStatus = interactive ; m_EventsOrder.count=1 ([100:2]); m_FunctionCallReturn.isNull=1 ; m_KeyEvents.count = 0 ()
+15:FE:751:event _om 2{}{{ConfigureEvent 0{{idRef "100"}{ currentRow "3"}{ currentColumn "0"}}}}
+15:HTTP:754:*** DATE[2025-01-09 16:20:33.776]
+15:HTTP:755:*** FUNCTION[postRequest]
+15:HTTP:755:*** SENDING REQUEST[60000237F9D0]
+15:HTTP:755:*** BUFFER[event _om 2{}{{ConfigureEvent 0{{idRef "100"}{ currentRow "3"}{ currentColumn "0"}}}}\n]
+15:HTTP:755:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=4]
+15:HTTP:760:*** DATE[2025-01-09 16:20:33.784]
+15:HTTP:760:*** FUNCTION[finishedHandler]
+15:HTTP:760:*** REQ FINISHED[60000237F9D0]
+15:HTTP:760:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=4]
+15:HTTP:760:*** DATE[2025-01-09 16:20:33.785]
+15:HTTP:760:*** FUNCTION[handleDVMData]
+15:HTTP:760:*** REQ[60000237F9D0]
+15:DVM:760:om 3 {{un 100 {{currentRow "3"}}}}
+15:COMMENT:0:PingManager: Restart Ping, timeout=145000
+15:COMMENT:794:ControllerUI::flush(): try to send data.CanSend = 1 ; runtimeStatus = interactive ; m_EventsOrder.count=1 ([353:2]); m_FunctionCallReturn.isNull=1 ; m_KeyEvents.count = 0 ()
+15:FE:794:event _om 3{}{{ConfigureEvent 0{{idRef "353"}{ expanded "1"}}}}
+15:HTTP:795:*** DATE[2025-01-09 16:20:34.580]
+15:HTTP:795:*** FUNCTION[postRequest]
+15:HTTP:795:*** SENDING REQUEST[60000237C4A0]
+15:HTTP:795:*** BUFFER[event _om 3{}{{ConfigureEvent 0{{idRef "353"}{ expanded "1"}}}}\n]
+15:HTTP:795:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=5]
+15:HTTP:800:*** DATE[2025-01-09 16:20:34.586]
+15:HTTP:801:*** FUNCTION[finishedHandler]
+15:HTTP:801:*** REQ FINISHED[60000237C4A0]
+15:HTTP:801:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=5]
+15:HTTP:801:*** DATE[2025-01-09 16:20:34.586]
+15:HTTP:801:*** FUNCTION[handleDVMData]
+15:HTTP:801:*** REQ[60000237C4A0]
+15:DVM:801:om 4 {{an 353 TreeItem 199 {{row "4"}} {}} {an 353 TreeItem 359 {{row "5"}} {}} {an 353 TreeItem 360 {{row "6"}} {}} {an 353 TreeItem 361 {{row "7"}} {}} {an 353 TreeItem 362 {{row "8"}} {}} {an 353 TreeItem 363 {{row "9"}} {}} {an 353 TreeItem 364 {{row "10"}} {}} {an 353 TreeItem 365 {{row "11"}} {}} {an 353 TreeItem 366 {{row "12"}} {}} {un 100 {{size "17"}}} {un 353 {{expanded "1"}}} {un 354 {{row "13"}}} {un 355 {{row "14"}}} {un 356 {{row "15"}}} {un 357 {{row "16"}}} {un 308 {{value "dynamic SQL + dynamic Dialogs"}}} {un 309 {{value "Strings"}}} {un 310 {{value "Dynamic Arrays"}}} {un 311 {{value "JSON serialization"}}} {un 312 {{value "Dom API"}}} {un 313 {{value "Sax API"}}} {un 314 {{value "Localized Strings"}}} {un 315 {{value "Java Interface"}}} {un 316 {{value "Source documentation generator"}}} {un 317 {{value "User Interface"}}} {un 318 {{value "Compatibility"}}} {un 319 {{value "WebServices"}}} {un 320 {{value "WebComponents"}}}}
+15:COMMENT:2:PingManager: Restart Ping, timeout=145000
+15:COMMENT:493:ControllerUI::flush(): try to send data.CanSend = 1 ; runtimeStatus = interactive ; m_EventsOrder.count=1 ([100:2]); m_FunctionCallReturn.isNull=1 ; m_KeyEvents.count = 0 ()
+15:FE:493:event _om 4{}{{ConfigureEvent 0{{idRef "100"}{ currentRow "6"}{ currentColumn "0"}}}}
+15:HTTP:496:*** DATE[2025-01-09 16:20:35.080]
+15:HTTP:496:*** FUNCTION[postRequest]
+15:HTTP:496:*** SENDING REQUEST[6000023E22A0]
+15:HTTP:496:*** BUFFER[event _om 4{}{{ConfigureEvent 0{{idRef "100"}{ currentRow "6"}{ currentColumn "0"}}}}\n]
+15:HTTP:496:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=6]
+15:HTTP:511:*** DATE[2025-01-09 16:20:35.098]
+15:HTTP:512:*** FUNCTION[finishedHandler]
+15:HTTP:512:*** REQ FINISHED[6000023E22A0]
+15:HTTP:512:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=6]
+15:HTTP:512:*** DATE[2025-01-09 16:20:35.098]
+15:HTTP:512:*** FUNCTION[handleDVMData]
+15:HTTP:512:*** REQ[6000023E22A0]
+15:DVM:512:om 5 {{un 100 {{currentRow "6"}}} {un 138 {{currentParentRow "3"}}} {un 107 {{size "5"} {currentRow "0"}}} {un 146 {{value "DynArray1"}}} {un 200 {{value "DynArray2"}}} {un 201 {{value "DynArray3"}}} {un 202 {{value "DynArray4"}}} {un 203 {{value "PagedDA1"}}} {un 148 {{value "DynArray1.4gl"}}} {un 215 {{value "DynArray2.4gl"}}} {un 216 {{value "DynArray3.4gl"}}} {un 217 {{value "DynArray4.4gl"}}} {un 218 {{value "PagedDA1"}}} {un 152 {{value "font:FontAwesome.ttf:f0f6"}}} {un 245 {{value "font:FontAwesome.ttf:f0f6"}}} {un 246 {{value "font:FontAwesome.ttf:f0f6"}}} {un 247 {{value "font:FontAwesome.ttf:f0f6"}}} {un 248 {{value "font:FontAwesome.ttf:f085"}}} {un 156 {{value "Simple dynamic array example"}}} {un 275 {{value "Fetching database rows"}}} {un 276 {{value "Performance test"}}} {un 277 {{value "Dynamic array in INPUT ARRAY"}}} {un 278 {{value "Paged DISPLAY ARRAY - ON FILL BUFFER - with unknown array lenght"}}} {un 122 {{value "Dynamic Arrays demos\n--------------------\n\nThe concept of Dynamic Arrays: There is no need to know the size of an ARRAY or to reserve a large size. The size of DYNAMIC ARRAYS is automatically adapted to the content.\n\nIn this directory there are a few 4gl files showing how to program with Dynamic Arrays.\nThe PagedDA demo shows how to managed Paged Arrays; instead of fetching ALL the data at once, ON FILL BUFFER trigger will be executed when data are needed.\nfgl_dialog_getBufferStart() and fgl_dialog_getBufferLength() indicate where you are in the array.\nWarning: the demo needs a database connection.\n"}}} {un 184 {{active "1"}}} {un 185 {{active "1"}}}}
+15:COMMENT:4:PingManager: Restart Ping, timeout=145000
+15:COMMENT:899:ControllerUI::flush(): try to send data.CanSend = 1 ; runtimeStatus = interactive ; m_EventsOrder.count=1 ([107:2]); m_FunctionCallReturn.isNull=1 ; m_KeyEvents.count = 0 ()
+15:FE:900:event _om 5{}{{ConfigureEvent 0{{idRef "107"}{ currentRow "2"}{ currentColumn "0"}}}}
+15:HTTP:900:*** DATE[2025-01-09 16:20:35.999]
+15:HTTP:900:*** FUNCTION[postRequest]
+15:HTTP:900:*** SENDING REQUEST[6000023E34D0]
+15:HTTP:900:*** BUFFER[event _om 5{}{{ConfigureEvent 0{{idRef "107"}{ currentRow "2"}{ currentColumn "0"}}}}\n]
+15:HTTP:900:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=7]
+15:HTTP:905:*** DATE[2025-01-09 16:20:36.004]
+15:HTTP:905:*** FUNCTION[finishedHandler]
+15:HTTP:905:*** REQ FINISHED[6000023E34D0]
+15:HTTP:905:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=7]
+15:HTTP:906:*** DATE[2025-01-09 16:20:36.004]
+15:HTTP:906:*** FUNCTION[handleDVMData]
+15:HTTP:906:*** REQ[6000023E34D0]
+15:DVM:906:om 6 {{un 107 {{currentRow "2"}}} {un 177 {{active "0"} {hidden "1"}}} {un 179 {{active "0"} {hidden "1"}}} {un 182 {{active "1"}}} {un 183 {{active "1"}}} {un 188 {{active "1"} {hidden "0"} {defaultView "no"}}} {un 0 {{focus "107"}}}}
+15:COMMENT:3:PingManager: Restart Ping, timeout=145000
+15:COMMENT:160:ControllerUI::flush(): try to send data.CanSend = 1 ; runtimeStatus = interactive ; m_EventsOrder.count=1 ([107:1]); m_FunctionCallReturn.isNull=1 ; m_KeyEvents.count = 0 ()
+15:FE:160:event _om 6{}{{ActionEvent 0{{idRef "107"}}}}
+15:HTTP:161:*** DATE[2025-01-09 16:20:36.166]
+15:HTTP:161:*** FUNCTION[postRequest]
+15:HTTP:161:*** SENDING REQUEST[6000023476D0]
+15:HTTP:161:*** BUFFER[event _om 6{}{{ActionEvent 0{{idRef "107"}}}}\n]
+15:HTTP:161:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=8]
+15:HTTP:205:*** DATE[2025-01-09 16:20:36.209]
+15:HTTP:205:*** FUNCTION[finishedHandler]
+15:HTTP:205:*** REQ FINISHED[6000023476D0]
+15:HTTP:205:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=8]
+15:HTTP:205:*** DATE[2025-01-09 16:20:36.210]
+15:HTTP:205:*** FUNCTION[handleDVMData]
+15:HTTP:205:*** REQ[6000023476D0]
+15:DVM:205:om 7 {{an 0 Window 358 {{name "w"} {commentLine "-1"} {commentLineHidden "0"} {formLine "2"} {messageLine "1"} {menuLine "0"} {promptLine "0"} {errorLine "-1"} {parent "94"} {text "File: [DynArrays/DynArray3.4gl]"} {style "dialog"} {posX "0"} {posY "0"} {width "77"} {height "22"}} {{Form 368 {{name "demodisp"} {width "77"} {height "22"} {formLine "2"}} {{Grid 369 {{width "77"} {height "22"}} {{FormField 370 {{name "formonly.txt"} {colName "txt"} {fieldId "0"} {tabIndex "1"} {numAlign "0"} {varType "STRING"} {value "# Property of Four Js*\n# (c) Copyright Four Js 1995, 2024. All Rights Reserved.\n# * Trademark of Four Js Development Tools Europe Ltd\n#   in the United States and elsewhere\n# \n# Four Js and its suppliers do not warrant or guarantee that these\n# samples are accurate and suitable for your purposes. Their inclusion is\n# purely for information purposes only.\n\nMAIN\n  DEFINE a DYNAMIC ARRAY WITH DIMENSION 3 OF INTEGER\n  DEFINE t DATETIME HOUR TO FRACTION(5)\n  DEFINE i,j,k INTEGER\n\n  LET t = CURRENT HOUR TO FRACTION(5)\n  FOR i=1 TO 100\n    FOR j=1 TO 100\n      FOR k=1 TO 100\n          LET a[i,j,k] = 1234\n      END FOR\n    END FOR\n  END FOR\n  DISPLAY CURRENT HOUR TO FRACTION(5)-t\n\n  LET t = CURRENT HOUR TO FRACTION(5)\n  LET a[50,50,50] = 4345\n  DISPLAY CURRENT HOUR TO FRACTION(5)-t\n\nEND MAIN\n"} {tabIndexRt "1"} {cursor "0"} {cursor2 "-1"} {dialogType "Input"} {active "1"}} {{TextEdit 371 {{width "75"} {height "22"} {stretch "both"} {fontPitch "fixed"} {wantReturns "1"} {scroll "1"} {posY "0"} {posX "1"} {gridWidth "75"} {gridHeight "22"} {maxLength "0"}} {}}}}}}}} {Dialog 374 {{active "1"}} {{Action 375 {{name "accept"} {text "OK"} {acceleratorName "Return"} {acceleratorName2 "Enter"} {contextMenu "no"} {active "1"} {hidden "0"} {defaultView "yes"}} {}} {Action 376 {{name "cancel"} {text "Cancel"} {acceleratorName "Escape"} {contextMenu "no"} {active "1"} {hidden "0"} {defaultView "yes"}} {}} {Action 377 {{name "close"} {text "Close"} {acceleratorName "Alt-F4"} {defaultView "no"} {contextMenu "no"} {hidden "1"} {active "1"}} {}}}}}} {un 100 {{active "0"}}} {un 101 {{active "0"}}} {un 107 {{active "0"} {actionActive "0"} {actionIdRef "0"}}} {un 108 {{active "0"}}} {un 110 {{active "0"}}} {un 112 {{active "0"}}} {un 114 {{active "0"}}} {un 118 {{active "0"}}} {un 122 {{active "0"}}} {un 159 {{active "0"}}} {un 0 {{currentWindow "358"} {focus "370"}}}}
+15:COMMENT:96:PingManager: Restart Ping, timeout=145000
+15:COMMENT:140:focusInEvent():WTextEdit.cpp:300 event:reason:ActiveWindowFocusReason, selectedText: w:w_FormField_txt_VBOX owner:FormField 370 current:FormField 370
+15:COMMENT:2450:ControllerUI::flush(): try to send data.CanSend = 1 ; runtimeStatus = interactive ; m_EventsOrder.count=2 ([370:2][375:1]); m_FunctionCallReturn.isNull=1 ; m_KeyEvents.count = 0 ()
+15:FE:2451:event _om 7{}{{ConfigureEvent 0{{idRef "370"}{ cursor2 "0"}}}{ActionEvent 0{{idRef "375"}}}}
+15:HTTP:2452:*** DATE[2025-01-09 16:20:38.663]
+15:HTTP:2452:*** FUNCTION[postRequest]
+15:HTTP:2452:*** SENDING REQUEST[6000023E3410]
+15:HTTP:2452:*** BUFFER[event _om 7{}{{ConfigureEvent 0{{idRef "370"}{ cursor2 "0"}}}{ActionEvent 0{{idRef "375"}}}}\n]
+15:HTTP:2452:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=9]
+15:HTTP:2457:*** DATE[2025-01-09 16:20:38.668]
+15:HTTP:2458:*** FUNCTION[finishedHandler]
+15:HTTP:2458:*** REQ FINISHED[6000023E3410]
+15:HTTP:2458:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=9]
+15:HTTP:2458:*** DATE[2025-01-09 16:20:38.668]
+15:HTTP:2458:*** FUNCTION[handleDVMData]
+15:HTTP:2458:*** REQ[6000023E3410]
+15:DVM:2458:om 8 {{rn 374} {rn 358} {un 100 {{active "1"}}} {un 101 {{active "1"}}} {un 107 {{active "1"} {actionActive "1"} {actionIdRef "187"}}} {un 108 {{active "1"}}} {un 110 {{active "1"}}} {un 112 {{active "1"}}} {un 114 {{active "1"}}} {un 118 {{active "1"}}} {un 122 {{active "1"}}} {un 159 {{active "1"}}} {un 0 {{currentWindow "94"} {focus "107"}}}}
+15:COMMENT:2:focusOutEvent():WTextEdit.cpp:308 event:reason:ActiveWindowFocusReason, selectedText: w:w_FormField_txt_VBOX owner:FormField 370 current:FormField 370
+15:COMMENT:9:focusInEvent():WTextEdit.cpp:300 event:reason:ActiveWindowFocusReason, selectedText: w:screen_FormField_readme_VBOX owner:FormField 122 current:FormField 370
+15:COMMENT:36:focusOutEvent():WTextEdit.cpp:308 event:reason:ShortcutFocusReason, selectedText: w:screen_FormField_readme_VBOX owner:FormField 122 current:Table 107
+15:COMMENT:41:PingManager: Restart Ping, timeout=145000
+15:COMMENT:1396:ControllerUI::flush(): try to send data.CanSend = 1 ; runtimeStatus = interactive ; m_EventsOrder.count=1 ([107:2]); m_FunctionCallReturn.isNull=1 ; m_KeyEvents.count = 0 ()
+15:FE:1396:event _om 8{}{{ConfigureEvent 0{{idRef "107"}{ currentRow "4"}{ currentColumn "2"}}}}
+15:HTTP:1396:*** DATE[2025-01-09 16:20:40.065]
+15:HTTP:1396:*** FUNCTION[postRequest]
+15:HTTP:1396:*** SENDING REQUEST[6000023E1C30]
+15:HTTP:1396:*** BUFFER[event _om 8{}{{ConfigureEvent 0{{idRef "107"}{ currentRow "4"}{ currentColumn "2"}}}}\n]
+15:HTTP:1396:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=10]
+15:HTTP:1401:*** DATE[2025-01-09 16:20:40.070]
+15:HTTP:1401:*** FUNCTION[finishedHandler]
+15:HTTP:1401:*** REQ FINISHED[6000023E1C30]
+15:HTTP:1401:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=10]
+15:HTTP:1401:*** DATE[2025-01-09 16:20:40.070]
+15:HTTP:1401:*** FUNCTION[handleDVMData]
+15:HTTP:1401:*** REQ[6000023E1C30]
+15:DVM:1401:om 9 {{un 107 {{currentRow "4"}}} {un 171 {{active "0"}}} {un 173 {{active "0"}}} {un 184 {{active "0"}}} {un 185 {{active "0"}}}}
+15:COMMENT:0:PingManager: Restart Ping, timeout=145000
+15:COMMENT:145:ControllerUI::flush(): try to send data.CanSend = 1 ; runtimeStatus = interactive ; m_EventsOrder.count=1 ([107:1]); m_FunctionCallReturn.isNull=1 ; m_KeyEvents.count = 0 ()
+15:FE:145:event _om 9{}{{ActionEvent 0{{idRef "107"}}}}
+15:HTTP:146:*** DATE[2025-01-09 16:20:40.217]
+15:HTTP:146:*** FUNCTION[postRequest]
+15:HTTP:146:*** SENDING REQUEST[6000023E1A60]
+15:HTTP:146:*** BUFFER[event _om 9{}{{ActionEvent 0{{idRef "107"}}}}\n]
+15:HTTP:146:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=11]
+15:HTTP:152:*** DATE[2025-01-09 16:20:40.222]
+15:HTTP:152:*** FUNCTION[finishedHandler]
+15:HTTP:152:*** REQ FINISHED[6000023E1A60]
+15:HTTP:152:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=11]
+15:HTTP:152:*** DATE[2025-01-09 16:20:40.222]
+15:HTTP:152:*** FUNCTION[handleDVMData]
+15:HTTP:152:*** REQ[6000023E1A60]
+15:DVM:152:om 10 {{un 0 {{runtimeStatus "childstart"}}}}
+15:COMMENT:5:PingManager: Restart Ping, timeout=145000
+15:HTTP:5:*** DATE[2025-01-09 16:20:40.228]
+15:HTTP:5:*** FUNCTION[sendNewTask]
+15:HTTP:5:*** SENDING NEW TASK
+15:HTTP:6:*** DATE[2025-01-09 16:20:40.229]
+15:HTTP:6:*** FUNCTION[getNewTask]
+15:HTTP:6:*** SEND NEW TASK[600002391AF0]
+15:HTTP:6:*** URL[http://@10.40.41.147/wtopprd/ua/newtask/e4b368a23dd873c13938b25f49b96e68]
+15:HTTP:7:*** DATE[2025-01-09 16:20:40.228]
+15:HTTP:7:*** FUNCTION[postRequest]
+15:HTTP:7:*** SENDING REQUEST[60000237CF90]
+15:HTTP:7:*** BUFFER[]
+15:HTTP:7:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=12]
+15:HTTP:12:*** DATE[2025-01-09 16:20:40.235]
+15:HTTP:12:*** FUNCTION[finishedHandler]
+15:HTTP:12:*** REQ FINISHED[60000237CF90]
+15:HTTP:12:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=12]
+15:HTTP:12:*** DATE[2025-01-09 16:20:40.235]
+15:HTTP:12:*** FUNCTION[handleDVMData]
+15:HTTP:12:*** REQ[60000237CF90]
+15:DVM:12:om 11 {{un 0 {{runtimeStatus "processing"}}}}
+15:DVM:4:om 12 {{un 0 {{runtimeStatus "interactive"}}}}
+15:COMMENT:1:PingManager: Restart Ping, timeout=145000
+15:COMMENT:1:PingManager: Restart Ping, timeout=145000
+16:HTTP:8:*** DATE[2025-01-09 16:20:40.247]
+16:HTTP:8:*** FUNCTION[postRequest]
+16:HTTP:8:*** SENDING REQUEST[60000237CED0]
+16:HTTP:8:*** BUFFER[]
+16:HTTP:8:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=1&pageId=1]
+16:HTTP:13:*** DATE[2025-01-09 16:20:40.253]
+16:HTTP:13:*** FUNCTION[finishedHandler]
+16:HTTP:13:*** REQ FINISHED[60000237CED0]
+16:HTTP:13:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=1&pageId=1]
+16:HTTP:14:*** DATE[2025-01-09 16:20:40.253]
+16:HTTP:14:*** FUNCTION[handleDVMData]
+16:HTTP:14:*** REQ[60000237CED0]
+16:COMMENT:14:NEW
+16:DVM:14:meta Connection {{encoding "UTF-8"} {protocolVersion "102"} {interfaceVersion "110"} {runtimeVersion "3.21.03-2525"} {compression "none"} {encapsulation "1"} {filetransfer "1"} {procIdParent "t100demo3:182698"} {frontEndID "{28ecfef8-1f3e-49b4-9ec4-2c1b00d5322e}"} {procId "t100demo3:184101"}}
+16:FE:0:meta Client{{name "GDC"}{version "5.00.03-202409031136"}{host "samueldeMacBook-Pro.local"}{connections "2"}{port "6400"}{frontEndID2 "{32e80e96-1a0b-4a10-a507-4e80b4361159}"}{encapsulation "0"}{clientInfo "host-name =samueldeMacBook-Pro.local^hw-addr   =a4:cf:99:97:a6:97^host-addr =10.40.241.163^user-name =samuel^app-id    ={da1677b4-a7cf-7bcc-c3c9-3a28cfd7e1ef}^cx-mode   =gas"}{gitVersion "5.00.03-202409031136-0-g98baa404b"}{filetransfer "0"}}
+16:COMMENT:0:PingManager: Restart Ping, timeout=145000
+16:HTTP:0:*** DATE[2025-01-09 16:20:40.254]
+16:HTTP:0:*** FUNCTION[postRequest]
+16:HTTP:0:*** SENDING REQUEST[6000023F8A90]
+16:HTTP:0:*** BUFFER[meta Client{{name "GDC"}{version "5.00.03-202409031136"}{host "samueldeMacBook-Pro.local"}{connections "2"}{port "6400"}{frontEndID2 "{32e80e96-1a0b-4a10-a507-4e80b4361159}"}{encapsulation "0"}{clientInfo "host-name =samueldeMacBook-Pro.local^hw-addr   =a4:cf:99:97:a6:97^host-addr =10.40.241.163^user-name =samuel^app-id    ={da1677b4-a7cf-7bcc-c3c9-3a28cfd7e1ef}^cx-mode   =gas"}{gitVersion "5.00.03-202409031136-0-g98baa404b"}{filetransfer "0"}}\n]
+16:HTTP:0:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=1&pageId=2]
+16:HTTP:18:*** DATE[2025-01-09 16:20:40.272]
+16:HTTP:18:*** FUNCTION[finishedHandler]
+16:HTTP:18:*** REQ FINISHED[6000023F8A90]
+16:HTTP:18:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=1&pageId=2]
+16:HTTP:18:*** DATE[2025-01-09 16:20:40.273]
+16:HTTP:18:*** FUNCTION[handleDVMData]
+16:HTTP:18:*** REQ[6000023F8A90]
+16:DVM:18:om 0 {{an 0 UserInterface 0 {{name "PagedDA1"} {text "PagedDA1"} {charLengthSemantics "0"} {procIdParent "t100demo3:182698"} {procId "t100demo3:184101"} {dbDate "MDY4/"} {dbCentury "R"} {decimalSeparator "."} {thousandsSeparator ","} {errorLine "-1"} {commentLine "-1"} {formLine "2"} {messageLine "1"} {menuLine "0"} {promptLine "0"} {inputWrap "0"} {fieldOrder "1"} {currentWindow "94"} {focus "97"} {runtimeStatus "interactive"}} {{StyleList 1 {} {{Style 2 {{name "Window"}} {{StyleAttribute 3 {{name "windowType"} {value "normal"}} {}}}} {Style 4 {{name "Window.main"}} {{StyleAttribute 5 {{name "windowType"} {value "normal"}} {}} {StyleAttribute 6 {{name "startMenuPosition"} {value "menu"}} {}}}} {Style 7 {{name "Window.main2"}} {{StyleAttribute 8 {{name "windowType"} {value "normal"}} {}} {StyleAttribute 9 {{name "actionPanelPosition"} {value "none"}} {}} {StyleAttribute 10 {{name "ringMenuPosition"} {value "none"}} {}}}} {Style 11 {{name "Window.dialog"}} {{StyleAttribute 12 {{name "windowType"} {value "modal"}} {}} {StyleAttribute 13 {{name "sizable"} {value "no"}} {}} {StyleAttribute 14 {{name "position"} {value "center"}} {}} {StyleAttribute 15 {{name "actionPanelPosition"} {value "bottom"}} {}} {StyleAttribute 16 {{name "ringMenuPosition"} {value "bottom"}} {}} {StyleAttribute 17 {{name "toolBarPosition"} {value "none"}} {}} {StyleAttribute 18 {{name "statusBarType"} {value "none"}} {}} {StyleAttribute 19 {{name "errorMessagePosition"} {value "popup"}} {}}}} {Style 20 {{name "Window.dialog2"}} {{StyleAttribute 21 {{name "windowType"} {value "modal"}} {}} {StyleAttribute 22 {{name "sizable"} {value "no"}} {}} {StyleAttribute 23 {{name "position"} {value "center"}} {}} {StyleAttribute 24 {{name "actionPanelPosition"} {value "none"}} {}} {StyleAttribute 25 {{name "ringMenuPosition"} {value "none"}} {}} {StyleAttribute 26 {{name "toolBarPosition"} {value "none"}} {}} {StyleAttribute 27 {{name "statusBarType"} {value "none"}} {}} {StyleAttribute 28 {{name "errorMessagePosition"} {value "popup"}} {}}}} {Style 29 {{name "Window.dialog3"}} {{StyleAttribute 30 {{name "windowType"} {value "modal"}} {}} {StyleAttribute 31 {{name "sizable"} {value "yes"}} {}} {StyleAttribute 32 {{name "toolBarPosition"} {value "none"}} {}} {StyleAttribute 33 {{name "actionPanelPosition"} {value "none"}} {}} {StyleAttribute 34 {{name "ringMenuPosition"} {value "none"}} {}} {StyleAttribute 35 {{name "statusBarType"} {value "none"}} {}} {StyleAttribute 36 {{name "errorMessagePosition"} {value "popup"}} {}}}} {Style 37 {{name "Window.dialog4"}} {{StyleAttribute 38 {{name "windowType"} {value "modal"}} {}} {StyleAttribute 39 {{name "sizable"} {value "yes"}} {}} {StyleAttribute 40 {{name "actionPanelPosition"} {value "bottom"}} {}} {StyleAttribute 41 {{name "ringMenuPosition"} {value "none"}} {}} {StyleAttribute 42 {{name "statusBarType"} {value "none"}} {}} {StyleAttribute 43 {{name "errorMessagePosition"} {value "popup"}} {}}}} {Style 44 {{name "Window.naked"}} {{StyleAttribute 45 {{name "windowType"} {value "modal"}} {}} {StyleAttribute 46 {{name "border"} {value "tool"}} {}} {StyleAttribute 47 {{name "actionPanelPosition"} {value "none"}} {}} {StyleAttribute 48 {{name "ringMenuPosition"} {value "none"}} {}} {StyleAttribute 49 {{name "toolBarPosition"} {value "none"}} {}} {StyleAttribute 50 {{name "statusBarType"} {value "none"}} {}}}} {Style 51 {{name "Window.viewer"}} {{StyleAttribute 52 {{name "windowType"} {value "modal"}} {}} {StyleAttribute 53 {{name "windowSystemMenu"} {value "yes"}} {}} {StyleAttribute 54 {{name "windowOptionMinimize"} {value "no"}} {}} {StyleAttribute 55 {{name "windowOptionMaximize"} {value "no"}} {}} {StyleAttribute 56 {{name "sizable"} {value "yes"}} {}} {StyleAttribute 57 {{name "actionPanelPosition"} {value "none"}} {}} {StyleAttribute 58 {{name "ringMenuPosition"} {value "none"}} {}} {StyleAttribute 59 {{name "toolBarPosition"} {value "none"}} {}} {StyleAttribute 60 {{name "statusBarType"} {value "none"}} {}}}}}} {ActionDefaultList 61 {} {{ActionDefault 70 {{name "interrupt"} {text "Interrupt"} {contextMenu "no"}} {}} {ActionDefault 78 {{name "editcopy"} {text "Copy"} {image "font:FontAwesome.ttf:f0c5"} {comment "Copy"} {acceleratorName "Control-C"} {contextMenu "no"}} {}} {ActionDefault 79 {{name "editcut"} {text "Cut"} {image "font:FontAwesome.ttf:f0c4"} {comment "Cut"} {acceleratorName "Control-X"} {contextMenu "no"}} {}} {ActionDefault 80 {{name "editpaste"} {text "Paste"} {image "font:FontAwesome.ttf:f0ea"} {comment "Paste"} {acceleratorName "Control-V"} {contextMenu "no"}} {}} {ActionDefault 81 {{name "nextfield"} {text "Next Field"} {acceleratorName "Tab"} {contextMenu "no"}} {}} {ActionDefault 82 {{name "prevfield"} {text "Previous Field"} {acceleratorName "Shift-Tab"} {contextMenu "no"}} {}} {ActionDefault 87 {{name "nextpage"} {text "Next Page"} {acceleratorName "Next"} {contextMenu "no"}} {}} {ActionDefault 88 {{name "prevpage"} {text "Previous Page"} {acceleratorName "Prior"} {contextMenu "no"}} {}} {ActionDefault 89 {{name "nexttab"} {text "Next Folder Tab"} {acceleratorName "Control-Tab"} {contextMenu "no"}} {}} {ActionDefault 90 {{name "prevtab"} {text "Previous Folder Tab"} {acceleratorName "Control-Shift-Tab"} {contextMenu "no"}} {}}}} {ImageFonts 92 {} {{ImageFont 93 {{name "FontAwesome.ttf"} {href "http://10.40.41.147:80/wtopprd/ua/ft/e4b368a23dd873c13938b25f49b96e68/fgl-files/184101/FontAwesome.ttf?t=1725984344;s=165548;charset=UTF-8"}} {}}}} {Window 94 {{name "screen"} {commentLine "-2"} {commentLineHidden "0"} {formLine "2"} {messageLine "1"} {menuLine "0"} {promptLine "0"} {errorLine "-1"} {posX "0"} {posY "0"} {width "80"} {height "25"} {style "main"}} {{Form 95 {{name "PagedDAForm"} {width "43"} {height "7"} {formLine "2"}} {{Grid 96 {} {{Table 97 {{gridWidth "43"} {gridHeight "7"} {pageSize "6"} {tabName "srec"} {bufferSize "6"} {multiRowSelection "0"} {offset "0"} {sortColumn "-1"} {sortType ""} {size "12"} {currentRow "0"} {focusOnField "0"} {dialogType "DisplayArray"} {canDrag "0"} {canDrop "0"} {active "1"} {actionActive "1"} {actionIdRef "130"}} {{TableColumn 98 {{text "Id"} {name "formonly.num"} {colName "num"} {fieldId "0"} {tabIndex "1"} {numAlign "1"} {varType "INTEGER"} {tabIndexRt "1"} {active "1"} {dialogType "DisplayArray"}} {{Edit 99 {{width "8"}} {}} {ValueList 108 {} {{Value 109 {{value "1"}} {}} {Value 110 {{value "2"}} {}} {Value 111 {{value "3"}} {}} {Value 112 {{value "4"}} {}} {Value 113 {{value "5"}} {}} {Value 114 {{value "6"}} {}}}}}} {TableColumn 100 {{text "Name"} {name "formonly.name"} {colName "name"} {fieldId "1"} {tabIndex "2"} {numAlign "0"} {varType "VARCHAR(30)"} {tabIndexRt "2"} {active "1"} {dialogType "DisplayArray"}} {{Edit 101 {{width "12"}} {}} {ValueList 115 {} {{Value 116 {{value "Item1"}} {}} {Value 117 {{value "Item2"}} {}} {Value 118 {{value "Item3"}} {}} {Value 119 {{value "Item4"}} {}} {Value 120 {{value "Item5"}} {}} {Value 121 {{value "Item6"}} {}}}}}} {TableColumn 102 {{text "Address"} {name "formonly.comment"} {colName "comment"} {fieldId "2"} {tabIndex "3"} {numAlign "0"} {varType "VARCHAR(100)"} {tabIndexRt "3"} {active "1"} {dialogType "DisplayArray"}} {{Edit 103 {{width "19"}} {}} {ValueList 122 {} {{Value 123 {{value "Comment1"}} {}} {Value 124 {{value "Comment2"}} {}} {Value 125 {{value "Comment3"}} {}} {Value 126 {{value "Comment4"}} {}} {Value 127 {{value "Comment5"}} {}} {Value 128 {{value "Comment6"}} {}}}}}}}}}}}} {Dialog 129 {{active "1"}} {{Action 130 {{name "srec.accept"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 131 {{name "accept"} {text "OK"} {acceleratorName "Return"} {acceleratorName2 "Enter"} {contextMenu "no"} {active "1"} {hidden "0"} {defaultView "yes"}} {}} {Action 132 {{name "srec.cancel"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 133 {{name "cancel"} {text "Cancel"} {acceleratorName "Escape"} {contextMenu "no"} {active "1"} {hidden "0"} {defaultView "yes"}} {}} {Action 134 {{name "srec.close"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 135 {{name "close"} {text "Close"} {acceleratorName "Alt-F4"} {defaultView "no"} {contextMenu "no"} {hidden "1"} {active "1"}} {}} {Action 136 {{name "srec.firstrow"} {defaultView "no"} {active "0"} {hidden "1"}} {}} {Action 137 {{name "firstrow"} {text "First"} {image "font:FontAwesome.ttf:f048"} {acceleratorName "Home"} {contextMenu "no"} {defaultView "no"} {active "0"} {hidden "0"}} {}} {Action 138 {{name "srec.prevrow"} {defaultView "no"} {active "0"} {hidden "1"}} {}} {Action 139 {{name "prevrow"} {text "Previous"} {image "font:FontAwesome.ttf:f04a"} {acceleratorName "Up"} {contextMenu "no"} {defaultView "no"} {active "0"} {hidden "0"}} {}} {Action 140 {{name "srec.nextrow"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 141 {{name "nextrow"} {text "Next"} {image "font:FontAwesome.ttf:f04e"} {acceleratorName "Down"} {contextMenu "no"} {defaultView "no"} {active "1"} {hidden "0"}} {}} {Action 142 {{name "srec.lastrow"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 143 {{name "lastrow"} {text "Last"} {image "font:FontAwesome.ttf:f051"} {acceleratorName "End"} {contextMenu "no"} {defaultView "no"} {active "1"} {hidden "0"}} {}} {Action 144 {{name "srec.editcopy"} {defaultView "no"} {active "1"} {hidden "1"}} {}} {Action 145 {{name "editcopy"} {text "Copy"} {image "font:FontAwesome.ttf:f0c5"} {comment "Copy"} {acceleratorName "Control-C"} {contextMenu "no"} {defaultView "no"} {active "1"} {hidden "0"}} {}}}}}}}}}
+16:COMMENT:2:[Internal] Request file: 'http://10.40.41.147:80/wtopprd/ua/ft/e4b368a23dd873c13938b25f49b96e68/fgl-files/184101/FontAwesome.ttf?t=1725984344;s=165548;charset=UTF-8'
+16:COMMENT:21:PingManager: Restart Ping, timeout=145000
+16:COMMENT:93:ControllerUI::flush(): try to send data.CanSend = 1 ; runtimeStatus = interactive ; m_EventsOrder.count=1 ([97:2]); m_FunctionCallReturn.isNull=1 ; m_KeyEvents.count = 0 ()
+16:FE:93:event _om 0{}{{ConfigureEvent 0{{idRef "97"}{ pageSize "6"}{ bufferSize "7"}}}}
+16:HTTP:93:*** DATE[2025-01-09 16:20:40.366]
+16:HTTP:93:*** FUNCTION[postRequest]
+16:HTTP:93:*** SENDING REQUEST[6000023F8D20]
+16:HTTP:93:*** BUFFER[event _om 0{}{{ConfigureEvent 0{{idRef "97"}{ pageSize "6"}{ bufferSize "7"}}}}\n]
+16:HTTP:93:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=1&pageId=3]
+16:HTTP:99:*** DATE[2025-01-09 16:20:40.370]
+16:HTTP:99:*** FUNCTION[finishedHandler]
+16:HTTP:99:*** REQ FINISHED[6000023F8D20]
+16:HTTP:99:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=1&pageId=3]
+16:HTTP:99:*** DATE[2025-01-09 16:20:40.370]
+16:HTTP:99:*** FUNCTION[handleDVMData]
+16:HTTP:99:*** REQ[6000023F8D20]
+16:DVM:99:om 1 {{an 108 Value 148 {{value "7"}} {}} {an 115 Value 149 {{value "Item7"}} {}} {an 122 Value 150 {{value "Comment7"}} {}} {un 97 {{bufferSize "7"} {size "13"}}}}
+16:COMMENT:0:PingManager: Restart Ping, timeout=145000
+16:COMMENT:1175:ControllerUI::flush(): try to send data.CanSend = 1 ; runtimeStatus = interactive ; m_EventsOrder.count=1 ([131:1]); m_FunctionCallReturn.isNull=1 ; m_KeyEvents.count = 0 ()
+16:FE:1176:event _om 1{}{{ActionEvent 0{{idRef "131"}}}}
+16:HTTP:1176:*** DATE[2025-01-09 16:20:41.549]
+16:HTTP:1176:*** FUNCTION[postRequest]
+16:HTTP:1176:*** SENDING REQUEST[6000023FBBE0]
+16:HTTP:1176:*** BUFFER[event _om 1{}{{ActionEvent 0{{idRef "131"}}}}\n]
+16:HTTP:1176:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=1&pageId=4]
+16:HTTP:1183:*** DATE[2025-01-09 16:20:41.555]
+16:HTTP:1183:*** FUNCTION[finishedHandler]
+16:HTTP:1183:*** REQ FINISHED[6000023FBBE0]
+16:HTTP:1183:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=1&pageId=4]
+16:HTTP:1183:*** DATE[2025-01-09 16:20:41.556]
+16:HTTP:1183:*** FUNCTION[handleDVMData]
+16:HTTP:1183:*** REQ[6000023FBBE0]
+16:DVM:1183:om 2 {{rn 0}}
+16:COMMENT:0:PingManager: Restart Ping, timeout=145000
+16:HTTP:0:*** DATE[2025-01-09 16:20:41.556]
+16:HTTP:0:*** FUNCTION[postRequest]
+16:HTTP:0:*** SENDING REQUEST[6000023E3410]
+16:HTTP:0:*** BUFFER[]
+16:HTTP:0:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=1&pageId=5]
+16:HTTP:7:*** DATE[2025-01-09 16:20:41.560]
+16:HTTP:7:*** FUNCTION[finishedHandler]
+16:HTTP:7:*** REQ FINISHED[6000023E3410]
+16:HTTP:7:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=1&pageId=5]
+16:HTTP:7:*** DATE[2025-01-09 16:20:41.560]
+16:HTTP:7:*** FUNCTION[parseHeaders]
+16:HTTP:7:*** HEADER CLOSE
+16:HTTP:7:*** DATE[2025-01-09 16:20:41.560]
+16:HTTP:7:*** FUNCTION[endConnection]
+16:HTTP:7:*** END CONNECTION
+16:COMMENT:7:end of connection
+15:COMMENT:732:ControllerUI::flush(): try to send data.CanSend = 1 ; runtimeStatus = interactive ; m_EventsOrder.count=1 ([160:1]); m_FunctionCallReturn.isNull=1 ; m_KeyEvents.count = 0 ()
+15:FE:732:event _om 10{}{{ActionEvent 0{{idRef "160"}}}}
+15:HTTP:732:*** DATE[2025-01-09 16:20:42.288]
+15:HTTP:732:*** FUNCTION[postRequest]
+15:HTTP:732:*** SENDING REQUEST[60000237D280]
+15:HTTP:732:*** BUFFER[event _om 10{}{{ActionEvent 0{{idRef "160"}}}}\n]
+15:HTTP:732:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=13]
+15:HTTP:739:*** DATE[2025-01-09 16:20:42.295]
+15:HTTP:739:*** FUNCTION[finishedHandler]
+15:HTTP:739:*** REQ FINISHED[60000237D280]
+15:HTTP:739:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=13]
+15:HTTP:739:*** DATE[2025-01-09 16:20:42.296]
+15:HTTP:739:*** FUNCTION[handleDVMData]
+15:HTTP:739:*** REQ[60000237D280]
+15:DVM:739:om 13 {{rn 0}}
+15:COMMENT:0:PingManager: Restart Ping, timeout=145000
+15:HTTP:0:*** DATE[2025-01-09 16:20:42.296]
+15:HTTP:0:*** FUNCTION[postRequest]
+15:HTTP:0:*** SENDING REQUEST[600002393560]
+15:HTTP:0:*** BUFFER[]
+15:HTTP:0:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=14]
+15:HTTP:8:*** DATE[2025-01-09 16:20:42.301]
+15:HTTP:8:*** FUNCTION[finishedHandler]
+15:HTTP:8:*** REQ FINISHED[600002393560]
+15:HTTP:8:*** URL[http://@10.40.41.147/wtopprd/ua/sua/e4b368a23dd873c13938b25f49b96e68?appId=0&pageId=14]
+15:HTTP:8:*** DATE[2025-01-09 16:20:42.301]
+15:HTTP:8:*** FUNCTION[parseHeaders]
+15:HTTP:8:*** HEADER SESSION CLOSE
+15:HTTP:8:*** DATE[2025-01-09 16:20:42.301]
+15:HTTP:8:*** FUNCTION[parseHeaders]
+15:HTTP:8:*** HEADER CLOSE
+15:HTTP:8:*** DATE[2025-01-09 16:20:42.301]
+15:HTTP:8:*** FUNCTION[endConnection]
+15:HTTP:8:*** END CONNECTION
+15:COMMENT:8:end of connection
